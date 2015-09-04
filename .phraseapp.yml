@@ -1,0 +1,11 @@
+phraseapp:
+  project_id: f570afb6c855f5724f2f5186d4992deb
+  file_format: yml
+
+  push:
+    sources:
+      -
+        file: /locales/**/*.yml
+        params:
+          file_format: "yml"
+          update_translations: true
