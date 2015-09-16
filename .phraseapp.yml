@@ -9,3 +9,9 @@ phraseapp:
         params:
           file_format: "yml"
           update_translations: true
+  pull:
+    targets:
+      - 
+        file: "./locales/<locale_name>.yml"
+        params:
+          file_format: "yml"
