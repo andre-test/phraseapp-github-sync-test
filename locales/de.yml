@@ -201,3 +201,4 @@ de:
       long: "%A, %d. %B %Y, %H:%M Uhr"
       short: "%d. %B, %H:%M Uhr"
     pm: nachmittags
+  user_profile_total_wealth: Totale Hölle
