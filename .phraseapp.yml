@@ -9,7 +9,8 @@ phraseapp:
         params:
           file_format: "yml"
           update_translations: true
-      - file: /locales/foo/chinese_prc.json
+      - 
+        file: /locales/foo/chinese_prc.json
         params:
           file_format: "nested_json"
           locale_id: cf74c73c62b3090516325cd927e123b3
