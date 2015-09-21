@@ -172,6 +172,10 @@ de:
           Deccription: xcvxcyv
         SmallChanges:
           Name: sdsd
+      CardsHeader:
+        ContributingCard: sdvs
+      CardsHeadlines:
+        Header2: asd
   helpers:
     select:
       prompt: Bitte wählen
