@@ -153,6 +153,10 @@ de:
           Name: sadsd
         Thrive:
           Deccription: sdvs
+        VisitANeighbor:
+          Name: edew
+        WorkTogether:
+          Name: wefew
   helpers:
     select:
       prompt: Bitte wählen
