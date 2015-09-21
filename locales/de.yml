@@ -157,6 +157,11 @@ de:
           Name: edew
         WorkTogether:
           Name: wefew
+      CardsEdited18:
+        CANApproach:
+          Deccription: sdavsd
+        FadDiets:
+          Name: asdvsd
   helpers:
     select:
       prompt: Bitte wählen
