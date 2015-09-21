@@ -56,10 +56,10 @@ de:
   datetime:
     distance_in_words:
       about_x_hours:
-        one: vor etwa einer Stunde
+        one: vor etwa einer Stunden
         other: vor etwa %{count} Stunden
       about_x_months:
-        one: vor etwa einem Monat
+        one: vor etwa einem Monats
         other: vor etwa %{count} Monaten
       about_x_years:
         one: vor etwa einem Jahr
