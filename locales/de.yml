@@ -162,6 +162,10 @@ de:
           Deccription: sdavsd
         FadDiets:
           Name: asdvsd
+        FruitBowl:
+          Deccription: sdvsdv
+        Hypertension:
+          Name: sdvfv
   helpers:
     select:
       prompt: Bitte wählen
