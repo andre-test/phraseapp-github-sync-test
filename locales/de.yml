@@ -136,6 +136,27 @@ de:
       header:
         one: 'Konnte %{model} nicht speichern: ein Fehler.'
         other: 'Konnte %{model} nicht speichern: %{count} Fehler.'
+  Genesis:
+    AdminContent:
+      CardsEdited16:
+        MakeAConnection:
+          Name: sdvsdva
+        NoDevicesAtDinner:
+          Deccription: avsvs
+        Protein&Productivity:
+          Name: avsdvsd
+        RestYourBrain:
+          Deccription: afwef
+        SandwichSwaps:
+          Deccription: ewfwef
+        SpiceItUp:
+          Name: sadsd
+        Thrive:
+          Deccription: sdvs
+        VisitANeighbor:
+          Name: edew
+        WorkTogether:
+          Name: wefew
   helpers:
     select:
       prompt: Bitte wählen
@@ -202,3 +223,11 @@ de:
       short: "%d. %B, %H:%M Uhr"
     pm: nachmittags
   user_profile_total_wealth: Totale Hölle
+  Vieques:
+    Groups:
+      ACTIVITY: heloo <%PLACEHOLDER%> <%L:PLACEHOLDER%> <%C:PLACEHOLDER%>
+      BackToGroups: wefewfew
+      BecameAdminError: afeferqg
+      Category: ewegwerg
+      deleting: aewfewf
+      EmptyListOfMembers: aeferf
