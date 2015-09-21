@@ -170,6 +170,8 @@ de:
           Deccription: xcvxc
         SecretOfSuccess:
           Deccription: xcvxcyv
+        SmallChanges:
+          Name: sdsd
   helpers:
     select:
       prompt: Bitte wählen
