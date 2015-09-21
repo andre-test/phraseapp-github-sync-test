@@ -136,6 +136,15 @@ de:
       header:
         one: 'Konnte %{model} nicht speichern: ein Fehler.'
         other: 'Konnte %{model} nicht speichern: %{count} Fehler.'
+  Genesis:
+    AdminContent:
+      CardsEdited16:
+        MakeAConnection:
+          Name: sdvsdva
+        NoDevicesAtDinner:
+          Deccription: avsvs
+        Protein&Productivity:
+          Name: avsdvsd
   helpers:
     select:
       prompt: Bitte wählen
