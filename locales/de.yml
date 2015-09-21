@@ -202,3 +202,9 @@ de:
       short: "%d. %B, %H:%M Uhr"
     pm: nachmittags
   user_profile_total_wealth: Totale Hölle
+  Vieques:
+    Groups:
+      ACTIVITY: heloo <%PLACEHOLDER%> <%L:PLACEHOLDER%> <%C:PLACEHOLDER%>
+      BackToGroups: wefewfew
+      BecameAdminError: afeferqg
+      Category: ewegwerg
