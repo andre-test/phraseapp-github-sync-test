@@ -5,7 +5,7 @@ phraseapp:
   push:
     sources:
       -
-        file: /locales/**/*.yml
+        file: /locales/*.yml
         params:
           file_format: "yml"
           update_translations: true
