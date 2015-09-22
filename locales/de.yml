@@ -55,8 +55,8 @@ de:
     - :year
   datetime:
     distance_in_words:
-      my_key: test test
-      other_key: more test test
+      my_key: test testsadfds
+      other_key: more test testasDW
       super_key: crazy testersdfe
       great: test
       about_x_hours:
