@@ -1,7 +1,7 @@
 ---
 en:
   big_test: test
-  bigger_test: biggie
+  bigger_test: biggie bigger
   about_screen_secure_by: 'total Secured by:'
   about_screen_sentiment_analysis_by: 'Sentiment analysis by:'
   about_screen_text_processing_by: 'Text processing by:'
