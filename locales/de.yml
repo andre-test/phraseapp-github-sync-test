@@ -57,7 +57,7 @@ de:
     distance_in_words:
       my_key: test test
       other_key: more test test
-      super_key: crazy
+      super_key: crazy tester
       about_x_hours:
         one: vor etwa einer Stunden
         other: vor etwa %{count} Stunden

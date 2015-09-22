@@ -1,7 +1,8 @@
 ---
 en:
   big_test: test
-  about_screen_secure_by: 'Secured by:'
+  bigger_test: biggie
+  about_screen_secure_by: 'total Secured by:'
   about_screen_sentiment_analysis_by: 'Sentiment analysis by:'
   about_screen_text_processing_by: 'Text processing by:'
   account_already_linked: Linked
