@@ -1203,6 +1203,7 @@ chinese:
       AndDontForgetYouGet: "别忘了，你可以： "
       JoinTheProgramJoinATeamJoinTheFun: "加入计划，加入团队，加入快乐！"
       'PlusYouGet ': "此外，您获得 "
+      PlusYouGet: "此外，您获得 "
       YourCompanyIsOfferingYou AnEngaging: "您的公司将为您提供一个诱人且免费的计划，帮助您达到健康目标并在此过程中赢取奖励。它简单、有趣，是激发（或保持！）您合理饮食、改善睡眠、加强锻炼、控制压力，以及更多举动的好办法！"
   FF:
     InvitationAccepted: "邀请已接受"
@@ -4712,6 +4713,8 @@ chinese:
   Genesis.Welcome.FollowTheseSimpleStepsToGetYourselfSetup.: "按这些简单的步骤操作即可让自己做好准备。"
   Genesis.wellBeing.InviteYourPartnerToJoinYouOnYourWellnessJourneyWithVirginPulse.: "通过
     Virgin Pulse 邀请你的搭档和你一起参加你的健康之旅。"
+  "Genesis\x01AdminContent\x01OnboardingItems\x01CheckOutDevicesPage\x01": "查看设备页面。"
+  "Genesis\x01AdminContent\x01OnboardingItems\x01GetsCrossedOffWhenAnyCardIsCompleted\x01": "当任意卡片完成时划掉它"
   GenesisEcommerce:
     MissingKeys:
       ShippingInfo:
@@ -4905,6 +4908,9 @@ chinese:
           ProductCompareName: "名字"
       ShoppingCart:
         SKU: Sku
+  "Genesis\x01Welcome\x01FollowTheseSimpleStepsToGetYourselfSetup\x01": "按这些简单的步骤操作即可让自己做好准备。"
+  "Genesis\x01wellBeing\x01InviteYourPartnerToJoinYouOnYourWellnessJourneyWithVirginPulse\x01": "通过
+    Virgin Pulse 邀请你的搭档和你一起参加你的健康之旅。"
   GlobalLabels:
     Day: "天"
     Days: "天"
@@ -5939,6 +5945,7 @@ chinese:
             ChallengeCreator: "挑战发起机"
             Pending: "待定"
   Vieques.Genesis.Challenges.StageContentWillUnlockOnceTheChallengeBegins.: "开始挑战就能解锁关卡内容。"
+  "Vieques\x01Genesis\x01Challenges\x01StageContentWillUnlockOnceTheChallengeBegins\x01": "开始挑战就能解锁关卡内容。"
   ViewYourRewards: "查看您每个级别的奖励"
   Viques:
     Genesis:

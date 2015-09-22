@@ -157,6 +157,25 @@ de:
           Name: edew
         WorkTogether:
           Name: wefew
+      CardsEdited18:
+        CANApproach:
+          Deccription: sdavsd
+        FadDiets:
+          Name: asdvsd
+        FruitBowl:
+          Deccription: sdvsdv
+        Hypertension:
+          Name: sdvfv
+        OutOnALimb:
+          Deccription: xcvxc
+        SecretOfSuccess:
+          Deccription: xcvxcyv
+        SmallChanges:
+          Name: sdsd
+      CardsHeader:
+        ContributingCard: sdvs
+      CardsHeadlines:
+        Header2: asd
   helpers:
     select:
       prompt: Bitte wählen
@@ -226,8 +245,9 @@ de:
   Vieques:
     Groups:
       ACTIVITY: heloo <%PLACEHOLDER%> <%L:PLACEHOLDER%> <%C:PLACEHOLDER%>
-      BackToGroups: wefewfew
+      BackToGroups: wefewfewasdfsdc
       BecameAdminError: afeferqg
       Category: ewegwerg
       deleting: aewfewf
       EmptyListOfMembers: aeferf
+      Groups: afew
