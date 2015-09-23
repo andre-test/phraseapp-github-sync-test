@@ -56,10 +56,10 @@ de:
   datetime:
     distance_in_words:
       about_x_hours:
-        one: vor etwa einer Stunden
+        one: vor etwa einer Stunde
         other: vor etwa %{count} Stunden
       about_x_months:
-        one: vor etwa einem Monats
+        one: vor etwa einem Monat
         other: vor etwa %{count} Monaten
       about_x_years:
         one: vor etwa einem Jahr
@@ -67,6 +67,7 @@ de:
       almost_x_years:
         one: vor fast einem Jahr
         other: vor fast %{count} Jahren
+      great: test
       half_a_minute: vor einer halben Minute
       less_than_x_minutes:
         one: vor weniger als einer Minute
@@ -74,9 +75,12 @@ de:
       less_than_x_seconds:
         one: vor weniger als eine Sekunde
         other: vor weniger als %{count} Sekunden
+      my_key: test testsadfds
+      other_key: more test testasDWxcvxcwefewfwefwrwerwer
       over_x_years:
         one: vor mehr als einem Jahr
         other: vor mehr als %{count} Jahren
+      super_key: crazy testersdfe
       x_days:
         one: vor einem Tag
         other: vor %{count} Tagen
@@ -112,8 +116,8 @@ de:
       invalid: ist nicht gültig
       less_than: muss kleiner als %{count} sein
       less_than_or_equal_to: muss kleiner oder gleich %{count} sein
-      not_a_number: ist keine Zahl
       not_an_integer: muss ganzzahlig sein
+      not_a_number: ist keine Zahl
       odd: muss ungerade sein
       other_than: darf nicht gleich %{count} sein
       present: darf nicht ausgefüllt werden
