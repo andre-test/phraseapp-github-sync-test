@@ -9,6 +9,12 @@ phraseapp:
         params:
           file_format: "yml"
           update_translations: true
+      -
+        file: /locales/*.yml
+        params:
+          file_format: "yml"
+          update_translations: true
+          project_id: 566d8d8a361cfb80b0f2fed4dead2c5d
       - 
         file: /locales/foo/chinese_prc.json
         params:
@@ -20,3 +26,8 @@ phraseapp:
         file: "./locales/<locale_name>.yml"
         params:
           file_format: "yml"
+      - 
+        file: "./locales/<locale_name>.yml"
+        params:
+          file_format: "yml"
+          project_id: 566d8d8a361cfb80b0f2fed4dead2c5d
