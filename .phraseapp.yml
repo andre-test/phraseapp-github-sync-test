@@ -1,22 +1,14 @@
 phraseapp:
-  project_id: 566d8d8a361cfb80b0f2fed4dead2c5d
+  access_token: 123456
+  project_id: f570afb6c855f5724f2f5186d4992deb
   file_format: yml
-
   push:
     sources:
-      -
-        file: /locales/*.yml
-        params:
-          file_format: "yml"
-          update_translations: true
-      - 
-        file: /locales/foo/chinese_prc.json
-        params:
-          file_format: "nested_json"
-          locale_id: cf74c73c62b3090516325cd927e123b3
+    - file: ./locales/<locale_name>.yml
+      params:
+        file_format: yml
   pull:
     targets:
-      - 
-        file: "./locales/<locale_name>.yml"
-        params:
-          file_format: "yml"
+    - file: ./locales/<locale_name>.yml
+      params:
+        file_format: yml
