@@ -1,28 +1,28 @@
 ---
 en:
-  about_screen_secure_by: 'Secured by:'
+  about_screen_secure_by: 'total Secured by:'
   about_screen_sentiment_analysis_by: 'Sentiment analysis by:'
   about_screen_text_processing_by: 'Text processing by:'
   account_already_linked: Linked
   account_already_linked_message: This account is already linked with another TradeHero
     account.\nTry using another one
   account_already_linked_title: Already linked
+  achievements: Achievements
   achievement_level_up: LEVEL UP!
   achievement_share: Share!
-  achievement_share_failed: Failed, try again?
   achievement_shared: "@string/content_shared"
+  achievement_share_failed: Failed, try again?
   achievement_sharing: Sharing…
   achievement_xp_earned_format: "+%s XP!"
-  achievements: Achievements
   action_exchange: Exchange
   action_invite: Invite Friends
   action_menu_about: About
   action_search: Search
   active_fx_now: Activate FX Now!
-  add_a_comment: Add a comment…
   address_less_than_1_year: Less than 1 year at this address?
   address_line_1: Address Line 1
   address_line_2: Address Line 2
+  add_a_comment: Add a comment…
   admin_setting: Admin Settings
   admin_setting_user_info: "[%s] (%d)"
   alert_dialog_buy_sell_order_null_cancel: Okay
@@ -84,13 +84,13 @@ en:
   annual_income_less_than_15_k_usd: Less than US$ 15,000
   annual_income_more_than_100_k_usd: More than US$ 100,000
   any_passport: Passport\n(Any Country)
-  app_name: TradeHero
-  app_name_dev: TradeHeroDev
   apprate: Rate me
   apprate_dialog_title: Rate TradeHero
   apprate_later: Remind me later
   apprate_message: Rate our apps
   apprate_no_thanks: No thanks
+  app_name: TradeHero
+  app_name_dev: TradeHeroDev
   arrow_prefix_negative: "▼"
   arrow_prefix_positive: "▲"
   ask_for_invite: Invite Friends Now !
@@ -120,8 +120,8 @@ en:
   authentication_forgot_password_email: Email
   authentication_guarantee: 'We respect your privacy: we will never post to your feeds
     without your express permission.'
-  authentication_log_in_alternative: 'Or login with:'
   authentication_login: Login
+  authentication_log_in_alternative: 'Or login with:'
   authentication_not_registered: You need to go back and sign up
   authentication_password: "*Password"
   authentication_register: Register
@@ -146,6 +146,8 @@ en:
   back: Back
   basic_information: Basic Info
   best_roi: 'ROI:'
+  bigger_test: biggie biggerefewf
+  big_test: test
   broadcast_error: Send message error
   broadcast_message_action_send: Send
   broadcast_message_change_type_hint: Choose follower to send message
@@ -208,9 +210,9 @@ en:
   buy_sell_quantity: Quantity
   buy_sell_sell_loss: 'Loss: %s'
   buy_sell_sell_profit: 'Profit: %s'
+  buy_sell_shares_title: 'Shares:'
   buy_sell_share_available: Shares Avail.
   buy_sell_share_left: Shares Left
-  buy_sell_shares_title: 'Shares:'
   buy_sell_switch_buy: Buy
   buy_sell_switch_sell: Sell
   buy_sell_toggle: Toggle Buy/Sell mode
@@ -225,8 +227,8 @@ en:
   coming_soon: Coming soon!
   comment: Comment
   common_loading_error: Sorry, there is something wrong
-  competition_e_toro_portfolio_title: eToro
   competition_enrollment_web_view_done: Done
+  competition_e_toro_portfolio_title: eToro
   competition_help_video_title: Academy - %1$s
   competition_leaderboard_timer_days: DAYS
   competition_leaderboard_timer_time_left_1: TIME
@@ -267,14 +269,14 @@ en:
   dashboard_store: Store
   dashboard_timeline: Timeline
   dashboard_trending: Trade
-  data_format_d_mmm_yyyy: d MMM yyyy
-  data_format_d_mmm_yyyy_hh_mm: d MMM yyyy HH:mm
-  data_format_d_mmm_yyyy_kk_mm: 'Update time: d MMM yyyy kk'
   data_format_dd_mmm: dd MMM
   data_format_dd_mmm_hh_mm: dd MMM HH:mm
   data_format_dd_mmm_yyyy: dd MMM yyyy
   data_format_dd_mmm_yyyy_hh_mm: dd MMM yyyy HH:mm
   data_format_dd_mmm_yyyy_kk_mm_z: dd MMM yyyy kk:mm z
+  data_format_d_mmm_yyyy: d MMM yyyy
+  data_format_d_mmm_yyyy_hh_mm: d MMM yyyy HH:mm
+  data_format_d_mmm_yyyy_kk_mm: 'Update time: d MMM yyyy kk'
   data_format_yyyy_mm_dd_hh_mm_ss: yyyy-MM-dd'T'HH:mm:ss'Z'
   date:
     abbr_day_names:
@@ -329,7 +331,6 @@ en:
     - :year
     - :month
     - :day
-  date_of_birth: Date of Birth
   datetime:
     distance_in_words:
       about_x_hours:
@@ -373,6 +374,7 @@ en:
       month: Month
       second: Seconds
       year: Year
+  date_of_birth: Date of Birth
   device_no_camera: Unable to detect any camera.
   discovery: Discover
   discovery_discussions: Discussions
@@ -412,6 +414,45 @@ en:
   enter_code: Enter Code
   enter_manually: None, I'll enter manually.
   error: Error
+  errors:
+    format: "%{attribute} %{message}"
+    messages:
+      accepted: must be accepted
+      blank: can't be blank
+      confirmation: doesn't match %{attribute}
+      empty: can't be empty
+      equal_to: must be equal to %{count}
+      even: must be even
+      exclusion: is reserved
+      greater_than: must be greater than %{count}
+      greater_than_or_equal_to: must be greater than or equal to %{count}
+      inclusion: is not included in the list
+      invalid: is invalid
+      less_than: must be less than %{count}
+      less_than_or_equal_to: must be less than or equal to %{count}
+      not_an_integer: must be an integer
+      not_a_number: is not a number
+      odd: must be odd
+      other_than: must be other than %{count}
+      present: must be blank
+      record_invalid: 'Validation failed: %{errors}'
+      restrict_dependent_destroy:
+        one: Cannot delete record because a dependent %{record} exists
+      taken: has already been taken
+      too_long:
+        one: is too long (maximum is 1 character)
+        other: is too long (maximum is %{count} characters)
+      too_short:
+        one: is too short (minimum is 1 character)
+        other: is too short (minimum is %{count} characters)
+      wrong_length:
+        one: is the wrong length (should be 1 character)
+        other: is the wrong length (should be %{count} characters)
+    template:
+      body: 'There were problems with the following fields:'
+      header:
+        one: 1 error prohibited this %{model} from being saved
+        other: "%{count} errors prohibited this %{model} from being saved"
   error_alert_insufficient_info: There is insufficient information to submit the alert
   error_alert_save_inactive: We cannot save an inactive alert
   error_alert_target_price_invalid: Target price cannot be zero.
@@ -493,45 +534,6 @@ en:
   error_share_referral_code_on_network: Sharing on social network(s) failed
   error_unknown: A surprising error has occurred. Try again.
   error_update_your_user_profile: There was an error when updating your profile information
-  errors:
-    format: "%{attribute} %{message}"
-    messages:
-      accepted: must be accepted
-      blank: can't be blank
-      confirmation: doesn't match %{attribute}
-      empty: can't be empty
-      equal_to: must be equal to %{count}
-      even: must be even
-      exclusion: is reserved
-      greater_than: must be greater than %{count}
-      greater_than_or_equal_to: must be greater than or equal to %{count}
-      inclusion: is not included in the list
-      invalid: is invalid
-      less_than: must be less than %{count}
-      less_than_or_equal_to: must be less than or equal to %{count}
-      not_a_number: is not a number
-      not_an_integer: must be an integer
-      odd: must be odd
-      other_than: must be other than %{count}
-      present: must be blank
-      record_invalid: 'Validation failed: %{errors}'
-      restrict_dependent_destroy:
-        one: Cannot delete record because a dependent %{record} exists
-      taken: has already been taken
-      too_long:
-        one: is too long (maximum is 1 character)
-        other: is too long (maximum is %{count} characters)
-      too_short:
-        one: is too short (minimum is 1 character)
-        other: is too short (minimum is %{count} characters)
-      wrong_length:
-        one: is the wrong length (should be 1 character)
-        other: is the wrong length (should be %{count} characters)
-    template:
-      body: 'There were problems with the following fields:'
-      header:
-        one: 1 error prohibited this %{model} from being saved
-        other: "%{count} errors prohibited this %{model} from being saved"
   exchange_market_cap_abbreviated: 'Mkt Cap: %s'
   exchange_top_stocks_header: 'Top Stocks:'
   exit_app: Exit app
@@ -551,8 +553,6 @@ en:
   facebook_register: Register with Facebook
   fast_fill_not_available: Fast Fill is not available
   follow: Follow
-  follow_all: Follow All
-  follow_friend_request_error: Request error
   follower_empty_list_call_action: Trade well to make profits and build your follower
     base.
   follower_empty_list_title: No One Is Following You.
@@ -564,6 +564,8 @@ en:
   following: Following
   following_premium: Following\n(Premium)
   following_this_hero: Following this hero…
+  follow_all: Follow All
+  follow_friend_request_error: Request error
   forgot_email_incorrect_input_email: You must provide a proper email id.
   free_follow_content1: 'Upgrade to Premium follow for US$1.99/month and get the following
     perks:'
@@ -573,11 +575,11 @@ en:
     private messaging
   free_follow_title: You are now following
   free_message_left: "%1$s free message left"
+  friends_can_be_follow: "%s friends can be followed"
+  friends_can_be_invite: "%s friends can be invited"
   friend_link_social_network: Please Link Social Network.
   friend_list_update_message: Give some time to our server to update your friends
     list, and come back in a minute
-  friends_can_be_follow: "%s friends can be followed"
-  friends_can_be_invite: "%s friends can be invited"
   fx: FX
   fx_buy: BUY @\n%1$s
   fx_chart_15min: 15m
@@ -598,7 +600,6 @@ en:
     to prepare you before diving into Forex. Happy trading!
   fx_sell: SELL @\n%1$s
   global_news: Global News
-  go_live_span: Go %1$s !
   google_play_billing_already_owned_cancel: Never Mind
   google_play_billing_already_owned_ok: Sure
   google_play_billing_already_owned_window_description: |-
@@ -669,12 +670,13 @@ en:
     \ "
   google_play_send_support_email_restore_fail_title: "Purchases Failed To Restore\n
     \ "
+  go_live_span: Go %1$s !
+  guide_achievements: Achievements
   guide_achievement_collect: Collect badges as you complete key tasks and reach trading
     goals.
-  guide_achievements: Achievements
   guide_be_a_hero: Be a hero
-  guide_competition_win_cash: Win real cash prizes by joining sponsored competitions.
   guide_competitions: Competitions
+  guide_competition_win_cash: Win real cash prizes by joining sponsored competitions.
   guide_follow_trade_heroes: Follow Trade Heroes.
   guide_initial_cash_for_investment: 100,000 virtual dollars to invest!
   guide_learn_to_trade: Learn to trade
@@ -742,6 +744,7 @@ en:
   invite_code_message: If you were referred by a friend, enter the referral code here
     and get free 10,000 virtual dollars.
   invite_code_title: Claim your virtual dollars!
+  invite_friends: Invite Friends
   invite_friend_add_all: Add All
   invite_friend_facebook_tradehero_refer_friend_message: Join TradeHero, learn to
     trade, get expert tips, compete with the world top traders and earn real cash
@@ -757,7 +760,6 @@ en:
   invite_friend_search_friends: Search Friends
   invite_friend_send_invitations: Send Invitations
   invite_friend_success: Invite Success
-  invite_friends: Invite Friends
   invite_from_facebook: Invite from Facebook
   invite_from_linkedIn: Invite from LinkedIn
   invite_from_twitter: Invite from Twitter
@@ -779,10 +781,10 @@ en:
   leaderboard_community_exchange: Exchanges
   leaderboard_community_followers: Followers
   leaderboard_community_friends: Friends
+  leaderboard_community_heros: Heroes
   leaderboard_community_hero_all: "{0,choice,0#All|0&lt;All ({0})}"
   leaderboard_community_hero_free: "{0,choice,0#Free|0&lt;Free ({0})}"
   leaderboard_community_hero_premium: "{0,choice,0#Premium|0&lt;Premium ({0})}"
-  leaderboard_community_heros: Heroes
   leaderboard_community_invite_friends: Invite Friends
   leaderboard_community_leaderboards: Leaderboards
   leaderboard_community_most_skilled: All Time
@@ -825,13 +827,13 @@ en:
   leaderboard_filter_win_ratio_value_unit: "%"
   leaderboard_follow: "@string/follow"
   leaderboard_followers_count: "# Followers"
+  leaderboard_friends_position_failed: Sorry, there's not enough information to show
+    this user's positions.
   leaderboard_friend_call_action: Connect your social media accounts and start adding
     your friends.
   leaderboard_friend_empty_text_invite_friends: "… and your Heroes closer! Success
     is all the sweeter when your friends are around to\n    share. Connect your LinkedIn
     and Facebook accounts to see how you stack up amongst your friends.\n  "
-  leaderboard_friends_position_failed: Sorry, there's not enough information to show
-    this user's positions.
   leaderboard_keep_friends_close: Keep your friends close …
   leaderboard_max_ranked_position: "&gt;%d"
   leaderboard_monthly_avg_days_held: Avg. Days Held
@@ -841,12 +843,12 @@ en:
     one: "(%1$s trade)"
     other: "(%1$s trades)"
   leaderboard_number_trades_in_period_title: "# Trades In Period"
-  leaderboard_p_n_l: P&L
   leaderboard_performance_title: Relative Performance
   leaderboard_period: Period
   leaderboard_positions: Positions
   leaderboard_positions_count: "# Positions"
   leaderboard_profile: Profile
+  leaderboard_p_n_l: P&L
   leaderboard_ranking_period: "%s - %s"
   leaderboard_ranks_needed: Move up by %s ranks to win!
   leaderboard_see_competition_rules: See competition rules here
@@ -867,15 +869,15 @@ en:
   leaderboard_win_ratio_title: Win Ratio
   left_drawer_footer_title: 'Content Partners:'
   link: Link %1$s
+  linkedin: LinkedIn
+  linkedin_login_in: Connect with LinkedIn
+  linkedin_register: Register with LinkedIn
   link_description: You need to link your %1$s account before sharing or seeing your
     friends…
   link_now: Link now!
   link_select_one_social: Select a Social Network
   link_select_one_social_description: Please select at least one social network to
     share to
-  linkedin: LinkedIn
-  linkedin_login_in: Connect with LinkedIn
-  linkedin_register: Register with LinkedIn
   live: Live
   live_5_steps_away: 5 steps away to open an account!
   live_agree_read_it: Read
@@ -911,9 +913,6 @@ en:
   low: 'Low :'
   manage_alerts_plan: 'Plan: '
   manage_alerts_with_count: "%d alerts"
-  manage_follower_payment_datetime_format: "@string/data_format_dd_mmm_yyyy"
-  manage_follower_payment_duration: 'Paid for %d days:'
-  manage_follower_payment_transaction_list_header: Transactions
   manage_followers_follower_none: No follower.
   manage_followers_list_header: "%d FOLLOWERS"
   manage_followers_number_followers: Followers
@@ -927,6 +926,9 @@ en:
   manage_followers_title: Followers
   manage_followers_total_amount_paid: Total Amount Paid
   manage_followers_total_revenue: Total Revenue
+  manage_follower_payment_datetime_format: "@string/data_format_dd_mmm_yyyy"
+  manage_follower_payment_duration: 'Paid for %d days:'
+  manage_follower_payment_transaction_list_header: Transactions
   manage_heroes_active_header: Following Heroes
   manage_heroes_alert_follow_cancel: Not Now
   manage_heroes_alert_follow_message: "You are not currently following this\n    Hero.\\n\\nWould
@@ -945,12 +947,12 @@ en:
   manage_heroes_empty_description_for_other: "\n    There is no heroes.\n  "
   manage_heroes_empty_leaderboard_link: Browse Most Skilled Traders
   manage_heroes_empty_title: You Are Not Following Anyone Yet
+  manage_heroes_following_since: following since %s
+  manage_heroes_follows: 'Follows:'
   manage_heroes_follow_failed: "There was an error when trying to un/follow this hero\n
     \ "
   manage_heroes_follow_progress_message: Trying to follow this Hero.
   manage_heroes_follow_progress_title: Processing
-  manage_heroes_following_since: following since %s
-  manage_heroes_follows: 'Follows:'
   manage_heroes_inactive_header: Inactive Heroes
   manage_heroes_not_following_since: stopped following on %s
   manage_heroes_title: Heroes
@@ -963,7 +965,6 @@ en:
   manage_heroes_unfollow_success: Unfollow this hero successfully
   manage_my_followers_title: My Followers
   manage_my_heroes_title: My Heroes
-  mark_all_as_read: Mark all as Read
   market_close_hint: Market will open in
   market_on_board_country_from: What country are you from?
   market_on_board_error_fetch_exchange_sector: There was an error fetching the list
@@ -977,6 +978,7 @@ en:
   market_region_north_america: North America
   market_region_south_east_asia: SE Asia
   market_region_unknown: Unknown
+  mark_all_as_read: Mark all as Read
   maybe_later: Maybe Later
   me: Me
   message: Message
@@ -1001,6 +1003,7 @@ en:
   nationality: Nationality
   need_install_wechat: Please install weChat
   need_update_wechat: Please update weChat to 4.2 or later
+  network_error: Please check your network connection!
   net_worth: Net Worth
   net_worth_empty: Please select…
   net_worth_from_100_k_to_500_k_usd: US$ 100,001 - US$ 500,000
@@ -1009,15 +1012,16 @@ en:
   net_worth_from_70_k_to_100_k_usd: US$ 70,001 - US$ 100,000
   net_worth_less_than_15_k_usd: Less than US$ 15,000
   net_worth_more_than_500_k_usd: More than US$ 500,000
-  network_error: Please check your network connection!
-  new_to_tradehero: 'New to Tradehero? '
   news_comment: Comment
   news_like: Like
   news_view_on_web: View on the Web
+  new_to_tradehero: 'New to Tradehero? '
   next: Next
   'no': 'No'
-  no_current_position_units: No current position
-  no_message: You don't have any message yet.
+  notification_list_empty: You don't have any notification yet. \nPlease pull to refresh
+    your notification list!
+  notification_new_activities: You have %d new activities
+  notification_unread_messages: You have %d unread messages
   not_connected: You are offline
   not_connected_desc: Not connected to the Internet. Please check your connection.
   not_follow_msg_title: 'You must follow\n%1$s\nto privately send messages. Choose
@@ -1027,18 +1031,8 @@ en:
   not_follow_subtitle: FREE Follow
   not_follow_subtitle2: Free
   not_follow_title: Choose a package to follow
-  notification_list_empty: You don't have any notification yet. \nPlease pull to refresh
-    your notification list!
-  notification_new_activities: You have %d new activities
-  notification_unread_messages: You have %d unread messages
-  number_presentation_billion_suffix: B
-  number_presentation_billion_suffix_long: "\\u00A0billions"
-  number_presentation_million_suffix: M
-  number_presentation_million_suffix_long: "\\u00A0millions"
-  number_presentation_thousand_suffix: k
-  number_presentation_thousand_suffix_long: "\\u00A0thousands"
-  number_presentation_trillion_suffix: Tr
-  number_presentation_trillion_suffix_long: "\\u00A0trillions"
+  no_current_position_units: No current position
+  no_message: You don't have any message yet.
   number:
     currency:
       format:
@@ -1079,8 +1073,22 @@ en:
     percentage:
       format:
         format: "%n%"
+  number_presentation_billion_suffix: B
+  number_presentation_billion_suffix_long: "\\u00A0billions"
+  number_presentation_million_suffix: M
+  number_presentation_million_suffix_long: "\\u00A0millions"
+  number_presentation_thousand_suffix: k
+  number_presentation_thousand_suffix_long: "\\u00A0thousands"
+  number_presentation_trillion_suffix: Tr
+  number_presentation_trillion_suffix_long: "\\u00A0trillions"
   ok: OK
   'on': On %1$1
+  onboard_exchange_summary1: Which exchange are you interested in ?
+  onboard_exchange_summary2: Which sector are you interested in ?
+  onboard_exchange_title: To Help Get You Started
+  onboard_invitation_follow_hero_come_on: Here are some successful Trade Heroes that
+    you can follow and learn from.
+  onboard_invitation_follow_hero_header: Follow Some Heroes!
   on_board_exchange_loading_regions: Give us a second as we load regions…
   on_board_exchange_need_to_select: You need to select at least one exchange
   on_board_exchange_selected_max: You cannot select more than %d markets\nUnselect
@@ -1097,8 +1105,8 @@ en:
   on_board_last_title_1: Ka-ching!
   on_board_last_title_2: You now have a budget of
   on_board_last_title_3: 100,000 virtual dollars
-  on_board_retry_success: Success
   on_board_retrying: Retrying…
+  on_board_retry_success: Success
   on_board_sector_need_to_select: You need to select at least one sector
   on_board_sector_selected_max: You cannot select more than %d sectors\nUnselect some
     to select others
@@ -1114,12 +1122,6 @@ en:
   on_board_user_title: Top Trade Heroes. Follow them!
   on_board_welcome_title: Welcome to TradeHero!
   on_board_welcome_title_2: Let's get started…
-  onboard_exchange_summary1: Which exchange are you interested in ?
-  onboard_exchange_summary2: Which sector are you interested in ?
-  onboard_exchange_title: To Help Get You Started
-  onboard_invitation_follow_hero_come_on: Here are some successful Trade Heroes that
-    you can follow and learn from.
-  onboard_invitation_follow_hero_header: Follow Some Heroes!
   open: 'Open :'
   password_validation_confirm_fail_string: Passwords do not match
   percent_for_investment: "% of Net Worth for Investment"
@@ -1143,9 +1145,9 @@ en:
   portfolio_description_count_closed_positions_you: You have %1$d closed positions
   portfolio_description_count_open_positions_other: "%2$s has %1$d open positions"
   portfolio_description_count_open_positions_you: You have %1$d open positions
+  portfolio_description_count_watchlist: You have %1$d items
   portfolio_description_count_watch_positions_other: "%2$s is watching %1$d items"
   portfolio_description_count_watch_positions_you: You are watching %1$d items
-  portfolio_description_count_watchlist: You have %1$d items
   portfolio_header_cash_value: Cash Left
   portfolio_header_margin_available_title: Margin Available
   portfolio_header_margin_title: Margin
@@ -1169,6 +1171,8 @@ en:
   portfolio_tap_to_enroll_fx: Tap to enroll and trade FX
   portfolio_title_unnamed: Unnamed Portfolio
   portfolio_topbar_title: Portfolios and Watchlists
+  positions_in_period: In Period
+  positions_overall: Overall
   position_average_price_header: Avg. Price
   position_close_info: Action of selling the entire long asset or buying the entire
     short asset to generate cash back to your portfolio.
@@ -1178,13 +1182,13 @@ en:
   position_expanded_close_period_header: Period
   position_expanded_close_pl_header: P&L
   position_force_closed: Force Closed
+  position_invested_header: 'Invested:'
   position_in_period_additional_invested: Addl. Invested
   position_in_period_as_of: as of %1$s
   position_in_period_loss: Loss In Period
   position_in_period_pl: Period P&L
   position_in_period_profit: Profit In Period
   position_in_period_start_value: Value at Start
-  position_invested_header: 'Invested:'
   position_last_amount_header: 'Val: %s'
   position_list_action_bar_header: "%d Positions"
   position_list_action_bar_header_unknown: Positions
@@ -1230,8 +1234,6 @@ en:
   position_unrealised_loss_header: Will Lose
   position_unrealised_pl_header: Unrealized P&L
   position_unrealised_profit_header: Will Profit
-  positions_in_period: In Period
-  positions_overall: Overall
   post: Post
   postal_address: Postal Address
   postal_code: Postal Code
@@ -1308,8 +1310,8 @@ en:
   security_close: Close
   security_days_high: High
   security_days_low: Low
-  security_discussion_add: "+ Start New Discussion"
   security_discussions: Discussions
+  security_discussion_add: "+ Start New Discussion"
   security_eps: EPS
   security_fx_enroll_button: Click to enroll in Forex
   security_history: History
@@ -1348,8 +1350,6 @@ en:
   send_fake_push_action: Send a fake Push Action
   server_response: 'Server response: '
   service_retry: Failed, retrying %1$d more times\n%2$s
-  setting_accounts: Account
-  setting_general: General
   settings: Settings
   settings_about: "Any use of trademarks or copyright images is for the fair and reasonable
     uses of research, study, description and/or\n    identification. Such trademarks
@@ -1440,6 +1440,8 @@ en:
   settings_update_profile: Update Profile
   settings_update_profile_successful: Profile successfully updated
   settings_version_holder: v%s
+  setting_accounts: Account
+  setting_general: General
   share_cancel: Your share is cancelled
   share_now: Share Now!
   share_success: Your share is successful
@@ -1504,6 +1506,9 @@ en:
   start_new_discussion: Start a New Discussion
   start_trading: Start Trading!
   stock: Stock
+  stocks: Stocks
+  stock_alerts: Stock Alerts
+  stock_alerts_no_alerts: No Alerts
   stock_alert_active: Active stock alerts
   stock_alert_active_one: Active
   stock_alert_active_until: Active Until
@@ -1539,25 +1544,22 @@ en:
   stock_alert_when_price_falls: Alerts when price falls to %1$s
   stock_alert_when_price_move: Alerts when price moves by %1$s
   stock_alert_when_price_raises: Alerts when price raises to %1$s
-  stock_alerts: Stock Alerts
-  stock_alerts_no_alerts: No Alerts
-  stocks: Stocks
   store_alert_are_free_description: Alerts are Free for now
   store_alert_are_free_title: Rejoice!
   store_billing_error_loading_act: Reload Please
   store_billing_error_loading_window_description: "The TradeHero Store failed to load\n
     \   properly.\n  "
   store_billing_error_loading_window_title: Oh!
-  store_billing_load_info_error_cancel: Okay
-  store_billing_load_info_error_window_description: "We got an error loading data\n
-    \   required by TradeHero store. You may restart the application.\n  "
-  store_billing_load_info_error_window_title: This is embarrassing
   store_billing_loading_cancel: Got it
   store_billing_loading_info_window_message: Please wait…
   store_billing_loading_info_window_title: Loading Required Information
   store_billing_loading_window_description: "Please give us a moment as we are loading\n
     \   some data\n  "
   store_billing_loading_window_title: Loading…
+  store_billing_load_info_error_cancel: Okay
+  store_billing_load_info_error_window_description: "We got an error loading data\n
+    \   required by TradeHero store. You may restart the application.\n  "
+  store_billing_load_info_error_window_title: This is embarrassing
   store_billing_report_api_error_cancel: OK
   store_billing_report_api_error_window_description: "We got an error when reporting\n
     \   your purchase to our TradeHero servers. You may want to relaunch TradeHero\n
@@ -1603,11 +1605,11 @@ en:
   store_buy_stock_alerts_window_message: "Get notified when a stock price changes.\n
     \   Charged monthly, cancel anytime.\n  "
   store_buy_stock_alerts_window_title: Stock Alerts Subscription
+  store_buy_virtual_dollars: Virtual Dollars
   store_buy_virtual_dollar_window_button_buy: Buy Now!
   store_buy_virtual_dollar_window_button_cancel: "@string/cancel"
   store_buy_virtual_dollar_window_message: Use dollars to buy and sell stocks
   store_buy_virtual_dollar_window_title: Extra TradeHero Dollars
-  store_buy_virtual_dollars: Virtual Dollars
   store_header_in_app_purchases: In-App Purchases
   store_header_manage_purchases: Manage Purchases
   store_manage_followers: Manage Followers
@@ -1629,6 +1631,7 @@ en:
   tap_to_upload: Tap to upload
   team_credit: Made with love in Singapore and Shanghai
   tencent_qq: QQ
+  tester: fffregeg3qerrwq3efwefwefewfaeger
   th_amazon_logic_holder_name: Amazon Store
   th_iab_logic_holder_name: Google Play Store
   th_samsung_logic_holder_name: Samsung Store
@@ -1661,6 +1664,8 @@ en:
   timeline_view_graph: View Graph
   title: Title
   tncs_apply: Terms and conditions apply
+  traded_facebook_share_message: bought %1$s shares of %2$s (%3$s) @ %4$s
+  tradehero_live: TradeHero LIVE
   trade_bought_quantity_verbose: Bought %1$s shares @ %2$s
   trade_comment: Trade Comment
   trade_fx: Trade FX
@@ -1681,8 +1686,6 @@ en:
   trade_list_unrealized_pl: Unrealized P&L
   trade_sold_quantity_verbose: Sold %1$s shares @ %2$s
   trade_trade_value_header: Trade Value
-  traded_facebook_share_message: bought %1$s shares of %2$s (%3$s) @ %4$s
-  tradehero_live: TradeHero LIVE
   trading_experience: Trading Experience
   trading_per_quarter_1_to_5: 1 – 5 times
   trading_per_quarter_6_to_10: 6 – 10 times
@@ -1777,7 +1780,6 @@ en:
   upgrade_now: Upgrade Now!
   upgrade_to_message_more: Upgrade to message more!
   upgrade_to_premium: Upgrade to Premium
-  use_current_location: Pick Nearby Location
   user_level_up_description_text: You have achieved level %d!
   user_level_up_header_text: Congratulations!
   user_level_xp: XP
@@ -1812,6 +1814,7 @@ en:
   user_profile_roi_in_stocks: in STOCKS
   user_profile_total_wealth: Total Wealth
   user_profile_trade_profit: Profit from Trades
+  use_current_location: Pick Nearby Location
   validation_incorrect_pattern: This does not look correct
   validation_incorrect_pattern_email: This does not look like a legit email
   validation_please_correct: Please correct the fields marked as invalid
@@ -1824,6 +1827,7 @@ en:
   via: " via "
   video_locked_hint: Coming soon!
   virtual: Virtual
+  warrants_all: All Warrants
   warrant_code_header: Code
   warrant_expiry_header: Last Trading Date
   warrant_info_code: Code
@@ -1840,7 +1844,6 @@ en:
   warrant_type_call_only: Calls Only
   warrant_type_put: Put
   warrant_type_put_only: Puts Only
-  warrants_all: All Warrants
   watchlist_add_new_title: Add New Favourite
   watchlist_add_title: Add to Favourites
   watchlist_average_price_header: Average Price (US$)
