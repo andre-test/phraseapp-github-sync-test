@@ -1202,7 +1202,6 @@ chinese:
     EnrollmentReminder2Enterprise:
       AndDontForgetYouGet: "别忘了，你可以： "
       JoinTheProgramJoinATeamJoinTheFun: "加入计划，加入团队，加入快乐！"
-      'PlusYouGet ': "此外，您获得 "
       PlusYouGet: "此外，您获得 "
       YourCompanyIsOfferingYou AnEngaging: "您的公司将为您提供一个诱人且免费的计划，帮助您达到健康目标并在此过程中赢取奖励。它简单、有趣，是激发（或保持！）您合理饮食、改善睡眠、加强锻炼、控制压力，以及更多举动的好办法！"
   FF:
@@ -1324,6 +1323,11 @@ chinese:
       YOUAREINTEAM: "你在团队 {{teamName}} 中"
       YourCompanyReachedStage: "您的同伴已抵达阶段 {stageNumber}！"
       YouWon: "您赢了！"
+  "Genesis\x01AdminContent\x01OnboardingItems\x01CheckOutDevicesPage\x01": "查看设备页面。"
+  "Genesis\x01AdminContent\x01OnboardingItems\x01GetsCrossedOffWhenAnyCardIsCompleted\x01": "当任意卡片完成时划掉它"
+  "Genesis\x01Welcome\x01FollowTheseSimpleStepsToGetYourselfSetup\x01": "按这些简单的步骤操作即可让自己做好准备。"
+  "Genesis\x01wellBeing\x01InviteYourPartnerToJoinYouOnYourWellnessJourneyWithVirginPulse\x01": "通过
+    Virgin Pulse 邀请你的搭档和你一起参加你的健康之旅。"
   Genesis:
     AdminContent:
       AboutMeQuestionsDefault:
@@ -1752,10 +1756,6 @@ chinese:
         DISTRACTYOURSELF:
           Deccription: "<p>很想吃不健康的食物？用其他的想法分散您的注意力，或想想长期吃这类食物对您造成的影响。当想到这些食物时改变您的心态能降低您的食欲并抵抗这种渴望。去追求这些不健康的食物，不如专注于您每天的差事。</p>"
           Name: "分散注意力"
-        Don’t Stress:
-          Deccription: "<p>适当的压力也可以有裨益 —— 应激反应能保证我们在日常生活中的安全。但是过多的压力能破坏您的心理与身体健康。应激激素能提高您的血压，心跳与血糖水平。所以要寻找适当的方式来减压，比如锻炼或自己独辟蹊径
-            —— 您的健康取决于此。</p>"
-          Name: "不要有压力"
         DONTDOITALONE:
           Deccription: "<p>鼓动家人朋友参与到有趣的锻炼中——提出一些你们可以共同参与的活动，例如加入休闲运动联盟或者散步。使这项活动成为你的日程，你会在锻炼身体的同时巩固感情。</p>"
           Name: "不要独自锻炼"
@@ -1778,6 +1778,10 @@ chinese:
           Deccription: "<p>睡眠对于工作效率来说非常重要，但是不要贪睡。超过 9 小时的睡眠会导致周身疼痛，还会让您感觉更加昏沉嗜睡。睡懒觉也跟肥胖与心脏疾病有关联！保持健康，并保持每晚
             7-9 小时的睡眠时间。</p>"
           Name: "不要贪睡"
+        Don’t Stress:
+          Deccription: "<p>适当的压力也可以有裨益 —— 应激反应能保证我们在日常生活中的安全。但是过多的压力能破坏您的心理与身体健康。应激激素能提高您的血压，心跳与血糖水平。所以要寻找适当的方式来减压，比如锻炼或自己独辟蹊径
+            —— 您的健康取决于此。</p>"
+          Name: "不要有压力"
         DoorframeStretch:
           Deccription: "<div><p>利用身边的门框来拉伸上半身吧。方法很简单——只需将自己的手臂靠放在门上后斜靠好。握牢门框上部来更换拉伸部位。</p></div>"
           Name: "门框法"
@@ -4475,14 +4479,14 @@ chinese:
       ActiveMinutes: "活动分钟数"
       ActiveMinutesOf: "活动分钟数："
       ActiveMinutesOfYoga: "瑜伽活动分钟数："
-      ACTIVITY_DATA: "活动数据"
       ActivityDate: "活动日期"
       ActivityTracking: "活动追踪"
-      ADD_A_TRACKER: "添加追踪器"
+      ACTIVITY_DATA: "活动数据"
       AddAHabit: "增加一个习惯"
       AddedYourMood: "已添加到您的心情"
       AddNewActivity: "添加新活动"
       AddTracker: "添加追踪器"
+      ADD_A_TRACKER: "添加追踪器"
       AreYouSureYouWantToDeleteThisChallenge: "请记住，您可以随时从左侧的菜单中选择追踪器来再次进入。别担心：您的数据将被保存。"
       AVG_DAILY_SLEEP: "平均每天睡眠时间"
       AVG_DAILY_STEPS: "平均每天步数"
@@ -4708,13 +4712,6 @@ chinese:
       WhatMakesMeFeelAlive: "什么让我感觉充满活力？"
       WhatWouldTheLifeOfMyDreamsLookLike: "我的梦想生活是什么样的？"
       YourPersonalWellBeingShapesEveryAspectOfLifeAndWork: "<b>您的个人健康能够影响您生活和工作的方方面面。</b>最好的办法是开始创建个人健康愿景，然后设置有意义的目标。要开始，请先问问自己…"
-  Genesis.AdminContent.OnboardingItems.CheckOutDevicesPage.: "查看设备页面。"
-  Genesis.AdminContent.OnboardingItems.GetsCrossedOffWhenAnyCardIsCompleted.: "当任意卡片完成时划掉它"
-  Genesis.Welcome.FollowTheseSimpleStepsToGetYourselfSetup.: "按这些简单的步骤操作即可让自己做好准备。"
-  Genesis.wellBeing.InviteYourPartnerToJoinYouOnYourWellnessJourneyWithVirginPulse.: "通过
-    Virgin Pulse 邀请你的搭档和你一起参加你的健康之旅。"
-  "Genesis\x01AdminContent\x01OnboardingItems\x01CheckOutDevicesPage\x01": "查看设备页面。"
-  "Genesis\x01AdminContent\x01OnboardingItems\x01GetsCrossedOffWhenAnyCardIsCompleted\x01": "当任意卡片完成时划掉它"
   GenesisEcommerce:
     MissingKeys:
       ShippingInfo:
@@ -4908,9 +4905,6 @@ chinese:
           ProductCompareName: "名字"
       ShoppingCart:
         SKU: Sku
-  "Genesis\x01Welcome\x01FollowTheseSimpleStepsToGetYourselfSetup\x01": "按这些简单的步骤操作即可让自己做好准备。"
-  "Genesis\x01wellBeing\x01InviteYourPartnerToJoinYouOnYourWellnessJourneyWithVirginPulse\x01": "通过
-    Virgin Pulse 邀请你的搭档和你一起参加你的健康之旅。"
   GlobalLabels:
     Day: "天"
     Days: "天"
@@ -5449,6 +5443,7 @@ chinese:
   VIEQ3450:
     TakeVPEverywhere: "无论去哪都带上 Virgin Pulse！"
     VPforIosAndroidAvailableDownload: Virgin Pulse iOS 和安卓版现在可用。今天就可以下载！
+  "Vieques\x01Genesis\x01Challenges\x01StageContentWillUnlockOnceTheChallengeBegins\x01": "开始挑战就能解锁关卡内容。"
   Vieques:
     Genesis:
       Challenges:
@@ -5944,8 +5939,6 @@ chinese:
             Accepted: "已接受"
             ChallengeCreator: "挑战发起机"
             Pending: "待定"
-  Vieques.Genesis.Challenges.StageContentWillUnlockOnceTheChallengeBegins.: "开始挑战就能解锁关卡内容。"
-  "Vieques\x01Genesis\x01Challenges\x01StageContentWillUnlockOnceTheChallengeBegins\x01": "开始挑战就能解锁关卡内容。"
   ViewYourRewards: "查看您每个级别的奖励"
   Viques:
     Genesis:
