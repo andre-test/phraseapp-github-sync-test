@@ -56,10 +56,10 @@ de:
   datetime:
     distance_in_words:
       about_x_hours:
-        one: vor etwa einer Stunden
+        one: vor etwa einer Stunde
         other: vor etwa %{count} Stunden
       about_x_months:
-        one: vor etwa einem Monatsefwf4
+        one: vor etwa einem Monat
         other: vor etwa %{count} Monaten
       about_x_years:
         one: vor etwa einem Jahr
@@ -116,8 +116,8 @@ de:
       invalid: ist nicht gültig
       less_than: muss kleiner als %{count} sein
       less_than_or_equal_to: muss kleiner oder gleich %{count} sein
-      not_a_number: ist keine Zahl
       not_an_integer: muss ganzzahlig sein
+      not_a_number: ist keine Zahl
       odd: muss ungerade sein
       other_than: darf nicht gleich %{count} sein
       present: darf nicht ausgefüllt werden
@@ -247,9 +247,13 @@ de:
     pm: nachmittags
   user_profile_total_wealth: Totale Hölle
   Vieques:
+    Genesis:
+      TrophyCase:
+        YouVeEarnedThisTrophyTimes: sdsd
     Groups:
       ACTIVITY: heloo <%PLACEHOLDER%> <%L:PLACEHOLDER%> <%C:PLACEHOLDER%>
-      BackToGroups: wefewfewsdewferfer
+      AskDelete: sdafsd
+      BackToGroups: wefewfewsdew
       BecameAdminError: afeferqgafwef
       Category: ewegwerg
       deleting: aewfewf
