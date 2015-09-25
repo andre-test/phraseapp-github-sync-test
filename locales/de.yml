@@ -55,10 +55,6 @@ de:
     - :year
   datetime:
     distance_in_words:
-      my_key: test testsadfds
-      other_key: more test testasDWxcvxcwefewfwefwrwerwer
-      super_key: crazy testersdfe
-      great: test
       about_x_hours:
         one: vor etwa einer Stunden
         other: vor etwa %{count} Stunden
@@ -71,6 +67,7 @@ de:
       almost_x_years:
         one: vor fast einem Jahr
         other: vor fast %{count} Jahren
+      great: test
       half_a_minute: vor einer halben Minute
       less_than_x_minutes:
         one: vor weniger als einer Minute
@@ -78,9 +75,12 @@ de:
       less_than_x_seconds:
         one: vor weniger als eine Sekunde
         other: vor weniger als %{count} Sekunden
+      my_key: test testsadfds
+      other_key: more test testasDWxcvxcwefewfwefwrwerwer
       over_x_years:
         one: vor mehr als einem Jahr
         other: vor mehr als %{count} Jahren
+      super_key: crazy testersdfe
       x_days:
         one: vor einem Tag
         other: vor %{count} Tagen
@@ -249,7 +249,7 @@ de:
   Vieques:
     Groups:
       ACTIVITY: heloo <%PLACEHOLDER%> <%L:PLACEHOLDER%> <%C:PLACEHOLDER%>
-      BackToGroups: wefewfewsdew
+      BackToGroups: wefewfewsdewferfer
       BecameAdminError: afeferqgafwef
       Category: ewegwerg
       deleting: aewfewf
