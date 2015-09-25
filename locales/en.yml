@@ -1,9 +1,6 @@
 ---
 en:
-  big_test: test
-  bigger_test: biggie biggerefewf
   about_screen_secure_by: 'total Secured by:'
-  tester: fffregeg3qerrwq3efwefwefewfaeger
   about_screen_sentiment_analysis_by: 'Sentiment analysis by:'
   about_screen_text_processing_by: 'Text processing by:'
   account_already_linked: Linked
@@ -149,6 +146,8 @@ en:
   back: Back
   basic_information: Basic Info
   best_roi: 'ROI:'
+  big_test: test
+  bigger_test: biggie biggerefewf
   broadcast_error: Send message error
   broadcast_message_action_send: Send
   broadcast_message_change_type_hint: Choose follower to send message
@@ -279,6 +278,7 @@ en:
   data_format_dd_mmm_yyyy_hh_mm: dd MMM yyyy HH:mm
   data_format_dd_mmm_yyyy_kk_mm_z: dd MMM yyyy kk:mm z
   data_format_yyyy_mm_dd_hh_mm_ss: yyyy-MM-dd'T'HH:mm:ss'Z'
+  date_of_birth: Date of Birth
   date:
     abbr_day_names:
     - Sun
@@ -332,7 +332,6 @@ en:
     - :year
     - :month
     - :day
-  date_of_birth: Date of Birth
   datetime:
     distance_in_words:
       about_x_hours:
@@ -1632,6 +1631,7 @@ en:
   tap_to_upload: Tap to upload
   team_credit: Made with love in Singapore and Shanghai
   tencent_qq: QQ
+  tester: fffregeg3qerrwq3efwefwefewfaeger
   th_amazon_logic_holder_name: Amazon Store
   th_iab_logic_holder_name: Google Play Store
   th_samsung_logic_holder_name: Samsung Store
