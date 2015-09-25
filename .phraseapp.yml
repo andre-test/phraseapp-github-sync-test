@@ -7,8 +7,18 @@ phraseapp:
     - file: ./locales/<locale_name>.yml
       params:
         file_format: yml
+    - file: ./locales/de.yml
+      params:
+        file_format: yml
+        project_id: 9cd0e707d422f32087590be147f40ef7
   pull:
     targets:
     - file: ./locales/<locale_name>.yml
       params:
         file_format: yml
+    - file: ./locales/de.yml
+      params:
+        file_format: yml
+        project_id: 9cd0e707d422f32087590be147f40ef7
+        locale_id: 17c701de36a63fe5e8efba0b16f5c36b
+
