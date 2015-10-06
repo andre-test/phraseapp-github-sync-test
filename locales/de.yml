@@ -181,6 +181,7 @@ de:
         ContributingCard: sdvs
       CardsHeadlines:
         Header2: asd
+  hello: hello
   helpers:
     select:
       prompt: Bitte wählen
@@ -256,8 +257,8 @@ de:
     Groups:
       ACTIVITY: heloo <%PLACEHOLDER%> <%L:PLACEHOLDER%> <%C:PLACEHOLDER%>
       AskDelete: sdafsd
-      BackToGroups: wefewfewsdewferfer
-      BecameAdminError: afeferqgafwef
+      BackToGroups: wefewfewsdewferferdqefe
+      BecameAdminError: afeferqgafwefefwef
       Category: ewegwerg
       deleting: aewfewf
       EmptyListOfMembers: aeferf
