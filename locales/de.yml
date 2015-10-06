@@ -1,10 +1,8 @@
 ---
 de:
-  test: testdfvdfvsdsd
-  more: testwrwqr
   date:
     abbr_day_names:
-    - Sonn
+    - So
     - Mo
     - Di
     - Mi
@@ -28,7 +26,7 @@ de:
     day_names:
     - Sonntag
     - Montag
-    - Dienstags
+    - Dienstag
     - Mittwoch
     - Donnerstag
     - Freitag
@@ -58,10 +56,10 @@ de:
   datetime:
     distance_in_words:
       about_x_hours:
-        one: vor etwa einer Stunde
+        one: vor etwa einer Stunden
         other: vor etwa %{count} Stunden
       about_x_months:
-        one: vor etwa einem Monat
+        one: vor etwa einem Monatsefwf4
         other: vor etwa %{count} Monaten
       about_x_years:
         one: vor etwa einem Jahr
@@ -118,8 +116,8 @@ de:
       invalid: ist nicht gültig
       less_than: muss kleiner als %{count} sein
       less_than_or_equal_to: muss kleiner oder gleich %{count} sein
-      not_an_integer: muss ganzzahlig sein
       not_a_number: ist keine Zahl
+      not_an_integer: muss ganzzahlig sein
       odd: muss ungerade sein
       other_than: darf nicht gleich %{count} sein
       present: darf nicht ausgefüllt werden
@@ -189,6 +187,7 @@ de:
       create: "%{model} erstellen"
       submit: "%{model} speichern"
       update: "%{model} aktualisieren"
+  more: test
   number:
     currency:
       format:
@@ -240,6 +239,7 @@ de:
       last_word_connector: " und "
       two_words_connector: " und "
       words_connector: ", "
+  test: test
   time:
     am: vormittags
     formats:
@@ -255,7 +255,7 @@ de:
     Groups:
       ACTIVITY: heloo <%PLACEHOLDER%> <%L:PLACEHOLDER%> <%C:PLACEHOLDER%>
       AskDelete: sdafsd
-      BackToGroups: wefewfewsdew
+      BackToGroups: wefewfewsdewferfer
       BecameAdminError: afeferqgafwef
       Category: ewegwerg
       deleting: aewfewf
