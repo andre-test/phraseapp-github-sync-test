@@ -17,6 +17,8 @@ phraseapp:
   pull:
     targets:
     - file: ./locales/<locale_name>.yml
+      params:
+        file_format: yml
     - file: ./locales/de.yml
       project_id: 9cd0e707d422f32087590be147f40ef7
       params:
