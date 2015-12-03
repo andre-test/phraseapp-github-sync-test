@@ -237,6 +237,7 @@ de:
     percentage:
       format:
         format: "%n %"
+  push: push
   support:
     array:
       last_word_connector: " und "
@@ -253,6 +254,12 @@ de:
   user_profile_total_wealth: Totale Hölle
   Vieques:
     Genesis:
+      Sleep:
+        Trackers:
+          Here: Hier und Heute!
+          RecommendMultiple: Mehrfach
+      Trackers:
+        8ISGREAT: Toll
       TrophyCase:
         YouVeEarnedThisTrophyTimes: sdsd
     Groups:
