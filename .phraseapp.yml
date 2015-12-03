@@ -1,6 +1,5 @@
 phraseapp:
-  access_token: 123456
-  project_id: f570afb6c855f5724f2f5186d4992deb
+  project_id: d86edfe2db98e1c342853a7854ba9515
   push:
     sources:
     - file: ./locales/<locale_name>.yml
