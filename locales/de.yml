@@ -1,7 +1,5 @@
 ---
 de:
-  push: pusher fabian man
-  hello: hello
   date:
     abbr_day_names:
     - So
@@ -265,6 +263,7 @@ de:
     Groups:
       ACTIVITY: heloo <%PLACEHOLDER%> <%L:PLACEHOLDER%> <%C:PLACEHOLDER%>
       AskDelete: sdafsd
+      AskLeave: Hau ab digga
       BackToGroups: wefewfewsdewferferdqefe
       BecameAdminError: afeferqgafwefefwef
       Category: ewegwerg
