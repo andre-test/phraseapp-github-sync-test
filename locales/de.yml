@@ -254,7 +254,14 @@ de:
     Genesis:
       Sleep:
         Trackers:
-          Here: Hier und Heute!
+          Here: |-
+            {Contact.Firstname}
+
+            {Contact.Demographics[“Age”].Value}
+
+            {Contact.SurveysList:'Title of the table'}
+
+            {Reviewee.Relationships[21].RequiredSelectionCount}
           RecommendMultiple: Mehrfach
       Trackers:
         8ISGREAT: Toll
