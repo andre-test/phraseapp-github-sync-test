@@ -7,9 +7,10 @@ phraseapp:
         file_format: yml
   pull:
     targets:
-    - file: ./locales/<locale_name>.yml
+    - file: ./locales/de.yml
       params:
         file_format: yml
+        locale_id: de
      - file: ./locales/pt.yml
       params:
         file_format: yml
