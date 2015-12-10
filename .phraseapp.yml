@@ -10,4 +10,8 @@ phraseapp:
     - file: ./locales/<locale_name>.yml
       params:
         file_format: yml
+    - file: ./locales/pt.yml
+      params:
+        file_format: yml
+        locale_id: publiccode
 
