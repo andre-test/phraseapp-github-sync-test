@@ -11,7 +11,7 @@ phraseapp:
       params:
         file_format: yml
         locale_id: de
-     - file: ./locales/pt.yml
+    - file: ./locales/pt.yml
       params:
         file_format: yml
         locale_id: 686c0d503ddfdde7e424fe4c697552ed
