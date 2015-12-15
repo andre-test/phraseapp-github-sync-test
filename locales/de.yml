@@ -1,5 +1,6 @@
 ---
 de:
+  fabiantest: bla
   push: test
   date:
     abbr_day_names:
