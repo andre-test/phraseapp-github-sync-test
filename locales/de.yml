@@ -254,8 +254,15 @@ de:
     Genesis:
       Sleep:
         Trackers:
-          Here: Hier und Heute!
-          RecommendMultiple: Mehrfach
+          Here: |-
+            {Contact.Firstname}
+
+            {Contact.Demographics[“Age”].Value}
+
+            {Contact.SurveysList:'Title of the table'}
+
+            {Reviewee.Relationships[21].RequiredSelectionCount}
+          RecommendMultiple: Hello My World\n<p>Hallo Welt</p>
       Trackers:
         8ISGREAT: Toll
       TrophyCase:
