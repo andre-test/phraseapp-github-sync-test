@@ -1,10 +1,10 @@
 ---
 de:
-  fabiantest: bla
+  fabiantest: changed bla
   push: test
   date:
     abbr_day_names:
-    - So
+    - Son
     - Mo
     - Di
     - Mi
