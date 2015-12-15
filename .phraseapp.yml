@@ -5,10 +5,13 @@ phraseapp:
     - file: ./locales/<locale_name>.yml
       params:
         file_format: yml
+        update_translations: true
   pull:
     targets:
     - file: ./locales/de.yml
       params:
         file_format: yml
         locale_id: de
-
+    - file: ./locales/admin/<locale_code>.yml
+      params:
+        file_format: yml
