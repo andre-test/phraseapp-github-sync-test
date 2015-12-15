@@ -1,6 +1,5 @@
 ---
 de:
-  new_key: "new shit"
   date:
     abbr_day_names:
     - So
@@ -190,6 +189,7 @@ de:
       submit: "%{model} speichern"
       update: "%{model} aktualisieren"
   more: test
+  new_key: new shit
   number:
     currency:
       format:
