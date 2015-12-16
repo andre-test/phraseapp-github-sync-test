@@ -1,0 +1,613 @@
+---
+ms:
+  action_menutime: Cari
+  action_settings: 
+  activity_title_client: Pelanggan-pelanggan
+  activity_title_item: Produk-produk
+  alert_msg_remove_logo: Adakah anda pasti anda mahu memadam logo anda?
+  alert_title_remove_logo: Buang logo
+  appRateNegative: Tidak, terima kasih
+  appRateNeutral: Ingatkan kemudian
+  apprate_please_support: Sila menyokong Invois Mudah dengan meninggalkan penilaian
+    di Google Play dan terangkan bagaimana ia membantu perniagaan anda.
+  apprate_submit_feedback: Kemukakan maklum balas
+  apprate_thanks: Terima kasih!
+  app_name: Invois Mudah
+  backup_auto_last_msg: 'Sandaran yang lepas telah disiapkan pada:'
+  backup_auto_notyet_msg: Sandaran belum lagi dibuat. Sandaran diuruskan oleh sistem
+    pengendalian.
+  backup_auto_title: Sandaran automatik
+  bs: Bosanski
+  btnClear: Kosongkan
+  btnRate: Beri Penilaian
+  btn_add_logo: Pilih sebuah Logo
+  btn_big: 
+  btn_cancel: Batal
+  btn_confirm: Sahkan
+  btn_delete: Padam
+  btn_delete_logo: Padam Logo
+  btn_del_short: Padam
+  btn_finish: Selesai
+  btn_next: Seterusnya
+  btn_ok: OK
+  btn_ok_exclaim: Ok!
+  btn_previous: Sebelumnya
+  btn_save: Simpan
+  btn_search: Cari
+  btn_skip: Langkau
+  btn_small: 
+  btn_sort: Susun
+  btn_update_logo: Ubah Logo
+  button_enable_online_payment: Membolehkan pembayaran dalam talian
+  cn: "中文 (简体)"
+  companyComent: Nota-nota lalai
+  cs: 
+  da: Dansk
+  days_1: Hari berikutnya
+  days_10: 10 Hari
+  days_120: 120 Hari
+  days_14: 14 Hari
+  days_180: 180 Hari
+  days_2: 2 Hari
+  days_21: 21 Hari
+  days_3: 3 Hari
+  days_30: 30 Hari
+  days_365: 365 Hari
+  days_4: 4 Hari
+  days_45: 45 Hari
+  days_5: 5 Hari
+  days_6: 6 Hari
+  days_60: 60 Hari
+  days_7: 7 Hari
+  days_90: 90 Hari
+  dbBackupChoose: Pilih lokasi sandaran
+  dbBackupFailMsg: 'Sandaran pangkalan data gagal untuk:'
+  dbBackupSuccessMsg: 'Sebuah sandaran telah berjaya disimpan kepada:'
+  dbNoDatabaseMsg: Pangkalan Data belum dibuat lagi
+  dbRestoreChoose: Pilih lokasi untuk pulih semula
+  dbRestoreFailMsg: Pulihkan kegagalan pangkalan data
+  dbRestoreSuccessMsg: Sandaran ini telah berjaya dipulihkan
+  de: Deutsch
+  discardClientMsg: Adakah anda pasti anda mahu membuang perubahan-perubahan kepada
+    pelanggan ini?
+  discardEmailMsg: Adakah anda pasti anda mahu membuang email ini?
+  discardProductMsg: Adakah anda pasti anda mahu membuang perubahan-perubahan pada
+    item ini?
+  discardTitle: Buang perubahan
+  drawer_close: Tutup laci navigasi
+  drawer_open: Buka laci navigasi
+  dueOn: Tempoh akhir pada
+  el: "Ελληνικά"
+  emailFromHint: Dari
+  emailMessageHint: Pesanan
+  emailSubject: Invois
+  emailSubjectDatabase: "%s - Pangkalan data"
+  emailSubjectEstimate: Anggaran
+  emailToHint: Untuk
+  email_business_name_placeholder: Nama perniagaan di sini
+  email_estimate_msg: 'Untuk melihat anggaran anda dari {{{ dari_nama }} untuk {{
+    jumlah }} klik pautan di bawah:'
+  email_estimate_subject: Anggaran baru {{ no_invois }} dari {{ dari_nama }}
+  email_invoice_msg: 'Untuk melihat invois anda dari {{{ dari_nama }} untuk {{ jumlah
+    }} klik pautan di bawah:'
+  email_invoice_subject: Invois baru {{ no_invois }} dari {{ dari_nama }}
+  email_message_send_me_copy: Hantarkan saya satu salinan
+  email_pay_online: Bayar dalam talian
+  email_thanks: Selamat sejahtera
+  emptyClentList: Anda boleh mencipta pelanggan baru di sini atau mengimport daripada
+    kenalan anda.
+  emptyItemList: Di sini anda boleh mengurus senarai produk-produk atau perkhidmatan-perkhidmatan
+    yang anda invois berulang kali.
+  empty_closed_estimates: Anggaran yang telah ditukar menjadi invois akan dipaparkan
+    di sini
+  empty_invoices_paid: Invois yang anda telah tandakan sebagai dibayar akan dipaparkan
+    di sini.
+  empty_open_estimates: Anggaran yang belum ditukar menjadi invois akan dipaparkan
+    di sini
+  empty_recent_estimates: Anggaran yang telah anda buat dalam tempoh 60 hari yang
+    lalu akan dipaparkan di sini
+  empty_recent_invoices: Invois yang telah anda buat dari 60 hari yang lalu akan dipaparkan
+    di sini.
+  empty_unpaid_invoices: Invois yang belum ditandakan sebagai dibayar penuh akan dipaparkan
+    di sini.
+  en: English (US)
+  en_au: English (AU)
+  en_ca: English (CA)
+  en_gb: English (GB)
+  error_due_date_not_before_invoice_date: Tarikh akhir mesti selepas tarikh invois
+  error_empty_value: Tidak boleh ditinggalkan kosong
+  error_exporting: Maaf, berlaku kesilapan sewaktu mengeksport
+  error_failed_pdf: Maaf, berlaku kesalahan ketika melihat invois anda
+  error_import_contact: Maaf, berlaku kesalahan ketika mengimport kontak anda
+  error_install_gcp: Maaf, berlaku masalah ketika melancarkan Pasaran Android untuk
+    memasang Google Cloud Print
+  error_print_gcp: Maaf, tidak dapat mencetak ke Google Cloud Print
+  err_activity_not_found: Maaf, aplikasi yang sesuai tidak ditemui
+  err_determine_purchased: Maaf kami tidak dapat menentukan sama ada anda telah membuka
+    kunci Invois Mudah, sila pastikan anda berada dalam talian dan cuba lagi kemudian.
+  err_dropbox_backup_failed: Sandaran Dropbox gagal
+  err_external_pdf: Maaf berlaku kesilapan ketika membuka invois PDF anda dalam sebuah
+    aplikasi luaran
+  err_failed_backup_email: Gagal menyandar pangkalan datar email
+  err_failed_generate_pdf: Maaf, berlaku kesalahan sewaktu menjana PDF anda
+  err_failed_loading_logo: Maaf, berlaku kesalahan ketika memuatkan logo anda
+  err_failed_load_clients: Gagal mengambil pelanggan
+  err_failed_saving_logo: Maaf, berlaku kesalahan sewaktu penjimatan logo anda
+  err_failed_sending_invoice: Maaf, berlaku kesalahan ketika menghantar invois anda
+  err_failed_to_load_invoice_or_estimate: Gagal memuat turunkan %s
+  err_iab_failed: Maaf kami tidak dapat setup dalam bil aplikasi, sila pastikan anda
+    berada dalam talian dan cuba lagi nanti..
+  err_invoice_notfound: Maaf, tidak dapat mencari invois ini
+  err_logo_format: 'Maaf, logo anda nampaknya bukan salah satu format yang disokong:
+    JPG, PNG, GIF, BMP'
+  err_printing_not_supported: Maaf, percetakan tidak disokong pada versi Android ini
+  err_purchase_failed_try_reset: Maaf, bayaran anda tidak berjaya, sila cuba untuk
+    tetapkan semula
+  err_render_pdf: Gagal mengemukakan PDF
+  err_reset_failed: Gagal untuk menetapkan semula
+  err_restore_failed: Gagal tetapkan semula
+  err_toast_no_space: Maaf, nampaknya tidak ada ruang simpanan dalam peranti anda
+  err_toast_unable_to_start_sync: Maaf, tidak dapat memulakan penyegerakan, pastikan
+    anda berada dalam talian
+  es: Español
+  estimate_code_pattern: ANG0001
+  event_failed_queue_caption: Gagal beratur untuk penghantaran
+  event_queued_caption: Diatur untuk penghantaran
+  event_summary_failed_deliver: Gagal untuk menyerahkan kepada
+  evt_summary_estimate_created: Anggaran dibuat
+  evt_summary_invoice_created: Invois dibuat
+  evt_summary_opened_by: Dibaca oleh
+  evt_summary_received_by: Diterima oleh
+  evt_summary_sent_to: Menghantar kepada
+  exported_to: 'Berjaya mengeksport invois kepada:'
+  export_desc: Menjana fail CSV yang meringkaskan invois
+  extend_button: Panjangkan
+  extend_desc: Belum sedia untuk beli? Dapatkan 3 lagi invois percuma.
+  fi: 
+  fr:
+    I: 
+    II: 
+    III: 
+    IV:
+      A: 
+      B: 
+      C: 
+  fullyPaidSummary: Ini akan menetapkan semua invois yang baru dibuat sebagai Dibayar
+    Sepenuhnya
+  hello_world: 
+  hintBusinessNumber: Nombor pendaftaran
+  hintCompanyName: Nama
+  hintEmail: contoh info\@androidapphk.com
+  hintFax: contoh 6789 9012
+  hintMobile: contoh 6789 5678
+  hintPhone: contoh 2012 3456
+  hintSearch: Nama Pelanggan
+  hintWeb: contoh www.androidappshk.com
+  hint_bank_transfer: 'Masukkan # akaun bank dan butir-butir lain di sini'
+  hint_check_payable_to: Nama anda atau nama perniagaan anda
+  hint_feedback: Maklumbalas
+  hint_payment_options: Pilihan pembayaran
+  hint_payment_other: Arahan bayaran tambahan
+  hint_paypal: Isikan alamat emel paypal anda
+  hu: Magyar
+  I: 
+  iab_checkstatus_active: 'Berita baik, ia kelihatan seperti pembelian anda adalah
+    aktif:'
+  iab_checkstatus_inactive: Rekod kami menunjukkan anda tidak ada membeli pelan pada
+    masa ini
+  iab_status_unknown: Tidak diketahui
+  id: 
+  II: 
+  III: 
+  invoice_business_details_hint: Nama perniagaan, butir-butir, logo
+  invoice_code_pattern: INV0001
+  invoice_item_numbered: Item %d
+  invoice_signed_on: Ditandatangani %s
+  it: Italiano
+  itemDiscountAmount: Jumlah datar
+  itemDiscountitems: Diskaun sebuah item
+  itemDiscountSubTotal: Peratus
+  itemNoDiscount: Tiada diskaun
+  itemQtyRate: Kolum Kuantiti & Kadar
+  itemTax: Cukai bagi setiap item
+  IV:
+    A: 
+    B: 
+    C: 
+  ja: 
+  ko: 
+  menuBackupSdcard: Kad SD
+  menuBrowse: Cari fail sandaran
+  menuCard: Bayaran kad
+  menuClear: Kosongkan
+  menuDelete: Padam
+  menuDropbox: Dropbox™
+  menuDuplicate: Salinan
+  menuEdit: Edit
+  menuEmail: Emel
+  menuGoogleDrive: Google Drive™
+  menuMakeInvoice: Buat invois
+  menuMarkPaid: Tandakan sebagai dibayar
+  menuOpenIn: Buka dari ...
+  menuPreview: Pratonton
+  menuPrint: Cetak
+  menuRemoveLogo: Buang logo
+  menuSdcard: Kad SD
+  menuSelect: Pilih
+  menuShare: Kongsi
+  menuSms: Teks
+  menuUpdate: Edit
+  menu_backup: Sandaran
+  menu_client: Pelanggan-pelanggan
+  menu_email_us: Sokongan
+  menu_estimate: Anggaran-anggaran
+  menu_how_do_i: Soalan-Soalan Lazim
+  menu_invoice: Invois-invois
+  menu_item: Produk-produk
+  menu_send: Hantar
+  menu_setting: Tetapan
+  ms: 
+  msgBackupDBFail: Maaf, berlaku masalah semasa sandaran.
+  msgBackupDBSuccess: Sandaran berjaya
+  msgBackupDropboxUnlink: Sila paut app dengan Dropbox™ sebelum sandaran
+  msgBackupGoogleDriveRequired: Maaf, aplikasi Google Drive tidak dapat ditemui
+  msgBackuping: Membuat sandaran ...
+  msgDueDate: Tempoh akhir dalam %1$s Hari
+  msgFileNotFound: Fail tidak dijumpai di
+  msgInvoiceNo: "# Invois adalah huruf diikuti dengan angka"
+  msgInvoicePdfNotFound: Fail invois tidak dijumpai, sila jana invois sekali lagi.
+  msgLinkDropboxFail: Pautan ke Dropbox™ gagal.
+  msgNoBackupDatabase: Maaf, tiada sandaran dijumpai.
+  msgPdfReader: Sila pasang aplikasi pembaca PDF
+  msgRestoreConfirm: Pastikan fail sandaran adalah yang terbaru. Jika tidak, anda
+    mungkin kehilangan data yang baru disimpan pada peranti.
+  msgRestoreDropboxUnlink: Sila paut app dengan Dropbox™ sebelum dipulihkan
+  msgRestoreNoBackupsFoundSDCard: 'Tiada sandaran dijumpai dalam folder:'
+  msgRestoreSdConfirm: Sandaran yang mana ingin anda pulihkan?
+  msgRestoring: Sedang dipulihkan ...
+  msg_change_lang: Anda mungkin perlu untuk memaksa aplikasi untuk bermula semula
+    untuk mengubah bahasa dengan sepenuhnya
+  msg_disable_online_payments: Adakah anda pasti anda mahu menyahdayakan pembayaran
+    dalam talian invois anda?
+  msg_enable_sync: 
+  msg_full_sync: 
+  msg_invoice_sent: Invois dihantar!
+  msg_online_payment_setup: Bagus. Invois anda sekarang akan mempunyai butang BAYAR
+    SEKARANG supaya pelanggan anda boleh membayar dalam talian secara serta-merta
+  msg_print_require_gcp: Percetakan memerlukan Google Cloud Print. Adakah anda ingin
+    memasangnya sekarang atau gunakan versi web?
+  msg_reset_succeeded: Berjaya menetapkan semula
+  msg_restore_invalid_db: Maaf, ini tidak kelihatan seperti sandaran pangkalan data
+    Invois Mudah yang sah
+  msg_sending_progress: Menghantar ...
+  msg_syncing: 
+  nl: Nederlands
+  'no': Norsk
+  noTax: Tiada Cukai
+  notification_drop_msg: Sila semak alamat %s dan cuba lagi.
+  notification_drop_title: Tidak dapat menyampaikan %s
+  notification_fail_send_msg: Sila semak sambungan internet anda dan cuba lagi.
+  notification_fail_send_title: Tidak dapat menghantar %s
+  notification_invoice_read_msg: Invois anda telah dibacakan oleh %s
+  notification_invoice_read_title: Invois telah dibaca
+  notification_open_title: 'Buka # %s'
+  'off': Tidak aktif
+  'on': Aktif
+  onboarding_done: Anda mempunyai setup asas sekarang, teruskan untuk buat invois
+    pertama anda!
+  onboarding_info: Maklumat tentang perniagaan anda akan muncul pada setiap invois.
+  onboarding_welcome_1: Selamat Datang! Mari kita mengambil beberapa saat untuk setup
+    beberapa pekara asas.
+  onboarding_welcome_2: Ketik seterusnya pada bila-bila masa, anda boleh menukar maklumat
+    ini kemudian, semuanya pilihan terbuka
+  payment_other: Lain-lain
+  pdfBillingTo: Bayar Kepada
+  pdfDate: 'Tarikh:'
+  pdfDueDate: 'Tarikh Akhir:'
+  pdfEstimateNo: 'Anggarkan #:'
+  pdfEstimateTitle: Anggaran
+  pdfInvoiceNo: "# Invois:"
+  pdfInvoiceTitle: Invois
+  pdfItemAmount: Jumlah
+  pdfItemCode: Item
+  pdfItemDiscount: Diskaun
+  pdfItemNo: "#"
+  pdfItemQuantity: Kuantiti
+  pdfItemRate: Kadar
+  pdfPaymentBankTransfer: Pemindahan bank
+  pdfPaymentCheck: Melalui cek
+  pdfPaymentCheckPayableTo: 'Buat cek yang dibayar kepada:'
+  pdfPaymentInstructions: Arahan pembayaran
+  pdfPaymentOther: Lain-lain
+  pdfPaymentPayPal: Melalui PayPal
+  pdfPaymentPaypalSendTo: 'Hantar pembayaran kepada:'
+  pdfPoNumber: 'Nombor PO:'
+  pdfRemark: "*Menandakan produk tidak perlu cukai"
+  pdfShippingAmount: Jumlah Penghantaran
+  pdfShippingFob: Penghantaran Percuma Atas Kapal (PAK)
+  pdfShippingShipDate: Tarikh Penghantaran
+  pdfShippingTo: Hantar Kepada
+  pdfShippingTracking: Pengesanan Penghantaran
+  pdfShippingVia: Dihantar Melalui
+  pdfSignature: Tandatangan
+  pdfTerms: 'Terma:'
+  pdfTotalBalanceDue: Baki Tertunggak
+  pdfTotalDiscount: Diskaun
+  pdfTotalPaid: Telah dibayar
+  pdfTotalShipping: Penghantaran
+  pdfTotalSubtotal: Jumlah kecil
+  pdfTotalTaxable: Yang boleh dikenakan cukai
+  pdfTotalTaxRate: Cukai
+  pdfTotalTotal: Jumlah
+  pl: 
+  placeholder_no_client: "(Tiada pelanggan)"
+  please_rate: Sila nilaikan Invois Mudah
+  please_specify: Sila nyatakan
+  prefBackupSummary: Kad SD, Dropbox™ atau Google Drive™
+  prefBackupTitle: Sandaran
+  prefDeleteAllSummary: Padam semua rekod daripada pangkalan data
+  prefDeleteAllTitle: Padam Semua Rekod
+  prefEmailDbSummary: Emel kepada sandaran pangkalan data semasa anda
+  prefEmailDbTitle: Emel
+  prefFirstTimeSetup: Setup kali pertama
+  prefix_business_number: 'Nombor Perniagaan:'
+  prefix_fax: 'F:'
+  prefix_mobile: 'M:'
+  prefix_phone: 'P:'
+  prefLangTitle: Bahasa
+  prefLinkDropBoxSummary: Paut app dengan akaun Dropbox™ anda
+  prefLinkDropBoxTitle: Dropbox™
+  prefLogSummary: v%1$s
+  prefLogTitle: Log perubahan
+  prefRate: Berikan Rating Kepada Invois Mudah
+  prefRestoreSummary: Kad SD, Dropbox™ atau Google Drive™
+  prefRestoreTitle: Pulihkan
+  prefTitleDate: Format tarikh
+  prefUnlinkDropBoxSummary: Batal pautan app ini dengan akaun Dropbox™ anda
+  prefUnlinkDropBoxTitle: Batal pautan dengan Dropbox™
+  progressPreparing: Menyediakan ...
+  progress_checking: Semakan ...
+  progress_exporting: Mengeksport...
+  progress_generate_pdf: Menjana PDF ...
+  progress_loading: Memuatkan
+  progress_resetting: Menetapkan semula
+  progress_validate_email: Pengesahan emel ...
+  pt_BR: Português
+  purchase_appeal_message: Pembelian Invois Mudah membolehkan saya untuk terus tambah
+    ciri-ciri baru dan berikan sokongan.
+  purchase_choose_plan: Pilih sebuah pelan
+  purchase_message_unlock: Sila buat pilihan di bawah untuk membuka kunci Invois Mudah.
+  purchase_monthly_desc: Langgan secara bulanan untuk membuka kunci invois tanpa had,
+    anda boleh membatalkan pada bila-bila masa.
+  purchase_monthly_fmt: Bulanan (%s)
+  purchase_notready: Belum lagi sedia untuk membeli?
+  purchase_plan_enterprise: Perusahaan
+  purchase_plan_enterprise_desc1: Invois-invois dan pelanggan-pelanggan yang tidak
+    terhad
+  purchase_plan_enterprise_desc2: Segerakkan pelbagai peranti
+  purchase_plan_enterprise_desc3: Pelbagai pengguna
+  purchase_plan_pro: Pro
+  purchase_plan_pro_desc: Invois-invois dan pelanggan-pelanggan yang tidak terhad
+  purchase_plan_starter: Permulaan
+  purchase_plan_starter_desc: Sehingga 100 invois dan 50 pelanggan setiap tahun
+  purchase_reset_connection: Tetapkan semula sambungan
+  purchase_support: Sokongan
+  purchase_text_monthly: Bulanan
+  purchase_text_yearly: Setiap tahun
+  purchase_thanks: Terima kasih kerana membeli Invois Mudah!
+  purchase_upgrade_title: Upgrade untuk membuat lebih banyak invois!
+  purchase_yearly_desc: Disyorkan (dapatkan 2 bulan percuma setiap tahun!)
+  purchase_yearly_lbl: Tahunan (%s)
+  rating_message_thanks: Terima kasih kerana memberi Invois Mudah sebuah penilaian.
+    Peningkatan bagaimana yang ingin anda lihat?
+  ru: "русский"
+  sameDay: Bayar saat penerimaan
+  section_bank_transfer: Pemindahan bank
+  section_business: Perniagaan
+  section_business_address: Alamat Perniagaan
+  section_checks: Buat cek untuk dibayar kepada
+  section_header_payment_options: Pembayaran (Pindahan Bank, PayPal, dan lain-lain)
+  section_paypal_address: Alamat Paypal
+  setting_online_invoice_payment: 
+  setup_payments_cost_msg: 2.9% + 30¢ pada caj yang berjaya.
+  setup_payments_enable_msg: Letakkan butang BAYAR SEKARANG pada invois-invois anda.
+  setup_payments_features_msg: Terima Visa, Mastercard dan American Express. Pendapatan
+    dipindahkan ke akaun bank anda setiap 2 hari secara rolling.
+  sk: 
+  sms_chooser_always: Sentiasa
+  sms_chooser_title: Hantar
+  sms_dialog_title: Nombor apakah?
+  sms_error_default: Maaf, tidak dapat mencari aplikasi SMS default anda
+  summaryContactInfo1: Sertakan butir hubungan syarikat anda, anda boleh meninggalkan
+    beberapa kosong.
+  summaryContactInfo2: Maklumat ini digunakan untuk memaparkan butir-butir hubungan
+    anda pada invois. Invois Mudah tidak mengumpul maklumat ini untuk tujuan pemasaran.
+  summaryQtyRate: Tunjukkan kolum Kuantiti, Kadar & Jumlah pada invois.
+  survey_business_type: Jenis perniagaan
+  survey_customer_type: Jenis pelanggan-pelanggan
+  survey_intro: Ceritakan sedikit tentang perniagaan anda untuk membantu memandu penambahbaikan
+    aplikasi pada masa depan!
+  survey_invoices_monthly: Invois-invois sebulan
+  survey_payment_method1: Kaedah pembayaran yang paling biasa
+  survey_payment_method2: Kaedah pembayaran yang paling biasa seterusnya
+  survey_receiving_payments: Menerima bayaran
+  survey_years_business: Tahun dalam perniagaan
+  sv: 
+  sync_desc: Menyegerakkan data dari peranti anda ke awan
+  tabHistory: Sejarah
+  tabPayment: Pembayaran
+  tab_closed: Tertutup
+  tab_contact: Hubungi
+  tab_general: Jeneral
+  tab_logo: Logo
+  tab_open: Terbuka
+  tab_paid: Sudah Dibayar
+  tab_recent: Baru-baru ini
+  tab_unpaid: Belum dibayar
+  taxDeducted: Cukai yang dipotong
+  terms_custom: Khas
+  textAddItem: Tambah Produk
+  textAmount: Jumlah
+  textBalanceDue: Baki Tertunggak
+  textBuy: Beli versi penuh
+  textClient: Pelanggan
+  textComments: Nota
+  textConnected: Bersambung
+  textDate: Tarikh
+  textDatePaid: Tarikh Dibayar
+  textDeleteClientMsg: Adakah anda pasti anda mahu memadam pelanggan ini?
+  textDeleteClientTitle: Padam pelanggan
+  textDeleteEstimateMsg: Adakah anda pasti anda mahu memadam anggaran ini?
+  textDeleteEstimateTitle: Padam anggaran
+  textDeleteInvoiceMsg: Adakah anda pasti anda mahu memadam invois ini?
+  textDeleteInvoiceTitle: Padam invois
+  textDeleteItemMsg: Adakah anda pasti anda mahu memadam item ini dari invois?
+  textDeleteItemTitle: Buang item
+  textDeleteProductMsg: Adakah anda pasti anda mahu memadam produk ini?
+  textDeleteProductTitle: Padam produk
+  textDescription: Nota-nota
+  textDiscount: Diskaun
+  textDiscountPer: "% Diskaun"
+  textDue: Tarikh akhir
+  textDueToday: Oleh kerana hari ini
+  textFob: Percuma Atas Kapal (PAK)
+  textFullyPaid: Dibayar Sepenuhnya
+  textInclusiveOption: Termasuk dalam harga
+  textInvoice: "# Invois"
+  textItemCode: Penerangan
+  textLabel: Label
+  textNotificationDropped: Gagal menghantar invois
+  textNotificationOpen: Invois telah dibuka
+  textOnlinePayment: Pembayaran
+  textOverdue: Tertunggak
+  textPaid: Dibayar
+  textPartPayment: Pembayaran Separuh
+  textPoNumber: Nombor PO
+  textPurchaseStatus: Semak status pembelian
+  textQuantity: Kuantiti
+  textRate: Kos Unit
+  textSelectItem: Pilih Produk
+  textSetContact: Telefon, emel & laman web
+  textSetCurrency: Mata Wang
+  textSetDefaultSMSApp: Aplikasi SMS default
+  textSetDetails: Nama, alamat dan nombor reg
+  textSetDiscount: Diskaun Default
+  textSetEmail: Emel
+  textSetFax: Faks
+  textSetInvoiceComment: Nota lalai
+  textSetInvoiceFully: Default kepada telah dibayar
+  textSetMobile: Telefon Bimbit
+  textSetOptions: Togel kuantiti dan jumlah
+  textSetPhone: Telefon
+  textSetRename: Namakan semula bidang
+  textSetSetLogo: Logo
+  textSetTaxType: Jenis
+  textSetTerms: Terma pembayaran
+  textSetup: Setup
+  textSetupOnlinePayments: Mendapat bayaran dengan cepat
+  textSetWeb: Laman Web
+  textShipDate: Tarikh Penghantaran
+  textShipping: Penghantaran
+  textShipVia: Penghantaran Via
+  textSubtotal: Jumlah kecil
+  textSummaryAbout: Mengenai
+  textSummaryCompany: Perniagaan
+  textSummaryDefault: Default
+  textSummaryInvoice: Invois
+  textSummaryLocale: Tempat
+  textSummaryNotifications: Notifikasi
+  textSummaryTaxes: Cukai-cukai
+  textTax: Cukai
+  textTax1: Cukai
+  textTax1Summary: Edit nama cukai dan % to kepada invois-invois anda.
+  textTaxable: Yang boleh dicukai
+  textTaxInclusive: Termasuk
+  textTaxInclusiveSetting: Temasuk Cukai
+  textTaxInclusiveSummary: Ini akan menetapkan sama ada jumlah penuh itu termasuk/tidak
+    termasuk cukai dalam invois anda.
+  textTaxRate: Kadar Cukai
+  textTaxSetting: Kadar
+  textTaxSummary: Periksa sama ada harga termasuk Cukai
+  textTaxSummarySelect: Tetapkan kepada tidak disemak jika harga tidak termasuk Cukai.
+  textTerms: Terma
+  textTotal: Jumlah
+  textTracking: "# Pengesanan"
+  textType: Jenis
+  text_address: Alamat
+  text_bank_transfer: Pemindahan bank
+  text_billing_address1: Baris 1
+  text_billing_address2: Baris 2
+  text_billing_address3: Baris 3
+  text_billing_email: Emel
+  text_billing_name: Nama
+  text_check: Semak
+  text_contact: Kontak
+  text_currency: Mata Wang
+  text_export: Eksport
+  text_fax: Faks
+  text_hint_percentage: 0%
+  text_hint_shipping_name: Nama
+  text_import_contact: Import kontak
+  text_install: Pasang
+  text_mobile: Telefon bimbit
+  text_other: Lain-lain
+  text_paypal: PayPal
+  text_phone: Telefon
+  text_setup_logo: Pilih untuk setup sebuah logo untuk muncul di setiap invois.
+  text_short_ago: lalu
+  text_summary_billing: Alamat
+  text_summary_shipping: Alamat Penghantaran
+  text_sync: Segerak (Beta)
+  text_to: Kepada
+  text_website: Laman Web
+  titleCompany: Butiran Perniagaan
+  titleContactInformation: Kontak Perniagaan
+  titleDatabase: Sandaran
+  titleEditClient: Edit pelanggan
+  titleEditItem: Edit produk
+  titleEmail: Emel invois
+  titleEmailEstimate: Emel anggaran
+  titleEstimateInfo: Maklumat Anggaran
+  titleFullyPaid: Invois Dibayar Penuh
+  titleInvoiceComment: Nota lalai
+  titleInvoiceInfo: Maklumat Invois
+  titleInvoiceOption: Pilihan Invois
+  titleNewClient: Pelanggan baru
+  titleNewItem: Produk baru
+  titleOnlinePayments: Menerima pembayaran dalam talian
+  titlePaymentInfo: Maklumat Pembayaran
+  titleRestoreDBFail: Gagal pulih semula
+  titleSelectCurrency: Pilih Mata Wang
+  titleSelectDiscount: Pilih Pilihan Diskaun
+  titleSelectTax: Pilih Jenis Cukai
+  titleSelectTerms: Pilih Terma
+  titleSetting: Tetapan
+  titleSetupEditItem: Edit Item
+  titleSetupNewItem: Tambah Item
+  titleShippingInfo: Maklumat Penghantaran
+  titleTax1: Cukai
+  titleTaxInclusive: Pilihan Termasuk Cukai
+  titleTaxInclusiveOption: Pilihan Termasuk Cukai
+  titleTaxRate: Kadar
+  titleYourLogo: Logo Perniagaan
+  title_edit_estimate: Edit anggaran
+  title_edit_invoice: Edit invois
+  title_export_to: Eksport ke
+  title_purchase: Pembelian diperlukan
+  toast_pdf_comment_error: Maaf! Tidak dapat tambah nota anda ke PDF
+  toast_setup_payments_error: Maaf, berlaku masalah, sila pastikan anda bersambung
+    ke internet dan cuba lagi.
+  toggle_mk_product: Jimat untuk digunakan pada invois-invois akan datang
+  totalTax: Cukai ke atas jumlah
+  tour_invoices_add: Ketik untuk membuat invois
+  tour_invoice_add_item: Tambah item-item untuk invois anda di sini
+  tour_invoice_business_details: Edit nama perniagaan, logo dan lain-lain
+  tour_invoice_discount_taxes_paid: Ketik untuk mengedit diskaun, cukai atau\n tandakan
+    invois dibayar
+  tour_invoice_preview_zoom: Anda boleh picit untuk zum
+  tr: Türk
+  tw: "中文 (繁體)"
+  validation_email: Email tidak sah
+  validation_invalid_email: Emel tidak sah
+  validation_paypal_email: Sila isikan emel yang sah untuk PayPal
+  validation_send_email: Sila isikan email yang sah untuk dihantar
