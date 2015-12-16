@@ -1,282 +1,589 @@
 ---
 de:
-  fabiantest: changed bla
-  push: test
-  date:
-    abbr_day_names:
-    - Son
-    - Mo
-    - Di
-    - Mi
-    - Do
-    - Fr
-    - Sa
-    abbr_month_names:
-    - 
-    - Jan
-    - Feb
-    - Mär
-    - Apr
-    - Mai
-    - Jun
-    - Jul
-    - Aug
-    - Sep
-    - Okt
-    - Nov
-    - Dez
-    day_names:
-    - Sonntag
-    - Montag
-    - Dienstag
-    - Mittwoch
-    - Donnerstag
-    - Freitag
-    - Samstag
-    formats:
-      default: "%d.%m.%Y"
-      long: "%e. %B %Y"
-      short: "%e. %b"
-    month_names:
-    - 
-    - Januar
-    - Februar
-    - März
-    - April
-    - Mai
-    - Juni
-    - Juli
-    - August
-    - September
-    - Oktober
-    - November
-    - Dezember
-    order:
-    - :day
-    - :month
-    - :year
-  datetime:
-    distance_in_words:
-      about_x_hours:
-        one: vor etwa einer Stunden
-        other: vor etwa %{count} Stunden
-      about_x_months:
-        one: vor etwa einem Monatsefwf4
-        other: vor etwa %{count} Monaten
-      about_x_years:
-        one: vor etwa einem Jahr
-        other: vor etwa %{count} Jahren
-      almost_x_years:
-        one: vor fast einem Jahr
-        other: vor fast %{count} Jahren
-      great: test
-      half_a_minute: vor einer halben Minute
-      less_than_x_minutes:
-        one: vor weniger als einer Minute
-        other: vor weniger als %{count} Minuten
-      less_than_x_seconds:
-        one: vor weniger als eine Sekunde
-        other: vor weniger als %{count} Sekunden
-      my_key: test testsadfds
-      other_key: more test testasDWxcvxcwefewfwefwrwerwer
-      over_x_years:
-        one: vor mehr als einem Jahr
-        other: vor mehr als %{count} Jahren
-      super_key: crazy testersdfe
-      x_days:
-        one: vor einem Tag
-        other: vor %{count} Tagen
-      x_minutes:
-        one: vor einer Minute
-        other: vor %{count} Minuten
-      x_months:
-        one: vor einem Monat
-        other: vor %{count} Monaten
-      x_seconds:
-        one: vor einer Sekunde
-        other: vor %{count} Sekunden
-    prompts:
-      day: Tag
-      hour: Stunden
-      minute: Minute
-      month: Monat
-      second: Sekunde
-      year: Jahr //all are in singular now
-  errors:
-    format: "%{attribute} %{message}"
-    messages:
-      accepted: muss akzeptiert werden
-      blank: muss ausgefüllt werden
-      confirmation: stimmt nicht mit %{attribute} überein
-      empty: muss ausgefüllt werden
-      equal_to: muss genau %{count} sein
-      even: muss gerade sein
-      exclusion: ist nicht verfügbar
-      greater_than: muss größer als %{count} sein
-      greater_than_or_equal_to: muss größer oder gleich %{count} sein
-      inclusion: ist kein gültiger Wert
-      invalid: ist nicht gültig
-      less_than: muss kleiner als %{count} sein
-      less_than_or_equal_to: muss kleiner oder gleich %{count} sein
-      not_a_number: ist keine Zahl
-      not_an_integer: muss ganzzahlig sein
-      odd: muss ungerade sein
-      other_than: darf nicht gleich %{count} sein
-      present: darf nicht ausgefüllt werden
-      record_invalid: 'Gültigkeitsprüfung ist fehlgeschlagen: %{errors}'
-      restrict_dependent_destroy:
-        one: Datensatz kann nicht gelöscht werden, da ein abhängiger %{record}-Datensatz
-          existiert.
-      taken: ist bereits vergeben
-      too_long:
-        one: ist zu lang (mehr als 1 Zeichen)
-        other: ist zu lang (mehr als %{count} Zeichen)
-      too_short:
-        one: ist zu kurz (weniger als 1 Zeichen)
-        other: ist zu kurz (weniger als %{count} Zeichen)
-      wrong_length:
-        one: hat die falsche Länge (muss genau 1 Zeichen haben)
-        other: hat die falsche Länge (muss genau %{count} Zeichen haben)
-    template:
-      body: 'Bitte überprüfen Sie die folgenden Felder:'
-      header:
-        one: 'Konnte %{model} nicht speichern: ein Fehler.'
-        other: 'Konnte %{model} nicht speichern: %{count} Fehler.'
-  Genesis:
-    AdminContent:
-      CardsEdited16:
-        MakeAConnection:
-          Name: sdvsdva
-        NoDevicesAtDinner:
-          Deccription: avsvs
-        Protein&Productivity:
-          Name: avsdvsd
-        RestYourBrain:
-          Deccription: afwef
-        SandwichSwaps:
-          Deccription: ewfwef
-        SpiceItUp:
-          Name: sadsd
-        Thrive:
-          Deccription: sdvs
-        VisitANeighbor:
-          Name: edew
-        WorkTogether:
-          Name: wefew
-      CardsEdited18:
-        CANApproach:
-          Deccription: sdavsd
-        FadDiets:
-          Name: asdvsd
-        FruitBowl:
-          Deccription: sdvsdv
-        Hypertension:
-          Name: sdvfv
-        OutOnALimb:
-          Deccription: xcvxc
-        SecretOfSuccess:
-          Deccription: xcvxcyv
-        SmallChanges:
-          Name: sdsd
-      CardsHeader:
-        ContributingCard: sdvs
-      CardsHeadlines:
-        Header2: asd
-  hello: hello
-  helpers:
-    select:
-      prompt: Bitte wählen
-    submit:
-      create: "%{model} erstellen"
-      submit: "%{model} speichern"
-      update: "%{model} aktualisieren"
-  more: test
-  new_key: new shit
-  number:
-    currency:
-      format:
-        delimiter: "."
-        format: "%n %u"
-        precision: 2
-        separator: ","
-        significant: false
-        strip_insignificant_zeros: false
-        unit: "€"
-    format:
-      delimiter: "."
-      precision: 2
-      separator: ","
-      significant: false
-      strip_insignificant_zeros: false
-    human:
-      decimal_units:
-        format: "%n %u"
-        units:
-          billion:
-            one: Milliarde
-            other: Milliarden
-          million: Millionen
-          quadrillion:
-            one: Billiarde
-            other: Billiarden
-          thousand: Tausend
-          trillion: Billionen
-      format:
-        precision: 3
-        significant: true
-        strip_insignificant_zeros: true
-      storage_units:
-        format: "%n %u"
-        units:
-          byte:
-            one: Byte
-            other: Bytes
-          gb: GB
-          kb: KB
-          mb: MB
-          tb: TB
-    percentage:
-      format:
-        format: "%n %"
-  push: push
-  support:
-    array:
-      last_word_connector: " und "
-      two_words_connector: " und "
-      words_connector: ", "
-  test: test
-  time:
-    am: vormittags
-    formats:
-      default: "%A, %d. %B %Y, %H:%M Uhr"
-      long: "%A, %d. %B %Y, %H:%M Uhr"
-      short: "%d. %B, %H:%M Uhr"
-    pm: nachmittags
-  user_profile_total_wealth: Totale Hölle
-  Vieques:
-    Genesis:
-      Sleep:
-        Trackers:
-          Here: |-
-            {Contact.Firstname}
-
-            {Contact.Demographics[“Age”].Value}
-
-            {Contact.SurveysList:'Title of the table'}
-
-            {Reviewee.Relationships[21].RequiredSelectionCount}
-          RecommendMultiple: Hello My World\n<p>Hallo Welt</p>
-      Trackers:
-        8ISGREAT: Toll
-      TrophyCase:
-        YouVeEarnedThisTrophyTimes: sdsd
-    Groups:
-      ACTIVITY: heloo <%PLACEHOLDER%> <%L:PLACEHOLDER%> <%C:PLACEHOLDER%>
-      AskDelete: sdafsd
-      AskLeave: Hau ab digga
-      BackToGroups: wefewfewsdewferferdqefe
-      BecameAdminError: afeferqgafwefefwef
-      Category: ewegwerg
-      deleting: aewfewf
-      EmptyListOfMembers: aeferf
-      Groups: afew
+  action_menutime: SUCHE
+  action_settings: andre %@ %d %s
+  activity_title_client: Clients
+  activity_title_item: Products
+  alert_msg_remove_logo: Are you sure you want to remove your logo?
+  alert_title_remove_logo: Remove logo
+  appRateNegative: No thanks
+  appRateNeutral: Remind later
+  apprate_please_support: Please support Invoice Maker by leaving a review on Google
+    Play mentioning how it helps your business.
+  apprate_submit_feedback: Submit feedback
+  apprate_thanks: Thanks!
+  app_name: Invoice Maker
+  backup_auto_last_msg: 'The last backup was completed at: '
+  backup_auto_notyet_msg: A backup has not yet been made.  Backups are managed by
+    the operating system.
+  backup_auto_title: Automatic backup
+  bs: Bosanski
+  btnClear: Clear
+  btnRate: Rate
+  btn_add_logo: Choose a Logo
+  btn_cancel: Cancel
+  btn_confirm: Confirm
+  btn_delete: Delete
+  btn_delete_logo: Delete Logo
+  btn_del_short: Del
+  btn_finish: Finish
+  btn_next: Next
+  btn_ok: OK
+  btn_ok_exclaim: Ok!
+  btn_previous: Previous
+  btn_save: Save
+  btn_search: Search
+  btn_skip: Skip
+  btn_sort: Sort
+  btn_update_logo: Change Logo
+  button_enable_online_payment: Enable online payment
+  cn: "中文(简体)"
+  companyComent: Default notes
+  cs: "čeština"
+  da: Dansk
+  days_1: Next day
+  days_10: 10 Days
+  days_120: 120 Days
+  days_14: 14 Days
+  days_180: 180 Days
+  days_2: 2 Days
+  days_21: 21 Days
+  days_3: 3 Days
+  days_30: 30 Days
+  days_365: 365 Days
+  days_4: 4 Days
+  days_45: 45 Days
+  days_5: 5 Days
+  days_6: 6 Days
+  days_60: 60 Days
+  days_7: 7 Days
+  days_90: 90 Days
+  dbBackupChoose: Choose a backup location
+  dbBackupFailMsg: 'Database backup fail to: '
+  dbBackupSuccessMsg: 'A backup has been successfully saved to: '
+  dbNoDatabaseMsg: Database has not created yet
+  dbRestoreChoose: Choose a location to restore from
+  dbRestoreFailMsg: Restore database failure
+  dbRestoreSuccessMsg: The backup has been successfully restored
+  de: Deutsch
+  discardClientMsg: Are you sure you want to discard changes to this client?
+  discardEmailMsg: Are you sure you want to discard this email?
+  discardProductMsg: Are you sure you want to discard changes to this item?
+  discardTitle: Discard changes
+  drawer_close: Close navigation drawer
+  drawer_open: Open navigation drawer
+  dueOn: Due
+  el: "Ελληνικά"
+  emailFromHint: From
+  emailMessageHint: Message
+  emailSubject: Invoice
+  emailSubjectDatabase: "%s - Database"
+  emailSubjectEstimate: Estimate
+  emailToHint: To
+  email_business_name_placeholder: Business name here
+  email_estimate_msg: 'To view your estimate from {{ from_name }} for {{total }} click
+    the link below:'
+  email_estimate_subject: New estimate {{ invoice_no }} from {{ from_name }}
+  email_invoice_msg: 'To view your invoice from {{ from_name }} for {{total }} click
+    the link below:'
+  email_invoice_subject: New invoice {{ invoice_no }} from {{ from_name }}
+  email_message_send_me_copy: Send me a copy
+  email_pay_online: Pay online
+  email_thanks: Best regards
+  emptyClentList: You can create new clients here or import from your contacts.
+  emptyItemList: Here you can manage a list of products or services that you repeatedly
+    invoice for.
+  empty_closed_estimates: Estimates that have been converted to an invoice will show
+    up here
+  empty_invoices_paid: Invoices that you mark paid will show up here.
+  empty_open_estimates: Estimates that haven't been converted to an invoice will show
+    up here
+  empty_recent_estimates: Estimates you create will show up here. Click the plus button
+    below to create your first estimate.
+  empty_recent_invoices: Your invoices will show up here. Click the plus button below
+    to create your first invoice!
+  empty_unpaid_invoices: Invoices that are not yet paid show up here.
+  en: English (US)
+  en_au: English (AU)
+  en_ca: English (CA)
+  en_gb: English (GB)
+  error_due_date_not_before_invoice_date: Due date must be after invoice date
+  error_empty_value: Cannot be empty
+  error_exporting: Sorry, something went wrong exporting
+  error_failed_pdf: Sorry, something went wrong previewing your invoice
+  error_import_contact: Sorry, something went wrong importing your contact
+  error_install_gcp: Sorry, something went wrong launching the Android Market to install
+    Google Cloud Print
+  error_print_gcp: Sorry, unable to print to Google Cloud Print
+  err_activity_not_found: Sorry no suitable apps were found
+  err_determine_purchased: Sorry we were unable to determine if you have unlocked
+    Invoice Maker, please make sure you are online and try again later.
+  err_dropbox_backup_failed: Dropbox backup failed
+  err_external_pdf: Sorry something went wrong opening your PDF invoice in an external
+    app
+  err_failed_backup_email: Failed to backup email db
+  err_failed_generate_pdf: Sorry, something went wrong generating your PDF
+  err_failed_loading_logo: Sorry, something went wrong loading your logo
+  err_failed_load_clients: Failed to fetch clients
+  err_failed_saving_logo: Sorry, an error occurred saving your logo
+  err_failed_sending_invoice: Sorry, something went wrong sending your invoice
+  err_failed_to_load_invoice_or_estimate: Failed to load %s
+  err_iab_failed: Sorry we were unable to setup in app billing, please make sure you
+    are online and try again later.
+  err_invoice_notfound: Sorry, unable to find this invoice
+  err_logo_format: 'Sorry, your logo doesn''t seem to be in one of the supported formats:
+    JPG, PNG, GIF, BMP'
+  err_printing_not_supported: Sorry, printing isn't supported on this version of Android
+  err_purchase_failed_try_reset: Sorry, your purchase did not go through, please try
+    reset.
+  err_render_pdf: Failed to render PDF
+  err_reset_failed: Failed to reset
+  err_restore_failed: Restore failed
+  err_toast_no_space: Sorry, it looks like there is no storage space left on your
+    device
+  err_toast_unable_to_start_sync: Sorry, unable to start synchronization, please make
+    sure you are online
+  es: Español
+  estimate_code_pattern: EST0001
+  event_failed_queue_caption: Failed to queue for delivery
+  event_queued_caption: Queued for delivery
+  event_summary_failed_deliver: 'Failed to deliver to '
+  evt_summary_estimate_created: Created
+  evt_summary_invoice_created: Created
+  evt_summary_opened_by: 'Read by '
+  evt_summary_received_by: 'Received by '
+  evt_summary_sent_to: 'Sent to '
+  exported_to: 'Successfully exported invoices to:'
+  export_desc: Generate a CSV file summarizing your invoices
+  extend_button: Extend
+  extend_desc: Not ready to buy yet? Get 3 more free invoices.
+  fi: Suomen kieli
+  fr:
+    II: wewe
+  fullyPaidSummary: This will set all your newly created invoices as Fully Paid
+  hintBusinessNumber: Registration number
+  hintCompanyName: Name
+  hintEmail: 'e.g info@androidapphk.com '
+  hintFax: e.g 6789 9012
+  hintMobile: e.g 6789 5678
+  hintPhone: e.g 2012 3456
+  hintSearch: Client name
+  hintWeb: 'e.g www.androidappshk.com '
+  hint_bank_transfer: 'Enter bank account # and other details here'
+  hint_check_payable_to: You or your business's name
+  hint_feedback: Feedback
+  hint_payment_options: Payment options
+  hint_payment_other: Additional payment instructions
+  hint_paypal: Enter your paypal email address
+  hu: Magyar
+  iab_checkstatus_active: 'Good news, it looks like your purchase is active: '
+  iab_checkstatus_inactive: Our records show you do not currently have a plan purchased
+  iab_status_unknown: Unknown
+  id: Bahasa Indonesia
+  III: efwqefwef
+  invoice_business_details_hint: Business name, details, logo
+  invoice_code_pattern: INV0001
+  invoice_item_numbered: Item %d
+  invoice_signed_on: Signed %s
+  it: Italiano
+  itemDiscountAmount: Flat amount
+  itemDiscountitems: Discount per item
+  itemDiscountSubTotal: Percentage
+  itemNoDiscount: No discount
+  itemQtyRate: Qty & Rate Columns
+  itemTax: Tax per item
+  ja: "日本語"
+  ko: "한국어"
+  menuBackupSdcard: SD Card
+  menuBrowse: Browse for backup file
+  menuCard: Card payment
+  menuClear: Clear
+  menuDelete: Delete
+  menuDropbox: Dropbox™
+  menuDuplicate: Duplicate
+  menuEdit: Edit
+  menuEmail: Email
+  menuGoogleDrive: Google™ Drive
+  menuMakeInvoice: Make invoice
+  menuMarkPaid: Mark paid
+  menuOpenIn: Open in...
+  menuPreview: Preview
+  menuPrint: Print
+  menuRemoveLogo: Remove logo
+  menuSdcard: SD Card
+  menuSelect: Select
+  menuShare: Share
+  menuSms: Text
+  menuUpdate: Edit
+  menu_backup: Backup
+  menu_client: Clients
+  menu_email_us: Support
+  menu_estimate: Estimates
+  menu_how_do_i: FAQ
+  menu_invoice: Invoices
+  menu_item: Products
+  menu_send: Send
+  menu_setting: Settings
+  ms: Bahasa Melayu
+  msgBackupDBFail: Sorry, something went wrong during the backup.
+  msgBackupDBSuccess: Backup successful
+  msgBackupDropboxUnlink: Please link the app to Dropbox™ before backup
+  msgBackupGoogleDriveRequired: Sorry, the Google Drive app could not be found
+  msgBackuping: Backing up...
+  msgDueDate: Due in %1$s Days
+  msgFileNotFound: File not found at
+  msgInvoiceNo: 'Invoice # should be letters followed by digits'
+  msgInvoicePdfNotFound: Invoice file not found, please generate the invoice again.
+  msgLinkDropboxFail: Link to Dropbox™ failure.
+  msgNoBackupDatabase: Sorry, no backups found.
+  msgPdfReader: Please install a PDF reader app
+  msgRestoreConfirm: Please make sure the backup file is the latest. Otherwise, you
+    may lose the newly saved data on the device.
+  msgRestoreDropboxUnlink: Please link the app to Dropbox™ before restore
+  msgRestoreNoBackupsFoundSDCard: 'No backups found in the folder:'
+  msgRestoreSdConfirm: Which backup would you like to restore?
+  msgRestoring: Restoring...
+  msg_change_lang: You may need to force the app to restart for the language to change
+    completely
+  msg_disable_online_payments: Are you sure you want to disable online payment of
+    your invoices?
+  msg_enable_sync: Please enable sync
+  msg_full_sync: Full sync...
+  msg_invoice_sent: Invoice sent!
+  msg_online_payment_setup: Nice work.  Your invoices will now include a PAY NOW button
+    so your customers can instantly pay online
+  msg_print_require_gcp: Printing requires Google Cloud Print.  Would you like to
+    install it now or use the web version?
+  msg_reset_succeeded: Successfully reset
+  msg_restore_invalid_db: Sorry, this doesn't look like a valid Invoice Maker database
+    backup
+  msg_sending_progress: Sending...
+  msg_syncing: Syncing...
+  nl: Nederlands
+  'no': Norsk
+  noTax: No Tax
+  notification_drop_msg: Please check the address %s and try again.
+  notification_drop_title: Unable to deliver %s
+  notification_fail_send_msg: Please check your internet connection and try again.
+  notification_fail_send_title: Unable to send %s
+  notification_invoice_read_msg: Your invoice has been read by %s
+  notification_invoice_read_title: Invoice read
+  notification_open_title: 'Open #%s'
+  'off': 'Off'
+  'on': 'On'
+  onboarding_done: You've got the basics setup now, go ahead and create your first
+    invoice!
+  onboarding_info: Information about your business will appear on each invoice.
+  onboarding_welcome_1: Welcome! Lets take a few seconds to get a few of the basics
+    setup.
+  onboarding_welcome_2: Tap next at any time, you can easily change this information
+    later, everything is optional.
+  payment_other: Other
+  pdfBillingTo: Bill To
+  pdfDate: Date
+  pdfDueDate: Due
+  pdfEstimateNo: 'Estimate #:'
+  pdfEstimateTitle: Estimate
+  pdfInvoiceNo: 'Invoice #:'
+  pdfInvoiceTitle: Invoice
+  pdfItemAmount: Amount
+  pdfItemCode: Description
+  pdfItemDiscount: Discount
+  pdfItemNo: "#"
+  pdfItemQuantity: Qty
+  pdfItemRate: Rate
+  pdfPaymentBankTransfer: Bank transfer
+  pdfPaymentCheck: By check
+  pdfPaymentCheckPayableTo: 'Make checks payable to: '
+  pdfPaymentInstructions: Payment instructions
+  pdfPaymentOther: Other
+  pdfPaymentPayPal: Via PayPal
+  pdfPaymentPaypalSendTo: 'Send payment to: '
+  pdfPoNumber: 'PO #'
+  pdfRemark: "* Indicates non-taxable product"
+  pdfShippingAmount: Ship Amount
+  pdfShippingFob: Ship FOB
+  pdfShippingShipDate: Ship Date
+  pdfShippingTo: Ship To
+  pdfShippingTracking: Ship Tracking
+  pdfShippingVia: Ship Via
+  pdfSignature: Signature
+  pdfTerms: 'Terms:'
+  pdfTotalBalanceDue: Balance Due
+  pdfTotalDiscount: Discount
+  pdfTotalPaid: Paid
+  pdfTotalShipping: Shipping
+  pdfTotalSubtotal: Subtotal
+  pdfTotalTaxable: Taxable
+  pdfTotalTaxRate: Tax
+  pdfTotalTotal: Total
+  pl: Język polski
+  placeholder_no_client: No client
+  please_rate: Please rate Invoice Maker
+  please_specify: Please specify
+  prefBackupSummary: SD Card, Dropbox™ or Google™ Drive
+  prefBackupTitle: Backup
+  prefDeleteAllSummary: Delete all records from database
+  prefDeleteAllTitle: Delete All Records
+  prefEmailDbSummary: Email a backup of your current database
+  prefEmailDbTitle: Email
+  prefFirstTimeSetup: First-time setup
+  prefix_business_number: 'Business Number:'
+  prefix_fax: 'F:'
+  prefix_mobile: 'M:'
+  prefix_phone: 'P:'
+  prefLangTitle: Language
+  prefLinkDropBoxSummary: Link the app with your Dropbox™ account
+  prefLinkDropBoxTitle: Dropbox™
+  prefLogSummary: v%1$s
+  prefLogTitle: Change log
+  prefRate: Rate Invoice Maker
+  prefRestoreSummary: SD Card, Dropbox™ or Google™ Drive
+  prefRestoreTitle: Restore
+  prefTitleDate: Date format
+  prefUnlinkDropBoxSummary: Unlink the app with your Dropbox™ account
+  prefUnlinkDropBoxTitle: Unlink with Dropbox™
+  progressPreparing: Preparing...
+  progress_checking: Checking...
+  progress_exporting: Exporting...
+  progress_generate_pdf: Generating PDF...
+  progress_loading: Loading
+  progress_resetting: Resetting
+  progress_validate_email: Validating email...
+  pt_BR: Português
+  purchase_appeal_message: Purchasing Invoice Maker enables me to continue to add
+    new features and provide support.
+  purchase_choose_plan: Choose a plan
+  purchase_message_unlock: Please select an option below to unlock Invoice Maker.
+  purchase_monthly_desc: Subscribe monthly to unlock unlimited invoices, you can cancel
+    any time.
+  purchase_monthly_fmt: Monthly (%s)
+  purchase_notready: Not ready to buy yet?
+  purchase_plan_enterprise: Enterprise
+  purchase_plan_enterprise_desc1: Unlimited invoices and clients
+  purchase_plan_enterprise_desc2: Sync multiple devices
+  purchase_plan_enterprise_desc3: Multiple users
+  purchase_plan_pro: Pro
+  purchase_plan_pro_desc: Unlimited invoices and clients
+  purchase_plan_starter: Starter
+  purchase_plan_starter_desc: Up to 100 invoices and 50 clients per year
+  purchase_reset_connection: Reset connection
+  purchase_support: Support
+  purchase_text_monthly: Monthly
+  purchase_text_yearly: Yearly
+  purchase_thanks: Thanks for purchasing Invoice Maker!
+  purchase_upgrade_title: Upgrade to make more invoices!
+  purchase_yearly_desc: Recommended (get 2 free months each year!)
+  purchase_yearly_lbl: Yearly (%s)
+  rating_message_thanks: Thanks for rating Invoice Maker. How would you like to see
+    it improved?
+  ru: "русский"
+  sameDay: Due on receipt
+  section_bank_transfer: Bank transfer
+  section_business: Business
+  section_business_address: Business Address
+  section_checks: Make checks payable to
+  section_header_payment_options: Payment (Bank transfer, PayPal, etc)
+  section_paypal_address: Paypal address
+  setting_online_invoice_payment: Online invoice payment
+  setup_payments_cost_msg: 2.9% + 30¢ per successful charge.
+  setup_payments_enable_msg: Put a PAY NOW button on your invoices.
+  setup_payments_features_msg: Accept Visa, Mastercard and American Express. Earnings
+    are transferred to your bank account on a 2-day rolling basis.
+  sk: Slovenčina
+  sms_chooser_always: Always
+  sms_chooser_title: Send
+  sms_dialog_title: Which number?
+  sms_error_default: Sorry, can't find your default SMS app
+  summaryContactInfo1: Enter your company contact information, you can leave some
+    blank.
+  summaryContactInfo2: This information is used to display your contact details on
+    invoices. Invoice Maker does not collect this information for marketing purposes.
+  summaryQtyRate: Show Quantity, Rate & Amount columns on the invoice.
+  survey_business_type: Business type
+  survey_customer_type: Type of customers
+  survey_intro: Tell us a bit about your business to help guide future app improvements!
+  survey_invoices_monthly: Invoices per month
+  survey_payment_method1: Most common payment method
+  survey_payment_method2: Next most common payment method
+  survey_receiving_payments: Receiving payments
+  survey_years_business: Years in business
+  sv: Svenska
+  sync_desc: Syncs data from your device to the cloud
+  tabHistory: History
+  tabPayment: Payment
+  tab_closed: Closed
+  tab_contact: Contact
+  tab_general: General
+  tab_logo: Logo
+  tab_open: Open
+  tab_paid: Paid
+  tab_recent: All
+  tab_unpaid: Outstanding
+  taxDeducted: Tax deducted
+  terms_custom: Custom
+  textAddItem: Add Product
+  textAmount: Amount
+  textBalanceDue: Balance Due
+  textBuy: Purchase full version
+  textClient: Client
+  textComments: Notes
+  textConnected: Connected
+  textDate: Date
+  textDatePaid: Date Paid
+  textDeleteClientMsg: Are you sure you want to delete this client?
+  textDeleteClientTitle: Delete client
+  textDeleteEstimateMsg: Are you sure you want to delete this estimate?
+  textDeleteEstimateTitle: Delete estimate
+  textDeleteInvoiceMsg: Are you sure you want to delete this invoice?
+  textDeleteInvoiceTitle: Delete invoice
+  textDeleteItemMsg: Are you sure you want to remove this item from the invoice?
+  textDeleteItemTitle: Remove item
+  textDeleteProductMsg: Are you sure you want to delete this product?
+  textDeleteProductTitle: Delete product
+  textDescription: Notes
+  textDiscount: Discount
+  textDiscountPer: Discount %
+  textDue: Due
+  textDueToday: Due today
+  textFob: FOB
+  textFullyPaid: Fully Paid
+  textInclusiveOption: Included in prices
+  textInvoice: 'Invoice #'
+  textItemCode: Description
+  textLabel: Label
+  textNotificationDropped: Failed to deliver invoice
+  textNotificationOpen: Invoice opened
+  textOnlinePayment: Payments
+  textOverdue: Overdue
+  textPaid: Paid
+  textPartPayment: Partial Payment
+  textPoNumber: PO Number
+  textPurchaseStatus: Check purchase status
+  textQuantity: Quantity
+  textRate: Unit cost
+  textSelectItem: Select Product
+  textSetContact: Phone, email & website
+  textSetCurrency: Currency
+  textSetDefaultSMSApp: Default SMS app
+  textSetDetails: Name, address & reg number
+  textSetDiscount: Default discount
+  textSetEmail: Email
+  textSetFax: Fax
+  textSetInvoiceComment: Default notes
+  textSetInvoiceFully: Default to paid
+  textSetMobile: Mobile
+  textSetOptions: Toggle quantity & amount
+  textSetPhone: Phone
+  textSetRename: Rename fields
+  textSetSetLogo: Logo
+  textSetTaxType: Type
+  textSetTerms: Payment terms
+  textSetup: Setup
+  textSetupOnlinePayments: Get paid fast
+  textSetWeb: Website
+  textShipDate: Ship Date
+  textShipping: Shipping
+  textShipVia: Ship Via
+  textSubtotal: Subtotal
+  textSummaryAbout: About
+  textSummaryCompany: Business
+  textSummaryDefault: Default
+  textSummaryInvoice: Invoice
+  textSummaryLocale: Locale
+  textSummaryNotifications: Notifications
+  textSummaryTaxes: Taxes
+  textTax: Tax
+  textTax1: Tax
+  textTax1Summary: Edit tax name and % to be applied to your invoices.
+  textTaxable: Taxable
+  textTaxInclusive: Inclusive
+  textTaxInclusiveSetting: Tax Inclusive
+  textTaxInclusiveSummary: This will set whether the total amount includes/excludes
+    tax in your invoice.
+  textTaxRate: Tax Rate
+  textTaxSetting: Rate
+  textTaxSummary: Check if prices include Tax
+  textTaxSummarySelect: Set to unchecked if prices don't include Tax.
+  textTerms: Terms
+  textTotal: Total
+  textTracking: 'Tracking # '
+  textType: Type
+  text_address: Address
+  text_bank_transfer: Bank transfer
+  text_billing_address1: Line 1
+  text_billing_address2: Line 2
+  text_billing_address3: Line 3
+  text_billing_email: Email
+  text_billing_name: Name
+  text_check: Check
+  text_contact: Contact
+  text_currency: Currency
+  text_export: Export
+  text_fax: Fax
+  text_hint_percentage: 0%
+  text_hint_shipping_name: Name
+  text_import_contact: Import contact
+  text_install: Install
+  text_mobile: Mobile
+  text_other: Other
+  text_paypal: PayPal
+  text_phone: Phone
+  text_setup_logo: Optionally setup a logo to appear on each invoice.
+  text_short_ago: ago
+  text_summary_billing: Address
+  text_summary_shipping: Shipping Address
+  text_sync: Sync (Beta)
+  text_to: To
+  text_website: Website
+  titleCompany: Business Details
+  titleContactInformation: Business Contact
+  titleDatabase: Backup %s
+  titleEditClient: Edit client
+  titleEditItem: Edit product
+  titleEmail: Email invoice
+  titleEmailEstimate: Email estimate
+  titleEstimateInfo: Estimate Info
+  titleFullyPaid: Invoice Fully Paid
+  titleInvoiceComment: Default notes
+  titleInvoiceInfo: Invoice Info
+  titleInvoiceOption: Invoice Option
+  titleNewClient: New client
+  titleNewItem: New product
+  titleOnlinePayments: Accept online payments %s
+  titlePaymentInfo: Payment Info
+  titleRestoreDBFail: Restore failed
+  titleSelectCurrency: Select Currency
+  titleSelectDiscount: Select Discount Option
+  titleSelectTax: Select Tax Type
+  titleSelectTerms: Select Terms
+  titleSetting: Settings %s for %2$s
+  titleSetupEditItem: Edit Item
+  titleSetupNewItem: Add Item
+  titleShippingInfo: Shipping Info
+  titleTax1: Tax
+  titleTaxInclusive: Tax Inclusive Option
+  titleTaxInclusiveOption: Tax Inclusive Option
+  titleTaxRate: Rate
+  titleYourLogo: Business Logo
+  title_edit_estimate: Edit estimate
+  title_edit_invoice: Edit invoice
+  title_export_to: Export to
+  title_purchase: Purchase required
+  toast_pdf_comment_error: Sorry!  Unable to add your notes to the PDF
+  toast_setup_payments_error: Sorry, something went wrong, please make sure you are
+    connected to the internet and try again.
+  toggle_mk_product: Save to use on future invoices
+  totalTax: Tax on the total
+  tour_invoices_add: Tap to create an invoice
+  tour_invoice_add_item: Add items to your invoice here
+  tour_invoice_business_details: Edit business name, logo, etc
+  tour_invoice_discount_taxes_paid: Tap to edit discount, taxes or\n mark an invoice
+    paid
+  tour_invoice_preview_zoom: You can pinch to zoom
+  tr: Türk
+  tw: "中文(繁體)"
+  validation_email: Invalid email
+  validation_invalid_email: Invalid email
+  validation_paypal_email: Please enter a valid email for PayPal
+  validation_send_email: Please enter a valid email to send this to
