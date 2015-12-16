@@ -1,0 +1,609 @@
+---
+sk:
+  action_menutime: Vyhľadať
+  action_settings: 
+  activity_title_client: Klienti
+  activity_title_item: Výrobky
+  alert_msg_remove_logo: Naozaj chcete odstrániť logo?
+  alert_title_remove_logo: Odstrániť logo
+  appRateNegative: Nie, vďaka
+  appRateNeutral: Pripomenúť neskôr
+  apprate_please_support: Podporte Faktúra Jednoduchý zaslaním recenzie na Google
+    Play, kde by ste mohli spomenúť, ako vám pomáha vo vašom podnikaní.
+  apprate_submit_feedback: Odoslať spätnú väzbu
+  apprate_thanks: Vďaka!
+  app_name: Faktúra Jednoduchý
+  backup_auto_last_msg: 'Posledná záloha bola dokončená na:'
+  backup_auto_notyet_msg: Ešte sa nevytvorila záloha. Zálohy sú riadené operačným
+    systémom.
+  backup_auto_title: Automatické zálohovanie
+  bs: Bosanski
+  btnClear: Vyprázdniť
+  btnRate: Sadzba
+  btn_add_logo: Vybrať logo
+  btn_big: 
+  btn_cancel: Zrušiť
+  btn_confirm: Potvrdiť
+  btn_delete: Vymazať
+  btn_delete_logo: Vymazať logo
+  btn_del_short: Del
+  btn_finish: Ukončiť
+  btn_next: "Ďalší"
+  btn_ok: OK
+  btn_ok_exclaim: Výborne!
+  btn_previous: Predchádzajúci
+  btn_save: Uložiť
+  btn_search: Vyhľadať
+  btn_skip: Preskočiť
+  btn_small: 
+  btn_sort: Triediť
+  btn_update_logo: Zmeniť logo
+  button_enable_online_payment: Povoliť online platby
+  cn: "中文(简体)"
+  companyComent: Predvolené poznámky
+  cs: 
+  da: Dansk
+  days_1: Nasledujúci deň
+  days_10: 10 dní
+  days_120: 120 dní
+  days_14: 14 dní
+  days_180: 180 dní
+  days_2: Dva dni
+  days_21: 21 dní
+  days_3: Tri dni
+  days_30: 30 dní
+  days_365: 365 dní
+  days_4: "Štyri dni"
+  days_45: 45 dní
+  days_5: Päť dní
+  days_6: "Šesť dní"
+  days_60: 60 dní
+  days_7: Sedem dní
+  days_90: 90 dní
+  dbBackupChoose: Vybrať umiestnenie zálohy
+  dbBackupFailMsg: 'Zálohovanie databázy sa nepodarilo:'
+  dbBackupSuccessMsg: 'Záloha bola úspešne uložená na:'
+  dbNoDatabaseMsg: Databáza sa doteraz nevytvorila
+  dbRestoreChoose: Vybrať umiestnenie, z ktorého bude prebiehať obnova
+  dbRestoreFailMsg: Obnova databázy zlyhala
+  dbRestoreSuccessMsg: Záloha bola úspešne obnovená
+  de: Deutsch
+  discardClientMsg: Naozaj chcete zrušiť zmeny vykonané na tomto klientovi?
+  discardEmailMsg: Naozaj chcete zrušiť tento email?
+  discardProductMsg: Naozaj chcete zrušiť zmeny vykonané na túto položku?
+  discardTitle: Zrušiť zmeny
+  drawer_close: Zatvoriť navigačnú zásuvku
+  drawer_open: Otvoriť navigačnú zásuvku
+  dueOn: Splatná
+  el: "Ελληνικά"
+  emailFromHint: Od koho
+  emailMessageHint: Správa
+  emailSubject: Faktúra
+  emailSubjectDatabase: "%s - Databáza"
+  emailSubjectEstimate: Odhad
+  emailToHint: Komu
+  email_business_name_placeholder: Obchodné meno tu
+  email_estimate_msg: 'Ak chcete zobraziť odhad od  {{ od meno }} za {{celkovú sumu
+    }}, kliknite na odkaz nižšie:'
+  email_estimate_subject: Nový odhad {{ č. faktúry }} od {{ od meno }}
+  email_invoice_msg: 'Ak chcete zobraziť faktúru od  {{ od meno }} za {{celkovú sumu
+    }}, kliknite na odkaz nižšie:'
+  email_invoice_subject: Nová faktúra {{ č. faktúry }} od {{ od meno }}
+  email_message_send_me_copy: Pošlite mi kópiu
+  email_pay_online: Plaťte online
+  email_thanks: S pozdravom
+  emptyClentList: Tu môžete vytvoriť nových klientov alebo ich importovať z vašich
+    kontaktov.
+  emptyItemList: Tu môžete spravovať zoznam výrobkov alebo služieb, na ktoré ste opakovane
+    vystavovali faktúru.
+  empty_closed_estimates: Odhady, ktoré boli zmenené na faktúru, budú zobrazené tu
+  empty_invoices_paid: Faktúry, ktoré ste označili ako zaplatené, sa budú zobrazovať
+    tu.
+  empty_open_estimates: Odhady, ktoré neboli zmenené na faktúru, budú zobrazené tu
+  empty_recent_estimates: Odhady, ktoré ste vytvorili počas posledných 60 dní, budú
+    zobrazené tu
+  empty_recent_invoices: Faktúry, ktoré ste vytvorili za posledných 60 dní, sa budú
+    zobrazovať tu.
+  empty_unpaid_invoices: Faktúry, ktoré neboli označené ako jednorázovo splatné, sa
+    zobrazujú tu.
+  en: English (US)
+  en_au: English (AU)
+  en_ca: English (CA)
+  en_gb: English (GB)
+  error_due_date_not_before_invoice_date: Dátum splatnosti musí nasledovať po dátume
+    faktúry
+  error_empty_value: Nemôže byť prázdne
+  error_exporting: Prepáčte, ale nastala chyba pri exporte
+  error_failed_pdf: Prepáčte, ale vyskytla sa chyba pri náhľade faktúry
+  error_import_contact: Prepáčte, ale nastala chyba pri importe vášho kontaktu
+  error_install_gcp: Prepáčte, ale nastala chyba pri spustení Android Marketu, aby
+    sa mohol inštalovať  Google Cloud Print
+  error_print_gcp: Prepáčte, ale tlač cez Google Cloud Print nie je možná
+  err_activity_not_found: Prepáčte, ale nenašli sa žiadne vhodné aplikácie
+  err_determine_purchased: Prepáčte, ale nepodarilo sa nám zistiť, či ste odblokovali
+    Faktúra Jednoduchý, uistite sa, že ste online a skúste to znova.
+  err_dropbox_backup_failed: Zálohovanie Dropboxu zlyhalo
+  err_external_pdf: Prepáčte, ale nastala chyba pri otváraní vašej PDF faktúry v externej
+    aplikácii
+  err_failed_backup_email: Nepodarilo sa zálohovať emailovú databázu
+  err_failed_generate_pdf: Prepáčte, ale nastala chyba pri generovaní vášho PDF
+  err_failed_loading_logo: Prepáčte, ale nastala chyba pri načítaní vášho loga
+  err_failed_load_clients: Nepodarilo sa sprístupniť klientov
+  err_failed_saving_logo: Prepáčte, ale nastala chyba pri uložení vášho loga
+  err_failed_sending_invoice: Prepáčte, ale nastala chyba pri odosielaní vašej faktúry
+  err_failed_to_load_invoice_or_estimate: Nepodarilo sa načítať %s
+  err_iab_failed: Prepáčte, ale nie sme schopní nastaviť vyúčtovanie fa-aplikácie,
+    zaistite, aby ste boli online a skúste to neskôr.
+  err_invoice_notfound: Prepáčte, ale táto faktúra sa nenašla
+  err_logo_format: 'Prepáčte, ale vaše logo nie je ani v jednom z podporovaných formátov:
+    JPG, PNG, GIF, BMP'
+  err_printing_not_supported: Prepáčte, ale tlač nie je podporovaná v tejto verzii
+    Androidu
+  err_purchase_failed_try_reset: Prepáčte, ale váš nákup sa nepodaril, skúste to znovunastaviť.
+  err_render_pdf: Nepodarilo sa povoliť PDF
+  err_reset_failed: Nepodarilo sa obnoviť
+  err_restore_failed: Obnovenie zlyhalo
+  err_toast_no_space: Prepáčte, ale zdá sa, že nie k dispozícii voľný úložný priestor
+    na vašom zariadení
+  err_toast_unable_to_start_sync: Prepáčte, ale nepodarilo sa spustiť synchronizáciu,
+    uistite sa, že ste online
+  es: Español
+  estimate_code_pattern: OD0001
+  event_failed_queue_caption: Nepodarilo sa dostať do poradia na odoslanie
+  event_queued_caption: V poradí na odoslanie
+  event_summary_failed_deliver: Nepodarilo sa doručiť
+  evt_summary_estimate_created: Odhad bol vytvorený
+  evt_summary_invoice_created: Faktúra bola vytvorená
+  evt_summary_opened_by: Prečítal
+  evt_summary_received_by: Prijal
+  evt_summary_sent_to: Posiela sa
+  exported_to: 'Faktúry boli úspešne exportované:'
+  export_desc: Vygenerovať CSV súbor, ktorý zosumarizuje vaše faktúry
+  extend_button: Rozšíriť
+  extend_desc: Zatiaľ nepripravený na nákup? Získajte 3 faktúry zdarma naviac.
+  fi: 
+  fr:
+    I: 
+    II: 
+    III: 
+    IV:
+      A: 
+      B: 
+      C: 
+  fullyPaidSummary: Týmto sa nastavia všetky vaše novovytvorené faktúry na jednorázovú
+    splatnosť
+  hello_world: 
+  hintBusinessNumber: IČO
+  hintCompanyName: Názov
+  hintEmail: napr. info\@androidapphk.com
+  hintFax: napr. 6789 9012
+  hintMobile: napr. 6789 5678
+  hintPhone: napr. 2012 3456
+  hintSearch: Meno klienta
+  hintWeb: napr. www.androidappshk.com
+  hint_bank_transfer: 'Tu zadajte bankový účet # a ďalšie údaje'
+  hint_check_payable_to: Vaše meno alebo obchodné meno
+  hint_feedback: Spätná väzba
+  hint_payment_options: Platobné možnosti
+  hint_payment_other: "Ďalšie platobné pokyny"
+  hint_paypal: Zadajte vašu paypal e-mailovú adresu
+  hu: Magyar
+  I: 
+  iab_checkstatus_active: 'Dobrá správa pre vás, zdá sa, že váš nákup je aktívny:'
+  iab_checkstatus_inactive: Podľa našich záznamov v súčasnosti neplánujete nákup
+  iab_status_unknown: Neznámy
+  id: 
+  II: 
+  III: 
+  invoice_business_details_hint: Obchodné meno, údaje, logo
+  invoice_code_pattern: FA0001
+  invoice_item_numbered: Položka %d
+  invoice_signed_on: Podpísaný %s
+  it: Italiano
+  itemDiscountAmount: Paušálna čiastka
+  itemDiscountitems: Zľava za položku
+  itemDiscountSubTotal: Percento
+  itemNoDiscount: Bez zľavy
+  itemQtyRate: Stĺpce pre Množstvo & Sadzbu
+  itemTax: Daň za položku
+  IV:
+    A: 
+    B: 
+    C: 
+  ja: 
+  ko: 
+  menuBackupSdcard: SD karta
+  menuBrowse: Hľadať záložný súbor
+  menuCard: Platba kartou
+  menuClear: Vyprázdniť
+  menuDelete: Vymazať
+  menuDropbox: Dropbox ™
+  menuDuplicate: Kópia
+  menuEdit: Upraviť
+  menuEmail: Zaslať e-mailom
+  menuGoogleDrive: Google™ Drive
+  menuMakeInvoice: Vytvoriť faktúru
+  menuMarkPaid: Označiť ako zaplatené
+  menuOpenIn: Otvoriť v ...
+  menuPreview: Náhľad
+  menuPrint: Vytlačiť
+  menuRemoveLogo: Odstrániť logo
+  menuSdcard: SD karta
+  menuSelect: Vybrať
+  menuShare: Zdieľať
+  menuSms: Text
+  menuUpdate: Upraviť
+  menu_backup: Zálohovanie
+  menu_client: Klienti
+  menu_email_us: Podpora
+  menu_estimate: Odhady
+  menu_how_do_i: FAQ
+  menu_invoice: Faktúry
+  menu_item: Výrobky
+  menu_send: Poslať
+  menu_setting: Nastavenia
+  ms: 
+  msgBackupDBFail: Prepáčte, ale počas zálohovania nastala chyba.
+  msgBackupDBSuccess: Zálohovanie prebehlo úspešne
+  msgBackupDropboxUnlink: Prepojte aplikáciu s Dropboxom™ pred zálohovaním dát
+  msgBackupGoogleDriveRequired: Prepáčte, ale aplikácia Google Drive nebola nájdená
+  msgBackuping: Prebieha zálohovanie dát...
+  msgDueDate: Splatná do %1$s dní
+  msgFileNotFound: Súbor nebol nájdený na
+  msgInvoiceNo: 'Vo faktúre # by po písmenách mali nasledovať číslice'
+  msgInvoicePdfNotFound: Súbor s faktúrou nebol nájdený, vygenerujte faktúru znova.
+  msgLinkDropboxFail: Pripojenie k Dropboxu™ zlyhalo.
+  msgNoBackupDatabase: Prepáčte, ale nenašli sa žiadne zálohy.
+  msgPdfReader: Nainštalujte si aplikáciu PDF čítačky
+  msgRestoreConfirm: Uistite sa, že záložný súbor je najnovší. V opačnom prípade môže
+    dôjsť k strate novouložených dát na zariadení.
+  msgRestoreDropboxUnlink: Prepojte aplikáciu s Dropboxom™ pred obnovou dát
+  msgRestoreNoBackupsFoundSDCard: 'V priečinku sa nenašli žiadne zálohy:'
+  msgRestoreSdConfirm: Ktorú zálohu by ste chceli obnoviť?
+  msgRestoring: Prebieha obnovenie dát...
+  msg_change_lang: Pri úplnej zmene jazyka budete donútení reštartovať aplikáciu
+  msg_disable_online_payments: Naozaj chcete zablokovať online platbu vašich faktúr?
+  msg_enable_sync: 
+  msg_full_sync: 
+  msg_invoice_sent: Faktúra bola odoslaná!
+  msg_online_payment_setup: Super. Odteraz vaše faktúry budú obsahovať tlačidlo PLATIŤ
+    TERAZ a vaši zákazníci budú môcť hneď platiť online
+  msg_print_require_gcp: Tlač vyžaduje Google Cloud Print. Chcete si ho nainštalovať
+    teraz alebo použiť webovú verziu?
+  msg_reset_succeeded: Obnovenie bolo úspešné
+  msg_restore_invalid_db: Prepáčte, ale toto nevyzerá ako platná záloha databázy Faktúra
+    Jednoduchý
+  msg_sending_progress: Prebieha odosielanie...
+  msg_syncing: 
+  nl: Nederlands
+  'no': Norsk
+  noTax: Bez dane
+  notification_drop_msg: Skontrolujte adresu %s a skúste to znova.
+  notification_drop_title: Nie je možné doručiť %s
+  notification_fail_send_msg: Skontrolujte  si vaše pripojenie k internetu a skúste
+    to znova.
+  notification_fail_send_title: Nie je možné odoslať %s
+  notification_invoice_read_msg: Vaša faktúra bola prečítaná %s
+  notification_invoice_read_title: Faktúra prečítaná
+  notification_open_title: 'Otvorený # %s'
+  'off': Vypnúť
+  'on': Zapnúť
+  onboarding_done: Základné nastavenie je hotové, pokračujte ďalej a vytvorte si svoju
+    prvú faktúru!
+  onboarding_info: "Údaje o vašej spoločnosti sa objavia na každej faktúre."
+  onboarding_welcome_1: Vitajte! Základné nastavenie vám zaberie iba pár sekúnd.
+  onboarding_welcome_2: Kliknite na Ďalej kedykoľvek, údaje môžete zmeniť veľmi jednoducho
+    neskôr, všetko je voliteľné.
+  payment_other: Iné
+  pdfBillingTo: Fakturovať komu
+  pdfDate: 'Dátum:'
+  pdfDueDate: 'Dátum splatnosti:'
+  pdfEstimateNo: 'Odhad #:'
+  pdfEstimateTitle: Odhad
+  pdfInvoiceNo: 'Faktúra #:'
+  pdfInvoiceTitle: Faktúra
+  pdfItemAmount: Suma
+  pdfItemCode: Položka
+  pdfItemDiscount: Zľava
+  pdfItemNo: "#"
+  pdfItemQuantity: Množstvo
+  pdfItemRate: Sadzba
+  pdfPaymentBankTransfer: Bankový prevod
+  pdfPaymentCheck: "Šekom"
+  pdfPaymentCheckPayableTo: 'Umožniť, aby boli šeky splatné:'
+  pdfPaymentInstructions: Platobné pokyny
+  pdfPaymentOther: Iné
+  pdfPaymentPayPal: Cez Paypal
+  pdfPaymentPaypalSendTo: 'Poslať platby:'
+  pdfPoNumber: "Číslo objednávky:"
+  pdfRemark: " * Označuje nezdaniteľný výrobok"
+  pdfShippingAmount: Suma za odoslanie
+  pdfShippingFob: Dodanie FOB
+  pdfShippingShipDate: Dátum odoslania
+  pdfShippingTo: Odoslať komu
+  pdfShippingTracking: Sledovať zásielku
+  pdfShippingVia: Spôsob odoslania
+  pdfSignature: Podpis
+  pdfTerms: 'Podmienky:'
+  pdfTotalBalanceDue: Splatný zostatok
+  pdfTotalDiscount: Zľava
+  pdfTotalPaid: Zaplatený
+  pdfTotalShipping: Odoslanie
+  pdfTotalSubtotal: Medzisúčet
+  pdfTotalTaxable: Zdaniteľný
+  pdfTotalTaxRate: Daň
+  pdfTotalTotal: Celková suma
+  pl: 
+  placeholder_no_client: "(Žiadny klient)"
+  please_rate: Ohodnoťte Faktúra Jednoduchý
+  please_specify: "Špecifikujte"
+  prefBackupSummary: SD Karta, Dropbox™ alebo Google™ Drive
+  prefBackupTitle: Zálohovať
+  prefDeleteAllSummary: Odstrániť všetky záznamy z databázy
+  prefDeleteAllTitle: Odstrániť všetky záznamy
+  prefEmailDbSummary: Poslať e-mailom zálohu aktuálnej databázy
+  prefEmailDbTitle: E-mail
+  prefFirstTimeSetup: Nastavenie pri prvom zapnutí
+  prefix_business_number: IČO spoločnosti
+  prefix_fax: 'F:'
+  prefix_mobile: 'M:'
+  prefix_phone: 'P:'
+  prefLangTitle: Jazyk
+  prefLinkDropBoxSummary: Prepojte aplikáciu s vašim Dropbox™ účtom
+  prefLinkDropBoxTitle: Dropbox™
+  prefLogSummary: v%1$s
+  prefLogTitle: Zmeniť prihlásenie
+  prefRate: Ohodnotiť Faktúra Jednoduchý
+  prefRestoreSummary: SD Karta, Dropbox™ alebo Google™ Drive
+  prefRestoreTitle: Obnoviť
+  prefTitleDate: Formát dátumu
+  prefUnlinkDropBoxSummary: Zrušte prepojenie aplikácie s vašim Dropbox™ účtom
+  prefUnlinkDropBoxTitle: Zrušenie prepojenia s Dropboxom ™
+  progressPreparing: Pripravuje sa...
+  progress_checking: Kontroluje sa...
+  progress_exporting: Prebieha exportovanie...
+  progress_generate_pdf: Prebieha generovanie PDF ...
+  progress_loading: Načítava sa
+  progress_resetting: Obnovuje sa
+  progress_validate_email: Overovanie e-mailovej adresy ...
+  pt_BR: Português
+  purchase_appeal_message: Kúpou Faktúra Jednoduchý si môžem naďalej pridávať nové
+    funkcie a dostávať podporu.
+  purchase_choose_plan: Vyberte si plán
+  purchase_message_unlock: Vyberte si nižšie položenú voľbu pre odblokovanie Faktúra
+    Jednoduchý.
+  purchase_monthly_desc: Získajte prístup k mesačnému odberu neobmedzeného množstva
+    faktúr, kedykoľvek to môžete zrušiť.
+  purchase_monthly_fmt: Mesačne (%s)
+  purchase_notready: Zatiaľ nepripravený na nákup?
+  purchase_plan_enterprise: Podnik
+  purchase_plan_enterprise_desc1: Neobmedzené množstvo faktúr a klientov
+  purchase_plan_enterprise_desc2: Synchronizácia viacerých zariadení
+  purchase_plan_enterprise_desc3: Viac užívateľov
+  purchase_plan_pro: Pro
+  purchase_plan_pro_desc: Neobmedzené množstvo faktúr a klientov
+  purchase_plan_starter: Spúšťač
+  purchase_plan_starter_desc: Až 100 faktúr a 50 klientov za rok
+  purchase_reset_connection: Obnoviť spojenie
+  purchase_support: Podpora
+  purchase_text_monthly: Mesačne
+  purchase_text_yearly: Ročne
+  purchase_thanks: Vďaka za nákup Faktúra Jednoduchý!
+  purchase_upgrade_title: Upgradujte, aby ste mohli vytvoriť viac faktúr
+  purchase_yearly_desc: Odporúča sa (Získajte 2 mesiace zdarma každý rok!)
+  purchase_yearly_lbl: Ročne (%s)
+  rating_message_thanks: Vďaka za hodnotenie Faktúra Jednoduchý. Čo by sa, podľa vás,
+    malo zdokonaliť?
+  ru: "русский"
+  sameDay: Splatnosť po prijatí
+  section_bank_transfer: Bankový prevod
+  section_business: Spoločnosť
+  section_business_address: Adresa spoločnosti
+  section_checks: Umožniť splatnosť šekov
+  section_header_payment_options: Platba (bankovým prevodom, PayPal, atď.)
+  section_paypal_address: Paypal adresa
+  setting_online_invoice_payment: 
+  setup_payments_cost_msg: 2.9% + 30 centov za úspešnú platbu
+  setup_payments_enable_msg: Na vašich faktúrach umiestnite tlačidlo PLATIŤ TERAZ.
+  setup_payments_features_msg: Akceptujeme platobné karty Visa, MasterCard a American
+    Express. Platby sú prevádzané na váš bankový účet priebežne každé dva dni.
+  sk: 
+  sms_chooser_always: Vždy
+  sms_chooser_title: Poslať
+  sms_dialog_title: Ktoré číslo?
+  sms_error_default: Prepáčte, ale nie je možné nájsť vašu predvolenú SMS aplikáciu
+  summaryContactInfo1: Zadajte kontaktné údaje vašej firmy, niektoré polia môžu zostať
+    prázdne.
+  summaryContactInfo2: Tieto údaje sú použité na zobrazenie vašich kontaktných údajov
+    na faktúre. Faktúra Jednoduchý nezhromažďuje tieto informácie na marketingové
+    účely.
+  summaryQtyRate: Zobraziť na faktúre stĺpce pre Množstvo, Sadzbu & Sumu.
+  survey_business_type: Typ spoločnosti
+  survey_customer_type: Typ zákazníkov
+  survey_intro: Povedzte nám niečo o vašej firme, pomôže nám to správne nasmerovať
+    vylepšenia aplikácie v budúcnosti!
+  survey_invoices_monthly: Faktúry za mesiac
+  survey_payment_method1: Najbežnejší spôsob platby
+  survey_payment_method2: "Ďalší najbežnejší spôsob platby"
+  survey_receiving_payments: Príjem platieb
+  survey_years_business: Doba podnikania
+  sv: 
+  sync_desc: Synchronizácia dát z vášho zariadenia do cloudu
+  tabHistory: História
+  tabPayment: Platba
+  tab_closed: Zatvorený
+  tab_contact: Kontakt
+  tab_general: Všeobecný
+  tab_logo: Logo
+  tab_open: Otvorený
+  tab_paid: Zaplatený
+  tab_recent: Posledný
+  tab_unpaid: Nezaplatený
+  taxDeducted: Daň odpočítaná
+  terms_custom: Clo
+  textAddItem: Pridať výrobok
+  textAmount: Suma
+  textBalanceDue: Splatný zostatok
+  textBuy: Kúpiť kompletnú verziu
+  textClient: Klient
+  textComments: Poznámky
+  textConnected: Pripojený
+  textDate: Dátum
+  textDatePaid: Dátum platby
+  textDeleteClientMsg: Naozaj chcete vymazať tohto klienta?
+  textDeleteClientTitle: Vymazať klienta
+  textDeleteEstimateMsg: Naozaj chcete vymazať tento odhad?
+  textDeleteEstimateTitle: Vymazať odhad
+  textDeleteInvoiceMsg: Naozaj chcete vymazať túto faktúru?
+  textDeleteInvoiceTitle: Vymazať faktúru
+  textDeleteItemMsg: Naozaj chcete odstrániť túto položku z faktúry?
+  textDeleteItemTitle: Odstrániť položku
+  textDeleteProductMsg: Naozaj chcete vymazať tento výrobok?
+  textDeleteProductTitle: Vymazať výrobok
+  textDescription: Poznámky
+  textDiscount: Zľava
+  textDiscountPer: Zľava%
+  textDue: Splatný
+  textDueToday: Due dnes
+  textFob: FOB
+  textFullyPaid: Jednorázová splatnosť
+  textInclusiveOption: Ceny zahŕňajú
+  textInvoice: 'Faktúra #'
+  textItemCode: Popis
+  textLabel: Označiť
+  textNotificationDropped: Nepodarilo sa doručiť faktúru
+  textNotificationOpen: Faktúra bola otvorená
+  textOnlinePayment: Platby
+  textOverdue: Oneskorený
+  textPaid: Zaplatený
+  textPartPayment: Splatnosť po čiastkach
+  textPoNumber: "Číslo objednávky"
+  textPurchaseStatus: Kontrola stavu nákupu
+  textQuantity: Množstvo
+  textRate: Jednotková cena
+  textSelectItem: Vybrať výrobok
+  textSetContact: Telefón, e-mail & webstránka
+  textSetCurrency: Mena
+  textSetDefaultSMSApp: Predvolená SMS aplikácia
+  textSetDetails: Názov, adresa & IČO
+  textSetDiscount: Predvolená zľava
+  textSetEmail: E-mail
+  textSetFax: Fax
+  textSetInvoiceComment: Predvolené poznámky
+  textSetInvoiceFully: Predvolené na platenú faktúru
+  textSetMobile: Mobil
+  textSetOptions: Prepnúť množstvo & sumu
+  textSetPhone: Telefón
+  textSetRename: Premenovať polia
+  textSetSetLogo: Logo
+  textSetTaxType: Typ
+  textSetTerms: Platobné podmienky
+  textSetup: Nastavenie
+  textSetupOnlinePayments: Získať platbu rýchlo
+  textSetWeb: Webstránka
+  textShipDate: Dátum odoslania
+  textShipping: Odoslanie
+  textShipVia: Spôsob odoslania
+  textSubtotal: Medzisúčet
+  textSummaryAbout: Popis
+  textSummaryCompany: Spoločnosť
+  textSummaryDefault: Predvolené
+  textSummaryInvoice: Faktúra
+  textSummaryLocale: Lokalita
+  textSummaryNotifications: Upozornenia
+  textSummaryTaxes: Dane
+  textTax: Daň
+  textTax1: Daň
+  textTax1Summary: Upraviť názov dane a zaviesť % to na vašich faktúrach.
+  textTaxable: Zdaniteľný
+  textTaxInclusive: Vrátane
+  textTaxInclusiveSetting: Vrátane DPH
+  textTaxInclusiveSummary: Týmto sa nastaví, či bude celková fakturovaná suma na vašej
+    faktúre vrátane alebo bez DPH.
+  textTaxRate: Sadzba DPH
+  textTaxSetting: Sadzba DPH
+  textTaxSummary: Skontrolujte, či sú ceny vrátane DPH
+  textTaxSummarySelect: Ak ceny nezahŕňajú DPH, nastaviť ako neskontrolované
+  textTerms: Podmienky
+  textTotal: Celková suma
+  textTracking: 'Sledovanie #'
+  textType: Typ
+  text_address: Adresa
+  text_bank_transfer: Bankový prevod
+  text_billing_address1: 1. riadok
+  text_billing_address2: 2. riadok
+  text_billing_address3: 3. riadok
+  text_billing_email: E-mail
+  text_billing_name: Meno
+  text_check: Skontrolovať
+  text_contact: Kontakt
+  text_currency: Mena
+  text_export: Export
+  text_fax: Fax
+  text_hint_percentage: 0%
+  text_hint_shipping_name: Meno
+  text_import_contact: Importovať kontakt
+  text_install: Inštalovať
+  text_mobile: Mobil
+  text_other: Iné
+  text_paypal: PayPal
+  text_phone: Telefón
+  text_setup_logo: Voliteľne nastaviť logo, ktoré sa objaví na každej faktúre.
+  text_short_ago: pred
+  text_summary_billing: Adresa
+  text_summary_shipping: Dodacia adresa
+  text_sync: Synchronizácia (Beta)
+  text_to: Komu
+  text_website: Webová stránka
+  titleCompany: "Údaje o spoločnosti"
+  titleContactInformation: Kontakt na spoločnosť
+  titleDatabase: Zálohovať
+  titleEditClient: Upraviť klienta
+  titleEditItem: Upraviť výrobok
+  titleEmail: Poslať faktúru e-mailom
+  titleEmailEstimate: Poslať odhad e-mailom
+  titleEstimateInfo: "Údaje na odhade"
+  titleFullyPaid: Faktúra s jednorazovou splatnosťou
+  titleInvoiceComment: Predvolené poznámky
+  titleInvoiceInfo: "Údaje na faktúre"
+  titleInvoiceOption: Možnosť voľby faktúry
+  titleNewClient: Nový klient
+  titleNewItem: Nový výrobok
+  titleOnlinePayments: Prijať online platby
+  titlePaymentInfo: "Údaje o platbe"
+  titleRestoreDBFail: Obnovenie dát zlyhalo
+  titleSelectCurrency: Vybrať bankovú menu
+  titleSelectDiscount: Vyberte možnosť voľby zľavy
+  titleSelectTax: Vybrať typ dane
+  titleSelectTerms: Vybrať Podmienky
+  titleSetting: Nastavenia
+  titleSetupEditItem: Upraviť položku
+  titleSetupNewItem: Pridať položku
+  titleShippingInfo: "Údaje na odoslanie"
+  titleTax1: Daň
+  titleTaxInclusive: Voľba vrátane DPH
+  titleTaxInclusiveOption: Voľba Vrátane DPH
+  titleTaxRate: Sadzba
+  titleYourLogo: Logo spoločnosti
+  title_edit_estimate: Upraviť odhad
+  title_edit_invoice: Upraviť faktúru
+  title_export_to: Exportovať do
+  title_purchase: Potrebný Nákup
+  toast_pdf_comment_error: Prepáčte, ale nie je možné pridať vaše poznámky do PDF
+    súboru
+  toast_setup_payments_error: Prepáčte, ale nastala chyba, uistite sa, že ste pripojený
+    k internetu a skúste to znova.
+  toggle_mk_product: Uložiť pre použitie na budúcich faktúrach
+  totalTax: Daň z celkovej sumy
+  tour_invoices_add: Kliknutím vytvorte faktúru
+  tour_invoice_add_item: Pridajte položky do faktúry tu
+  tour_invoice_business_details: Upraviť obchodné meno,logo, atď.
+  tour_invoice_discount_taxes_paid: Kliknutím upravte zľavy, dane alebo označte faktúru
+    ako zaplatenú
+  tour_invoice_preview_zoom: Môžte potiahnuť pre zväčšenie
+  tr: Türk
+  tw: "中文(繁體)"
+  validation_email: Neplatná emailová adresa
+  validation_invalid_email: Neplatná emailová adresa
+  validation_paypal_email: Zadajte platný email pre PayPal
+  validation_send_email: Zadajte platný email na zaslanie

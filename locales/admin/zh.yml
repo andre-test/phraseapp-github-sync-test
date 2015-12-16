@@ -1,7 +1,7 @@
 ---
-en:
-  action_menutime: jhgdjg
-  action_settings: action %s %d %@ %li
+zh:
+  action_menutime: 
+  action_settings: 
   activity_title_client: 
   activity_title_item: 
   alert_msg_remove_logo: 
@@ -174,7 +174,7 @@ en:
   iab_status_unknown: 
   id: 
   II: 
-  III: wefwefwefewrefwewewe
+  III: 
   invoice_business_details_hint: 
   invoice_code_pattern: 
   invoice_item_numbered: 
@@ -527,7 +527,7 @@ en:
   titleEmailEstimate: 
   titleEstimateInfo: 
   titleFullyPaid: 
-  titleInvoiceComment: test %d %@ %li
+  titleInvoiceComment: 
   titleInvoiceInfo: 
   titleInvoiceOption: 
   titleNewClient: 

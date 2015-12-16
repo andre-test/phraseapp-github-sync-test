@@ -1,0 +1,608 @@
+---
+it:
+  action_menutime: Ricerca
+  action_settings: 
+  activity_title_client: Clienti
+  activity_title_item: Prodotti
+  alert_msg_remove_logo: Sei sicuro di voler rimuovere il logo?
+  alert_title_remove_logo: Rimuovere logo
+  appRateNegative: No grazie
+  appRateNeutral: Ricorda in seguito
+  apprate_please_support: Vi preghiamo di sostenere Fatture Facile lasciando un commento
+    su Google Play spiegando come aiuta la vostra impresa.
+  apprate_submit_feedback: Invia il feedback
+  apprate_thanks: Grazie!
+  app_name: Fatture Facile
+  backup_auto_last_msg: 'L''ultimo backup è stato completato a:'
+  backup_auto_notyet_msg: Non è stato ancora fatto un backup. I backup sono gestiti
+    dal sistema operativo.
+  backup_auto_title: Backup automatico
+  bs: Bosanski
+  btnClear: Cancella
+  btnRate: Vota
+  btn_add_logo: Scegli un logo
+  btn_big: 
+  btn_cancel: Cancella
+  btn_confirm: Conferma
+  btn_delete: Elimina
+  btn_delete_logo: Elimina Logo
+  btn_del_short: Del
+  btn_finish: Finito
+  btn_next: Prossimo
+  btn_ok: OK
+  btn_ok_exclaim: Ok!
+  btn_previous: Precedente
+  btn_save: Salva
+  btn_search: Ricerca
+  btn_skip: Saltare
+  btn_small: 
+  btn_sort: Ordina
+  btn_update_logo: Modifica logo
+  button_enable_online_payment: 
+  cn: "中文 (简体)"
+  companyComent: Imposta il commento alla fattura della tua impresa
+  cs: 
+  da: Dansk
+  days_1: 1 Giorno
+  days_10: 10 Giorni
+  days_120: 120 Giorni
+  days_14: 14 Giorni
+  days_180: 180 Giorni
+  days_2: 2 Giorni
+  days_21: 21 Giorni
+  days_3: 3 Giorni
+  days_30: 30 Giorni
+  days_365: 365 Giorni
+  days_4: 4 Giorni
+  days_45: 45 Giorni
+  days_5: 5 Giorni
+  days_6: 6 Giorni
+  days_60: 60 Giorni
+  days_7: 7 Giorni
+  days_90: 90 giorni
+  dbBackupChoose: Dove mettere il file di backup del database?
+  dbBackupFailMsg: Il backup del database non riesce a
+  dbBackupSuccessMsg: Il database è stato salvato con successo
+  dbNoDatabaseMsg: Il database non è stato ancora creato
+  dbRestoreChoose: Da dove ripristinare  il file del database?
+  dbRestoreFailMsg: Ripristinare errore del database
+  dbRestoreSuccessMsg: Ripristinare con successo il database
+  de: Deutsch
+  discardClientMsg: Sei sicuro di voler annullare le modifiche a questo client?
+  discardEmailMsg: 
+  discardProductMsg: Sei sicuro di voler annullare le modifiche a questo articolo?
+  discardTitle: Ignora modifiche
+  drawer_close: Chiudi Cassetto navigazione
+  drawer_open: Apri cassetto navigazione
+  dueOn: Dovuto il
+  el: "Ελληνικά"
+  emailFromHint: Da
+  emailMessageHint: Messaggio (opzionale)
+  emailSubject: Fattura
+  emailSubjectDatabase: "%s - Database"
+  emailSubjectEstimate: Stima
+  emailToHint: A
+  email_business_name_placeholder: 
+  email_estimate_msg: 
+  email_estimate_subject: 
+  email_invoice_msg: 
+  email_invoice_subject: 
+  email_message_send_me_copy: Inviami una copia
+  email_pay_online: 
+  email_thanks: 
+  emptyClentList: "È possibile creare nuovi clienti qui o importare i tuoi contatti."
+  emptyItemList: Qui è possibile creare prodotti o servizi che fatturi  ripetutamente
+  empty_closed_estimates: I preventivi che sono stati convertiti in una fattura appariranno
+    qui
+  empty_invoices_paid: Le fatture contrassegnate come pagate verranno visualizzate
+    qui.
+  empty_open_estimates: I preventivi che non sono stati convertiti in una fattura
+    appariranno qui
+  empty_recent_estimates: I preventivi che hai creato negli ultimi 60 giorni saranno
+    visualizzate qui
+  empty_recent_invoices: Le fatture che hai creato negli ultimi 60 giorni saranno
+    visualizzate qui.
+  empty_unpaid_invoices: Le fatture che non sono stati contrassegnate come interamente
+    pagate saranno visualizzate qui.
+  en: Inglese
+  en_au: 
+  en_ca: 
+  en_gb: 
+  error_due_date_not_before_invoice_date: 
+  error_empty_value: Non può essere vuoto
+  error_exporting: Siamo spiacenti, qualcosa è andato storto esportazione
+  error_failed_pdf: Siamo spiacenti, qualcosa non è andato a buon fine nell'anteprima
+    della fattura
+  error_import_contact: Siamo spiacenti, qualcosa non è andato a buon fine importando
+    i contatti
+  error_install_gcp: 
+  error_print_gcp: 
+  err_activity_not_found: 
+  err_determine_purchased: Ci dispiace non siamo riusciti a determinare se si è sbloccato
+    Fatture Facile, riprova più tardi.
+  err_dropbox_backup_failed: Backup Dropbox fallito
+  err_external_pdf: 
+  err_failed_backup_email: Impossibile eseguire il backup e-mail db
+  err_failed_generate_pdf: Siamo spiacenti, qualcosa non è andato a buon fine generando
+    il PDF
+  err_failed_loading_logo: Siamo spiacenti, qualcosa non è andato a buon fine caricando
+    il logo
+  err_failed_load_clients: Impossibile recuperare i clienti
+  err_failed_saving_logo: Siamo spiacenti, si è verificato un errore il salvataggio
+    del logo
+  err_failed_sending_invoice: Siamo spiacenti, qualcosa non è andato a buon fine inviando
+    la fattura
+  err_failed_to_load_invoice_or_estimate: Impossibile caricare %s
+  err_iab_failed: Ci dispiace ma  non siamo riusciti a configurare nell'applicazione
+    fatturazione, assicuratevi di essere online e riprovare più tardi.
+  err_invoice_notfound: 
+  err_logo_format: 
+  err_printing_not_supported: Siamo spiacenti, la stampa non è supportata in questa
+    versione di Android
+  err_purchase_failed_try_reset: Spiacenti, l'acquisto non è andato a buon fine, prova
+    a resettare.
+  err_render_pdf: Impossibile convertire in PDF
+  err_reset_failed: Ripristinato senza successo
+  err_restore_failed: Ripristino fallito
+  err_toast_no_space: 
+  err_toast_unable_to_start_sync: 
+  es: Español
+  estimate_code_pattern: PRE0001
+  event_failed_queue_caption: 
+  event_queued_caption: 
+  event_summary_failed_deliver: 
+  evt_summary_estimate_created: 
+  evt_summary_invoice_created: 
+  evt_summary_opened_by: 
+  evt_summary_received_by: 
+  evt_summary_sent_to: 
+  exported_to: 'Esportato con successo le fatture per:'
+  export_desc: Genera un file CSV riassume fatture
+  extend_button: Estendere
+  extend_desc: Non pronto a comprare ancora? Più 3 fatture gratis
+  fi: 
+  fr:
+    I: 
+    II: 
+    III: 
+    IV:
+      A: 
+      B: 
+      C: 
+  fullyPaidSummary: Questo imposterà tutte le fatture di nuova creazione come completamente
+    pagate
+  hello_world: 
+  hintBusinessNumber: Numero di registrazione
+  hintCompanyName: Nome
+  hintEmail: Per es. info\@androidapphk.com
+  hintFax: Per es. 6789 9012
+  hintMobile: Per es. 6789 5678
+  hintPhone: Per es. 2012 3456
+  hintSearch: Nome del cliente
+  hintWeb: Per es. www.androidappshk.com
+  hint_bank_transfer: 'Inserisci conti bancari # e altri dettagli qui'
+  hint_check_payable_to: Lei o il nome della Sua azienda
+  hint_feedback: Feedback
+  hint_payment_options: Metodi di pagamento
+  hint_payment_other: Ulteriori istruzioni di pagamento
+  hint_paypal: Inserisci il tuo indirizzo e-mail paypal
+  hu: Magyar
+  I: 
+  iab_checkstatus_active: 
+  iab_checkstatus_inactive: 
+  iab_status_unknown: 
+  id: 
+  II: 
+  III: 
+  invoice_business_details_hint: Ragione sociale, dettagli, logo
+  invoice_code_pattern: FAT0001
+  invoice_item_numbered: Articolo %d
+  invoice_signed_on: Firmato %s
+  it: Italiano
+  itemDiscountAmount: Importo fisso
+  itemDiscountitems: Sconto per articolo
+  itemDiscountSubTotal: Sconto del totale
+  itemNoDiscount: Nessuno sconto
+  itemQtyRate: Qtà e tariffa colonne
+  itemTax: Tassa per articolo
+  IV:
+    A: 
+    B: 
+    C: 
+  ja: 
+  ko: 
+  menuBackupSdcard: SD Card (conserva 3 copie)
+  menuBrowse: Sfoglia per file di backup
+  menuCard: 
+  menuClear: Cancella
+  menuDelete: Elimina
+  menuDropbox: Dropbox ™
+  menuDuplicate: Duplicare
+  menuEdit: Modifica
+  menuEmail: E-mail
+  menuGoogleDrive: Google ™ Drive
+  menuMakeInvoice: Emetti fattura
+  menuMarkPaid: Pagato mark
+  menuOpenIn: Apri in ...
+  menuPreview: Anteprima
+  menuPrint: Stampa
+  menuRemoveLogo: Rimuovere logo
+  menuSdcard: SD Card
+  menuSelect: Seleziona
+  menuShare: Condividi
+  menuSms: 
+  menuUpdate: Modifica
+  menu_backup: Backup
+  menu_client: Clienti
+  menu_email_us: Feedback
+  menu_estimate: Preventivi
+  menu_how_do_i: FAQ
+  menu_invoice: Fatture
+  menu_item: Prodotti
+  menu_send: Inviare
+  menu_setting: Impostazioni
+  ms: 
+  msgBackupDBFail: Backup del database non riuscito
+  msgBackupDBSuccess: Backup del database riuscito
+  msgBackupDropboxUnlink: Si prega di collegare l'applicazione di Dropbox ™ prima
+    del backup
+  msgBackupGoogleDriveRequired: Spiacenti, l'applicazione Google Drive non è stata
+    trovata
+  msgBackuping: Backup ...
+  msgDueDate: Dovuto in %1$s Giorni
+  msgFileNotFound: File non trovato in
+  msgInvoiceNo: 'Fattura # devono essere lettere seguite da numeri'
+  msgInvoicePdfNotFound: File di fattura non trovato, si prega di generare nuovamente
+    la fattura.
+  msgLinkDropboxFail: Collegamento a Dropbox ™ fallito.
+  msgNoBackupDatabase: Non si trova il file di backup del database.
+  msgPdfReader: Si prega di installare pdf reader
+  msgRestoreConfirm: Assicurarsi che il file di backup sia l'ultimo. In caso contrario,
+    si rischia di perdere i dati appena salvati sul dispositivo.
+  msgRestoreDropboxUnlink: Si prega di collegare l'applicazione di Dropbox ™ prima
+    del ripristino
+  msgRestoreNoBackupsFoundSDCard: 
+  msgRestoreSdConfirm: Scegli uno dei file di backup. Assicurarsi che il file di backup
+    sia l'ultimo.
+  msgRestoring: Ripristino ...
+  msg_change_lang: 
+  msg_disable_online_payments: 
+  msg_enable_sync: 
+  msg_full_sync: 
+  msg_invoice_sent: Fattura inviata!
+  msg_online_payment_setup: 
+  msg_print_require_gcp: 
+  msg_reset_succeeded: Ripristinato con successo
+  msg_restore_invalid_db: 
+  msg_sending_progress: Invio ...
+  msg_syncing: 
+  nl: Nederlands
+  'no': Norsk
+  noTax: No Tax
+  notification_drop_msg: 
+  notification_drop_title: 
+  notification_fail_send_msg: 
+  notification_fail_send_title: 
+  notification_invoice_read_msg: La fattura è stata letta da %s
+  notification_invoice_read_title: Fattura letta
+  notification_open_title: 'Aperto # %s'
+  'off': Chiuso
+  'on': Aperto
+  onboarding_done: Hai l'impostazione di base ora, andare avanti e creare la prima
+    fattura!
+  onboarding_info: Su ogni fattura appariranno Informazioni sulla tua attività.
+  onboarding_welcome_1: Benvenuto! Prendiamoci un minuto per imparare le impostazioni
+    di base
+  onboarding_welcome_2: Toccare Avanti in qualsiasi momento, si possono facilmente
+    modificare tali informazioni, è tutto facoltativo.
+  payment_other: Altro
+  pdfBillingTo: Fatturare a
+  pdfDate: 'Data:'
+  pdfDueDate: 'Scadenza:'
+  pdfEstimateNo: 'Preventivo #:'
+  pdfEstimateTitle: Stima
+  pdfInvoiceNo: 'Fattura #:'
+  pdfInvoiceTitle: Fattura
+  pdfItemAmount: Importo
+  pdfItemCode: Articolo
+  pdfItemDiscount: Sconto
+  pdfItemNo: 
+  pdfItemQuantity: QTÁ
+  pdfItemRate: Prezzo
+  pdfPaymentBankTransfer: Bonifico bancario
+  pdfPaymentCheck: Con assegno
+  pdfPaymentCheckPayableTo: 'Intesta l''assegno a:'
+  pdfPaymentInstructions: Istruzioni di pagamento
+  pdfPaymentOther: Altro
+  pdfPaymentPayPal: Via PayPal
+  pdfPaymentPaypalSendTo: 'Invia pagamenti a:'
+  pdfPoNumber: 
+  pdfRemark: "* Indica che il prodotto non è tassabile"
+  pdfShippingAmount: Importo spedizione
+  pdfShippingFob: Spedire FOB
+  pdfShippingShipDate: Data di spedizione
+  pdfShippingTo: Spedire a
+  pdfShippingTracking: Tracking spedizione
+  pdfShippingVia: Spedire via
+  pdfSignature: Firma
+  pdfTerms: 'Termini:'
+  pdfTotalBalanceDue: Saldo dovuto
+  pdfTotalDiscount: Sconto
+  pdfTotalPaid: Pagato
+  pdfTotalShipping: Spedizione
+  pdfTotalSubtotal: Totale parziale
+  pdfTotalTaxable: Imponibile
+  pdfTotalTaxRate: Tassa
+  pdfTotalTotal: Totale
+  pl: 
+  placeholder_no_client: "(Nessun cliente)"
+  please_rate: Si prega di votare Fatture Facile
+  please_specify: 
+  prefBackupSummary: Backup del database su SD Card, Dropbox ™ o Google ™ Drive
+  prefBackupTitle: Backup  del database
+  prefDeleteAllSummary: Eliminare tutti i record dal database
+  prefDeleteAllTitle: Elimina tutti i record
+  prefEmailDbSummary: Invia il tuo database corrente
+  prefEmailDbTitle: Invia database via e-mail
+  prefFirstTimeSetup: Prima installazione
+  prefix_business_number: 'Numero commerciale:'
+  prefix_fax: 'F:'
+  prefix_mobile: 'C:'
+  prefix_phone: 'T:'
+  prefLangTitle: Lingua
+  prefLinkDropBoxSummary: Collegare l'applicazione con il tuo account Dropbox ™
+  prefLinkDropBoxTitle: Collegamento con Dropbox ™
+  prefLogSummary: v %1$s
+  prefLogTitle: Cambia registro
+  prefRate: Vota Fatture Facile
+  prefRestoreSummary: Ripristina database da SD Card, Dropbox ™ o Google ™ Drive
+  prefRestoreTitle: Ripristino del database
+  prefTitleDate: Formato data
+  prefUnlinkDropBoxSummary: Scollegare l'applicazione con il tuo account Dropbox ™
+  prefUnlinkDropBoxTitle: Scollegare con Dropbox ™
+  progressPreparing: Preparazione...
+  progress_checking: 
+  progress_exporting: Esportazione...
+  progress_generate_pdf: Generando PDF ...
+  progress_loading: Caricamento
+  progress_resetting: Ripristino
+  progress_validate_email: 
+  pt_BR: Português
+  purchase_appeal_message: L'acquisto di Fatture Facile mi permette di aggiungere
+    nuove funzionalità e di avere assistenza gratuita.
+  purchase_choose_plan: Scegliere un piano
+  purchase_message_unlock: Seleziona una delle seguenti opzioni per sbloccare Fatture
+    Facile.
+  purchase_monthly_desc: Sottoscrivi ogni mese per sbloccare le fatture illimitate,
+    è possibile annullare in qualsiasi momento.
+  purchase_monthly_fmt: Mensile (%s)
+  purchase_notready: Non pronto a comprare ancora?
+  purchase_plan_enterprise: Impresa
+  purchase_plan_enterprise_desc1: Fatture illimitati e clienti
+  purchase_plan_enterprise_desc2: Sincronizza più dispositivi
+  purchase_plan_enterprise_desc3: Più utenti
+  purchase_plan_pro: Professionista
+  purchase_plan_pro_desc: Fatture illimitati e clienti
+  purchase_plan_starter: Di base
+  purchase_plan_starter_desc: Fino a 100 fatture e 50 clienti all'anno
+  purchase_reset_connection: Azzera collegamento
+  purchase_support: Supporto
+  purchase_text_monthly: Mensile
+  purchase_text_yearly: Annuale
+  purchase_thanks: Grazie per aver acquistato Fatture Facile!
+  purchase_upgrade_title: Aggiornamento a rendere più fatture!
+  purchase_yearly_desc: Pagare una volta all'anno e ottenere uno sconto rispetto al
+    prezzo mensile
+  purchase_yearly_lbl: Annuale (%s)
+  rating_message_thanks: Grazie per aver votato Fatture Facile. Come ti piacerebbe
+    fosse migliorata questa applicazione?
+  ru: 
+  sameDay: Dovuto al ricevimento
+  section_bank_transfer: Bonifico bancario
+  section_business: Commercio
+  section_business_address: Indirizzo commerciale
+  section_checks: Intestare gli assegni all'ordine di
+  section_header_payment_options: Metodi di pagamento
+  section_paypal_address: Indirizzo Paypal
+  setting_online_invoice_payment: 
+  setup_payments_cost_msg: 
+  setup_payments_enable_msg: 
+  setup_payments_features_msg: 
+  sk: 
+  sms_chooser_always: Sempre
+  sms_chooser_title: Inviare
+  sms_dialog_title: Quale numero?
+  sms_error_default: Siamo spiacenti, non riesce a trovare il vostro difetto app SMS
+  summaryContactInfo1: Inserisci le informazioni di contatto dell'azienda, è possibile
+    lasciare uno spazio  vuoto.
+  summaryContactInfo2: Queste informazioni vengono utilizzate per visualizzare i dettagli
+    di contatto sulle fatture. Fatture Facile non raccoglie queste informazioni per
+    scopi di marketing.
+  summaryQtyRate: Mostra quantità,  colonne  tariffa e Importo sulla fattura.
+  survey_business_type: 
+  survey_customer_type: 
+  survey_intro: 
+  survey_invoices_monthly: 
+  survey_payment_method1: 
+  survey_payment_method2: 
+  survey_receiving_payments: 
+  survey_years_business: 
+  sv: 
+  sync_desc: 
+  tabHistory: Eventi
+  tabPayment: 
+  tab_closed: Chiuso
+  tab_contact: Contatto
+  tab_general: Generale
+  tab_logo: Logo
+  tab_open: Aperto
+  tab_paid: Pagato
+  tab_recent: Recente
+  tab_unpaid: Non pagato
+  taxDeducted: Imposta trattenuta
+  terms_custom: Abitudine
+  textAddItem: Aggiungi prodotto
+  textAmount: Importo
+  textBalanceDue: Saldo dovuto
+  textBuy: Acquistare la versione completa
+  textClient: Cliente
+  textComments: Note
+  textConnected: 
+  textDate: Data
+  textDatePaid: Data pagamento
+  textDeleteClientMsg: Sei sicuro di voler eliminare questo cliente?
+  textDeleteClientTitle: Elimina cliente
+  textDeleteEstimateMsg: Sei sicuro di voler cancellare questo preventivo?
+  textDeleteEstimateTitle: Elimina preventivo
+  textDeleteInvoiceMsg: Sei sicuro di voler cancellare questa fattura?
+  textDeleteInvoiceTitle: Elimina fattura
+  textDeleteItemMsg: Sei sicuro di voler rimuovere questo articolo dalla fattura?
+  textDeleteItemTitle: Rimuovi articolo
+  textDeleteProductMsg: Sei sicuro di voler eliminare questo prodotto?
+  textDeleteProductTitle: Elimina prodotto
+  textDescription: Note
+  textDiscount: Sconto
+  textDiscountPer: Sconto%
+  textDue: Dovuto
+  textDueToday: Da fare oggi
+  textFob: FOB
+  textFullyPaid: Completamente pagato
+  textInclusiveOption: Opzione Incluso
+  textInvoice: 'Fattura #'
+  textItemCode: Descrizione
+  textLabel: Etichetta
+  textNotificationDropped: 
+  textNotificationOpen: Fattura aperta
+  textOnlinePayment: 
+  textOverdue: In ritardo
+  textPaid: Pagato
+  textPartPayment: Pagamento parziale
+  textPoNumber: 
+  textPurchaseStatus: 
+  textQuantity: Quantità
+  textRate: Costo unitario
+  textSelectItem: Seleziona prodotto
+  textSetContact: Contatto
+  textSetCurrency: Valuta
+  textSetDefaultSMSApp: Predefinito SMS app
+  textSetDetails: Dettagli
+  textSetDiscount: Sconto
+  textSetEmail: E-mail
+  textSetFax: Fax
+  textSetInvoiceComment: Commento alla fattura
+  textSetInvoiceFully: Fattura completamente pagata
+  textSetMobile: Cellulare
+  textSetOptions: Opzione campi
+  textSetPhone: Telefono
+  textSetRename: Renommer des champs
+  textSetSetLogo: Logo
+  textSetTaxType: Tipo di Tassa
+  textSetTerms: Condizioni
+  textSetup: 
+  textSetupOnlinePayments: 
+  textSetWeb: Sito web
+  textShipDate: Data di spedizione
+  textShipping: Spedizione
+  textShipVia: Spedire via
+  textSubtotal: Totale parziale
+  textSummaryAbout: Su
+  textSummaryCompany: Impresa
+  textSummaryDefault: Default
+  textSummaryInvoice: Fattura
+  textSummaryLocale: Località
+  textSummaryNotifications: Notifiche
+  textSummaryTaxes: Tasse
+  textTax: Tasse
+  textTax1: Tassa
+  textTax1Summary: Modifica nome fiscale e % to da applicare alle vostre fatture.
+  textTaxable: Imponibile
+  textTaxInclusive: Tasse incluse
+  textTaxInclusiveSetting: Tassa inclusa
+  textTaxInclusiveSummary: Questo si  imposterà se l'importo totale include / non
+    include tasse in fattura.
+  textTaxRate: Tasso d'imposta
+  textTaxSetting: Tassa
+  textTaxSummary: Controllare se i prezzi includono tassa
+  textTaxSummarySelect: Impostare su non controllato se i prezzi non includono le
+    tasse.
+  textTerms: Condizioni
+  textTotal: Totale
+  textTracking: 'Tracking #'
+  textType: Tipo
+  text_address: Indirizzo
+  text_bank_transfer: Bonifico bancario
+  text_billing_address1: Riga 1
+  text_billing_address2: Riga 2
+  text_billing_address3: Riga 3
+  text_billing_email: E-mail
+  text_billing_name: Nome
+  text_check: Controllare
+  text_contact: Contatto
+  text_currency: Valuta
+  text_export: Esportazione
+  text_fax: Fax
+  text_hint_percentage: 0%
+  text_hint_shipping_name: Nome
+  text_import_contact: Importa contatto
+  text_install: 
+  text_mobile: Cellulare
+  text_other: Altro
+  text_paypal: PayPal
+  text_phone: Telefono
+  text_setup_logo: Opzionalmente impostare un logo da stampare su ogni fattura.
+  text_short_ago: fa
+  text_summary_billing: Indirizzo
+  text_summary_shipping: Indirizzo di spedizione
+  text_sync: 
+  text_to: A
+  text_website: Sito web
+  titleCompany: Dettagli commerciali
+  titleContactInformation: Contatto commerciale
+  titleDatabase: Back up
+  titleEditClient: Modifica cliente
+  titleEditItem: Modifica prodotto
+  titleEmail: Invia fattura via e-mail
+  titleEmailEstimate: Invia preventivo via e-mail
+  titleEstimateInfo: Info preventivo
+  titleFullyPaid: Fattura completamente pagata
+  titleInvoiceComment: Commento alla fattura
+  titleInvoiceInfo: Informazioni fattura
+  titleInvoiceOption: Opzione Fattura
+  titleNewClient: Nuovo cliente
+  titleNewItem: Nuovo prodotto
+  titleOnlinePayments: 
+  titlePaymentInfo: Info Pagamento
+  titleRestoreDBFail: 
+  titleSelectCurrency: Seleziona la valuta
+  titleSelectDiscount: Selezionare l'opzione sconto
+  titleSelectTax: Seleziona tipo tassa
+  titleSelectTerms: Seleziona termini
+  titleSetting: Impostazioni
+  titleSetupEditItem: Modifica articolo
+  titleSetupNewItem: Aggiungi articolo
+  titleShippingInfo: Info spedizioni
+  titleTax1: Tassa
+  titleTaxInclusive: Opzione tassa inclusa
+  titleTaxInclusiveOption: Opzione tassa inclusa
+  titleTaxRate: Tasso d'imposta
+  titleYourLogo: Logo commerciale
+  title_edit_estimate: Modifica stima
+  title_edit_invoice: Modifica fattura
+  title_export_to: Esportare in
+  title_purchase: Acquisto richiesto
+  toast_pdf_comment_error: Sorry! Impossibile aggiungere le note al PDF
+  toast_setup_payments_error: 
+  toggle_mk_product: Salva come prodotto
+  totalTax: Imposte sul totale
+  tour_invoices_add: Toccare per creare una fattura
+  tour_invoice_add_item: Aggiungere elementi alla tua fattura qui
+  tour_invoice_business_details: Modificare il nome commerciale, logo, ecc
+  tour_invoice_discount_taxes_paid: Toccare per modificare sconto , le tasse o\n contrassegnare
+    una fattura pagata
+  tour_invoice_preview_zoom: Si può pizzicare per ingrandire
+  tr: 
+  tw: "中文 (繁體)"
+  validation_email: E-mail non valida
+  validation_invalid_email: 
+  validation_paypal_email: Inserisci una e-mail valida per PayPal
+  validation_send_email: Inserisci una e-mail valida per inviare questo a

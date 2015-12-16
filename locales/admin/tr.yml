@@ -1,0 +1,603 @@
+---
+tr:
+  action_menutime: Ara
+  action_settings: 
+  activity_title_client: Müşteriler
+  activity_title_item: "Ürünler"
+  alert_msg_remove_logo: Logonuzu kaldırmak istediğinizden emin misiniz?
+  alert_title_remove_logo: Logoyu kaldır
+  appRateNegative: Hayır, teşekkürler
+  appRateNeutral: Daha sonra hatırlat
+  apprate_please_support: Lütfen, işinize nasıl yardımcı olduğundan bahsederek Google
+    Play'de bir yorum yapın ve Fatura Basit'a destek olun.
+  apprate_submit_feedback: Geribildirimi gönderin
+  apprate_thanks: Teşekkürler!
+  app_name: Fatura Basit
+  backup_auto_last_msg: 'Son yedekleme tamamlandı:'
+  backup_auto_notyet_msg: Henüz bir yedekleme yapılmamış. Yedekler işletim sistemi
+    tarafından yönetilir.
+  backup_auto_title: Otomatik yedekleme
+  bs: Bosanski
+  btnClear: Temizle
+  btnRate: Derece
+  btn_add_logo: Bir Logo Seçin
+  btn_big: 
+  btn_cancel: Iptal
+  btn_confirm: Onayla
+  btn_delete: Sil
+  btn_delete_logo: Logoyu Sil
+  btn_del_short: Sil
+  btn_finish: Bitti
+  btn_next: Sonraki
+  btn_ok: TAMAM
+  btn_ok_exclaim: Ok!
+  btn_previous: "Önceki"
+  btn_save: Kaydet
+  btn_search: Ara
+  btn_skip: Geç
+  btn_small: 
+  btn_sort: Sırala
+  btn_update_logo: Logoyu Değiştir
+  button_enable_online_payment: "Çevrimiçi ödemeyi etkinleştirin"
+  cn: "中文 (简体)"
+  companyComent: Varsayılan notlar
+  cs: 
+  da: Dansk
+  days_1: Ertesi gün
+  days_10: 10 Gün
+  days_120: 120 Gün
+  days_14: 14 Gün
+  days_180: 180 Gün
+  days_2: 2 Gün
+  days_21: 21 Gün
+  days_3: 3 Gün
+  days_30: 30 Gün
+  days_365: 365 Gün
+  days_4: 4 Gün
+  days_45: 45 Gün
+  days_5: 5 Gün
+  days_6: 6 Gün
+  days_60: 60 Gün
+  days_7: 7 Gün
+  days_90: 90 Gün
+  dbBackupChoose: Bir yedekleme konumu seçin
+  dbBackupFailMsg: 'Veritabanı yedekleme başarısız:'
+  dbBackupSuccessMsg: 'Bir yedekleme başarıyla kaydedildi:'
+  dbNoDatabaseMsg: Veritabanı henüz oluşturulmadı
+  dbRestoreChoose: Geri yüklemek için bir konum seçin
+  dbRestoreFailMsg: Veritabanı hatasını geri alın
+  dbRestoreSuccessMsg: Yedek başarıyla geri alındı
+  de: Deutsch
+  discardClientMsg: Bu müşteriyle ilgili değişiklikleri iptal etmek istediğinizden
+    emin misiniz?
+  discardEmailMsg: Bu e-postayı iptal etmek istediğinizden emin misiniz?
+  discardProductMsg: Bu öğeyle ilgili değişiklikleri iptal etmek istediğinizden emin
+    misiniz?
+  discardTitle: Değişiklikleri iptal et
+  drawer_close: Navigasyon çekmecesini kapat
+  drawer_open: Navigasyon çekmecesini aç
+  dueOn: Vade tarihi
+  el: "Ελληνικά"
+  emailFromHint: 
+  emailMessageHint: Mesaj
+  emailSubject: Fatura
+  emailSubjectDatabase: "%s - Veritabanı"
+  emailSubjectEstimate: Hesap
+  emailToHint: Alıcı
+  email_business_name_placeholder: "Şirket adı buraya"
+  email_estimate_msg: "{{ from_name }}-den gelen {{total }} tutarlı hesap bilgisini görmek
+    için aşağıdaki linke tıklayınız:"
+  email_estimate_subject: "{{FROM_NAME}}'den yeni hesap {{ invoice_no }}"
+  email_invoice_msg: "{{ from_name }}-den gelen {{total }} tutarlı faturanızı görmek
+    için aşağıdaki linke tıklayınız:"
+  email_invoice_subject: "{{FROM_NAME}}'den yeni fatura {{ invoice_no }}"
+  email_message_send_me_copy: Bana bir kopyasını gönder
+  email_pay_online: "Çevrimiçi ödeyin"
+  email_thanks: Saygılarımla
+  emptyClentList: Burada yeni müşteriler oluşturabilir veya rehberden içe aktarabilirsiniz.
+  emptyItemList: Burada, sık faturalandırma yaptığınız yeniden kullanılabilir ürünleri
+    veya hizmetleri oluşturabilirsiniz.
+  empty_closed_estimates: Bir faturaya dönüştürülen hesaplar burada gösterilir
+  empty_invoices_paid: "Ödenmiş olarak işaretlediğiniz faturalar burada gösterilir."
+  empty_open_estimates: Henüz bir faturaya dönüştürülmeyen hesaplar burada gösterilir
+  empty_recent_estimates: Son 60 gün içinde oluşturduğunuz hesaplar burada gösterilir
+  empty_recent_invoices: Son 60 gün içinde oluşturduğunuz faturalar burada gösterilir.
+  empty_unpaid_invoices: Tamamen ödenmemiş olarak işaretlenen faturalar burada gösterilir.
+  en: English (US)
+  en_au: English (AU)
+  en_ca: English (CA)
+  en_gb: English (GB)
+  error_due_date_not_before_invoice_date: Vade tarihi fatura tarihinden sonra olmalıdır
+  error_empty_value: Boş bırakılamaz
+  error_exporting: Dışa aktarılırken maalesef hata oluştu
+  error_failed_pdf: "Üzgünüm, faturanızı görüntülemede hatalar oldu"
+  error_import_contact: Kişiyi içe aktarırken maalesef hata oldu
+  error_install_gcp: Google Cloud Print'i yüklemek üzere Android Market'in başlatılmasında
+    maalesef hata oluştu
+  error_print_gcp: Maalesef Google Cloud Print'e yazdırılamıyor
+  err_activity_not_found: Maalesef uygun bir uygulama bulunamadı
+  err_determine_purchased: Fatura Basit kilidini açıp açmadığınızı maalesef belirleyemiyoruz,
+    çevrimiçi olduğundan emin olun ve sonra tekrar deneyin.
+  err_dropbox_backup_failed: Dropbox yedeklemesi başarısız
+  err_external_pdf: Dahili bir uygulamada PDF fatura açılırken maalesef hata oluştu
+  err_failed_backup_email: E-posta veritabanı yedeklemesi başarısız
+  err_failed_generate_pdf: PDF'i üretirken maalesef hata oldu
+  err_failed_loading_logo: Logonuzu yüklerken maalesef hata oldu
+  err_failed_load_clients: Müşterilerin aktarılması başarısız oldu
+  err_failed_saving_logo: Logonuzu kaydederken maalesef bir hata oluştu
+  err_failed_sending_invoice: Faturanızı gönderirken maalesef hata oldu
+  err_failed_to_load_invoice_or_estimate: Yüklenemedi %s
+  err_iab_failed: Maalesef uygulama içi faturalandırmayı düzenleyemiyoruz, çevrimiçi
+    olduğunuzdan emin olun ve sonra tekrar deneyin.
+  err_invoice_notfound: Maalesef bu fatura bulunamıyor
+  err_logo_format: "Üzgünüm, logonuz desteklenen formatlardan bir gibi görünmüyor:
+    JPG, PNG, GIF, BMP"
+  err_printing_not_supported: "Üzgünüz, yazdırma işlemi Android'in bu sürümünde desteklenmiyor"
+  err_purchase_failed_try_reset: "Üzgünüz, satın alımınız onaylanmadı, lütfen sıfırlamayı
+    deneyin."
+  err_render_pdf: PDF'in işlenmesi başarısız
+  err_reset_failed: Sıfırlama başarısız oldu
+  err_restore_failed: Geri alma başarısız
+  err_toast_no_space: 
+  err_toast_unable_to_start_sync: 
+  es: Español
+  estimate_code_pattern: HES0001
+  event_failed_queue_caption: Teslimat edilmek üzere sıraya alma başarısız
+  event_queued_caption: Teslim edilmek üzere sırada
+  event_summary_failed_deliver: Teslim başarısız
+  evt_summary_estimate_created: Hesap oluşturuldu
+  evt_summary_invoice_created: Fatura oluşturuldu
+  evt_summary_opened_by: 'Okundu '
+  evt_summary_received_by: 'Alındı '
+  evt_summary_sent_to: 'Alıcı '
+  exported_to: 'Faturalar şuraya başarıyla aktarıldı:'
+  export_desc: Faturalarınızı özetleyen bir CSV dosyası oluşturun
+  extend_button: Genişlet
+  extend_desc: Henüz satın almaya hazır değil misiniz? 3 tane daha ücretsiz fatura
+    elde edin.
+  fi: 
+  fr:
+    I: 
+    II: 
+    III: 
+    IV:
+      A: 
+      B: 
+      C: 
+  fullyPaidSummary: Bu, tüm yeni oluşturulan faturalarınızı Tamamen Ödendi olarak
+    belirleyecektir
+  hello_world: 
+  hintBusinessNumber: Sicil numarası
+  hintCompanyName: Isim
+  hintEmail: "örneğin info\\@androidapphk.com"
+  hintFax: "örneğin 6789 9012"
+  hintMobile: "örneğin 6789 5678"
+  hintPhone: "örneğin 2012 3456"
+  hintSearch: Müşteri adı
+  hintWeb: "örneğin www.androidappshk.com"
+  hint_bank_transfer: Burada banka hesap numaranızı ve diğer ayrıntıları girin
+  hint_check_payable_to: Sizin veya işletmenizin adı
+  hint_feedback: Geri bildirim
+  hint_payment_options: "Ödeme seçenekleri"
+  hint_payment_other: Ek ödeme talimatları
+  hint_paypal: Paypal e-posta adresinizi girin
+  hu: Macar
+  I: 
+  iab_checkstatus_active: "İyi haber, satın alımınız aktif gibi görünüyor:"
+  iab_checkstatus_inactive: Kayıtlarımız, halen satın alınmış bir planınız bulunmadığını
+    gösteriyor
+  iab_status_unknown: Bilinmiyor
+  id: 
+  II: 
+  III: 
+  invoice_business_details_hint: "Şirket adı, detaylar, logo"
+  invoice_code_pattern: FAT0001
+  invoice_item_numbered: "Öğe %d"
+  invoice_signed_on: "İmzalı %s"
+  it: Italiano
+  itemDiscountAmount: Düz miktar
+  itemDiscountitems: "Ürün başına İndirim"
+  itemDiscountSubTotal: Yüzde
+  itemNoDiscount: "İndirim yok"
+  itemQtyRate: Adet & Oran Sütunları
+  itemTax: "Ürün başına vergi"
+  IV:
+    A: 
+    B: 
+    C: 
+  ja: 
+  ko: 
+  menuBackupSdcard: SD Kart
+  menuBrowse: Yedekleme dosyasına göz atın
+  menuCard: Kartla ödeme
+  menuClear: Temizle
+  menuDelete: Sil
+  menuDropbox: Dropbox™
+  menuDuplicate: "Çift"
+  menuEdit: Düzenle
+  menuEmail: E-posta gönder
+  menuGoogleDrive: Google™ Drive
+  menuMakeInvoice: Fatura oluştur
+  menuMarkPaid: "Ödendi olarak işaretle"
+  menuOpenIn: Aç...
+  menuPreview: "Önizleme"
+  menuPrint: Yazdır
+  menuRemoveLogo: Logoyu kaldır
+  menuSdcard: SD Kart
+  menuSelect: Seç
+  menuShare: Paylaş
+  menuSms: Metin
+  menuUpdate: Düzenle
+  menu_backup: Yedek
+  menu_client: Müşteriler
+  menu_email_us: Destek
+  menu_estimate: Hesaplar
+  menu_how_do_i: SSS
+  menu_invoice: Faturalar
+  menu_item: "Ürünler"
+  menu_send: Gönder
+  menu_setting: Ayarlar
+  ms: 
+  msgBackupDBFail: Maalesef yedekleme sırasında bir şeyler yanlış gitti.
+  msgBackupDBSuccess: Yedekleme başarılı
+  msgBackupDropboxUnlink: Lütfen yedeklemeden önce uygulamayı Dropbox™ ile bağlantılandırın
+  msgBackupGoogleDriveRequired: Maalesef, Google Drive uygulaması bulunamadı
+  msgBackuping: Yedekleniyor...
+  msgDueDate: "%1$s günü vadeli"
+  msgFileNotFound: Dosya bulunamadı
+  msgInvoiceNo: Fatura No. rakamları takiben harflerden oluşmalıdır
+  msgInvoicePdfNotFound: Fatura dosyası bulunamadı, lütfen faturayı tekrar oluşturun.
+  msgLinkDropboxFail: Dropbox™ bağlantısı başarısız.
+  msgNoBackupDatabase: Maalesef hiçbir yedek bulunmadı.
+  msgPdfReader: Lütfen bir PDF okuyucu uygulaması kurunuz
+  msgRestoreConfirm: Yedekleme dosyasının en son yedek olduğundan emin olun. Aksi
+    takdirde, cihazda yeni kaydedilmiş verileri kaybedebilirsiniz.
+  msgRestoreDropboxUnlink: Lütfen geri almadan önce uygulamayı Dropbox™ ile bağlantılandırın
+  msgRestoreNoBackupsFoundSDCard: 'Bu klasörde yedekler bulunamadı:'
+  msgRestoreSdConfirm: Hangi yedeklemeyi geri almak istersiniz?
+  msgRestoring: Geri alınıyor...
+  msg_change_lang: Dil tamamen değiştirmek için yeniden başlatmak üzere uygulamayı
+    zorlamanız gerekebilir
+  msg_disable_online_payments: Faturalarınız için çevrimiçi ödemeyi devre dışı bırakmak
+    istediğinizden emin misiniz?
+  msg_enable_sync: 
+  msg_full_sync: 
+  msg_invoice_sent: Fatura gönderildi!
+  msg_online_payment_setup: "İyi iş. Faturalarınız artık bir ŞİMDİ ÖDE düğmesi içerecek,
+    böylece müşterileriniz anında çevrimiçi ödeme yapabilecek"
+  msg_print_require_gcp: Yazdırma işlemi, Google Cloud Print gerektirir. Şimdi yüklemek
+    veya web sürümünü kullanmak ister misiniz?
+  msg_reset_succeeded: Başarıyla sıfılandı
+  msg_restore_invalid_db: Maalesef bu geçerli bir Fatura Basit veritabanı yedeklemesi
+    gibi görünmüyor
+  msg_sending_progress: Gönderiliyor...
+  msg_syncing: 
+  nl: Nederlands
+  'no': Norsk
+  noTax: Vergisiz
+  notification_drop_msg: Lütfen %s adresini kontrol edin ve tekrar deneyin.
+  notification_drop_title: Teslim başarısız %s
+  notification_fail_send_msg: Internet bağlantınızı kontrol edin ve tekrar deneyin.
+  notification_fail_send_title: "%s gönderilemiyor"
+  notification_invoice_read_msg: Faturanız %s tarafından okundu
+  notification_invoice_read_title: Fatura okundu
+  notification_open_title: Açık No. %s
+  'off': Kapalı
+  'on': Açık
+  onboarding_done: Artık temel kurulumları yaptınız, devam edin ve ilk faturanızı
+    oluşturun!
+  onboarding_info: "İşinizle ilgili bilgiler, her faturada görünecektir."
+  onboarding_welcome_1: Hoşgeldiniz! Bazı temel kurulumları yapmak için bir kaç saniyenizi
+    ayırın.
+  onboarding_welcome_2: Sonraki herhangi bir zamanda dokunduğunuzda, bu bilgileri
+    daha sonra kolayca değiştirebilirsiniz, her şey isteğe bağlıdır.
+  payment_other: Diğer
+  pdfBillingTo: Fatura Alıcısı
+  pdfDate: 'Tarih:'
+  pdfDueDate: 'Vade Tarihi:'
+  pdfEstimateNo: 'Hesap No:'
+  pdfEstimateTitle: Hesap
+  pdfInvoiceNo: 'Fatura No:'
+  pdfInvoiceTitle: Fatura
+  pdfItemAmount: Tutar
+  pdfItemCode: "Öğe"
+  pdfItemDiscount: Indirim
+  pdfItemNo: No.
+  pdfItemQuantity: Adet
+  pdfItemRate: Oran
+  pdfPaymentBankTransfer: Banka havalesi
+  pdfPaymentCheck: "Çekle"
+  pdfPaymentCheckPayableTo: "Çek ödemelerin alıcısı:"
+  pdfPaymentInstructions: "Ödeme talimatları"
+  pdfPaymentOther: Diğer
+  pdfPaymentPayPal: PayPal ile
+  pdfPaymentPaypalSendTo: "Ödemeleri gönderin:"
+  pdfPoNumber: 'Sipariş Numarası:'
+  pdfRemark: "           * Vergiye tabi olmayan bir ürünü belirtir"
+  pdfShippingAmount: Sevk Tutarı
+  pdfShippingFob: FOB teslimatı
+  pdfShippingShipDate: Sevk Tarihi
+  pdfShippingTo: Teslimat Alıcısı
+  pdfShippingTracking: Sevk Takip
+  pdfShippingVia: Sevk Şekli
+  pdfSignature: Imza
+  pdfTerms: 'Koşullar:'
+  pdfTotalBalanceDue: Mevcut Bakiye
+  pdfTotalDiscount: Indirim
+  pdfTotalPaid: "Ödendi"
+  pdfTotalShipping: Sevk
+  pdfTotalSubtotal: Ara toplam
+  pdfTotalTaxable: 
+  pdfTotalTaxRate: Vergi
+  pdfTotalTotal: Toplam
+  pl: 
+  placeholder_no_client: "(Müşteri yok)"
+  please_rate: Lütfen Fatura Basit'ı derecelendirin
+  please_specify: 
+  prefBackupSummary: SD Kart, Dropbox™ veya Google™ Drive
+  prefBackupTitle: Yedek
+  prefDeleteAllSummary: Veritabanındaki tüm kayıtları sil
+  prefDeleteAllTitle: Tüm Kayıtları Sil
+  prefEmailDbSummary: Geçerli veritabanının bir yedeğini e-posta ile gönderin
+  prefEmailDbTitle: E-posta
+  prefFirstTimeSetup: "İlk kez kurulum"
+  prefix_business_number: "Şirket Numarası:"
+  prefix_fax: 'F:'
+  prefix_mobile: 'M:'
+  prefix_phone: 'P:'
+  prefLangTitle: Dil
+  prefLinkDropBoxSummary: Uygulamayı Dropbox™ hesabınıza bağlantılandırın
+  prefLinkDropBoxTitle: Dropbox™
+  prefLogSummary: v %1$s
+  prefLogTitle: Değişim günlüğü
+  prefRate: Fatura Basit'ı derecelendirin
+  prefRestoreSummary: SD Kart, Dropbox™ veya Google™ Drive
+  prefRestoreTitle: Geri al
+  prefTitleDate: Tarih biçimi
+  prefUnlinkDropBoxSummary: Uygulamanın Dropbox™ hesabınızla bağlantısını kaldırın
+  prefUnlinkDropBoxTitle: Dropbox™ bağlantısını kaldırın
+  progressPreparing: Hazırlanıyor...
+  progress_checking: Denetleniyor...
+  progress_exporting: Aktarılıyor...
+  progress_generate_pdf: PDF oluşturuluyor...
+  progress_loading: Yükleniyor
+  progress_resetting: Sıfırlanıyor
+  progress_validate_email: E-posta doğrulanıyor...
+  pt_BR: Português
+  purchase_appeal_message: Fatura Basit'ı satın almak, yeni özellikler eklemeye ve
+    destek almaya devam etmemi sağlar.
+  purchase_choose_plan: Bir plan seçin
+  purchase_message_unlock: Fatura Basit kilidini açmak için, aşağıdaki seçeneklerden
+    birini seçin.
+  purchase_monthly_desc: Sınırsız faturaların kilidini açmak için aylık abone olun,
+    herhangi bir zamanda iptal edebilirsiniz.
+  purchase_monthly_fmt: Aylık (%s)
+  purchase_notready: Henüz satın almaya hazır değil misiniz?
+  purchase_plan_enterprise: Kuruluş
+  purchase_plan_enterprise_desc1: Sınırsız faturalar ve müşterileri
+  purchase_plan_enterprise_desc2: Birden fazla cihaz senkronize edin
+  purchase_plan_enterprise_desc3: Birden çok kullanıcı
+  purchase_plan_pro: Profesyonel
+  purchase_plan_pro_desc: Sınırsız faturalar ve müşterileri
+  purchase_plan_starter: Temel
+  purchase_plan_starter_desc: En fazla 100 fatura ve yılda 50 istemcileri
+  purchase_reset_connection: Bağlantıyı sıfırlayın
+  purchase_support: Destek
+  purchase_text_monthly: Aylık
+  purchase_text_yearly: Yıllık
+  purchase_thanks: Fatura Basit'ı satın aldığınız için teşekkür ederiz!
+  purchase_upgrade_title: Daha fazla faturalar yapmak yükseltin!
+  purchase_yearly_desc: Tavsiye edilir (her yılda 2 ay ücretsiz olsun!)
+  purchase_yearly_lbl: Yıllık (%s)
+  rating_message_thanks: Fatura Basit'ı derecelendirdiğiniz için teşekkürler. Uygulamanın
+    geliştirildiğini nasıl görmek istersiniz?
+  ru: "русский"
+  sameDay: Alındığında ödeme
+  section_bank_transfer: Banka havalesi
+  section_business: "Şirket"
+  section_business_address: "İş Adresi"
+  section_checks: "Çeklerin ödemesinin yapılacağı kişi"
+  section_header_payment_options: "Ödeme (Banka havalesi, Paypal, vb.)"
+  section_paypal_address: Paypal adresi
+  setting_online_invoice_payment: 
+  setup_payments_cost_msg: Her başarılı kart çekimi için %3.4 + 30 ¢.
+  setup_payments_enable_msg: Faturalarınıza bir ŞİMDİ ÖDE düğmesi koyun.
+  setup_payments_features_msg: Visa, Mastercard ve American Express kabul edin. Kazançlar,  2
+    gün süreklilik esasına göre banka hesabınıza aktarılır.
+  sk: 
+  sms_chooser_always: Her zaman
+  sms_chooser_title: Gönder
+  sms_dialog_title: Numara nedir?
+  sms_error_default: Maalesef varsayılan SMS uygulamanız bulunamıyor
+  summaryContactInfo1: "Şirket iletişim bilgilerinizi girin, bazı alanları boş bırakabilirsiniz."
+  summaryContactInfo2: Bu bilgiler, faturalarda iletişim bilgilerinizi görüntülemek
+    için kullanılır. Fatura Basit bu bilgileri pazarlama amacıyla toplamaz.
+  summaryQtyRate: Faturada Miktar, Oran ve Tutar sütunlarını göster.
+  survey_business_type: "İş türü"
+  survey_customer_type: Müşterilerinin tipi
+  survey_intro: Gelecekteki uygulama geliştirmelerinde rehberlik yapmak konusunda
+    yardımcı olmak için, bize biraz işinizden bahsedin!
+  survey_invoices_monthly: Aylık faturalar
+  survey_payment_method1: En yaygın ödeme yöntemi
+  survey_payment_method2: Sonraki en yaygın ödeme yöntemi
+  survey_receiving_payments: "Ödemeler alınıyor"
+  survey_years_business: "İş yapılan yıl"
+  sv: 
+  sync_desc: 
+  tabHistory: Geçmiş
+  tabPayment: "Ödeme"
+  tab_closed: Kapalı
+  tab_contact: "İletişim"
+  tab_general: Genel
+  tab_logo: Logo
+  tab_open: Açık
+  tab_paid: "Ödenmiş"
+  tab_recent: En son
+  tab_unpaid: "Ödenmemiş"
+  taxDeducted: Mahsup edilen vergi
+  terms_custom: "Özel"
+  textAddItem: "Ürün Ekleyin"
+  textAmount: Tutar
+  textBalanceDue: Mevcut Bakiye
+  textBuy: Tam sürümü satın alın
+  textClient: Müşteri
+  textComments: Notlar
+  textConnected: Bağlandı
+  textDate: Tarih
+  textDatePaid: "Ödemenin Yapıldığı Tarih"
+  textDeleteClientMsg: Bu müşteriyi silmek istediğinizden emin misiniz?
+  textDeleteClientTitle: Müşteriyi sil
+  textDeleteEstimateMsg: Bu hesabı silmek istediğinizden emin misiniz?
+  textDeleteEstimateTitle: Hesabı sil
+  textDeleteInvoiceMsg: Bu faturayı silmek istediğinizden emin misiniz?
+  textDeleteInvoiceTitle: Faturayı sil
+  textDeleteItemMsg: Faturada bu öğeyi kaldırmak istediğinizden emin misiniz?
+  textDeleteItemTitle: "Öğeyi çıkar"
+  textDeleteProductMsg: Bu ürünü silmek istediğinizden emin misiniz?
+  textDeleteProductTitle: "Ürünü sil"
+  textDescription: Notlar
+  textDiscount: Indirim
+  textDiscountPer: "İndirim %"
+  textDue: Vade
+  textDueToday: Bugün süresi doluyor
+  textFob: FOB
+  textFullyPaid: Tamamen Ödendi
+  textInclusiveOption: Fiyatlara dahil edilmiştir
+  textInvoice: Fatura No.
+  textItemCode: Açıklama
+  textLabel: Etiket
+  textNotificationDropped: Fatura teslimi başarısız
+  textNotificationOpen: Fatura açıldı
+  textOnlinePayment: "Ödemeler"
+  textOverdue: Vadesi geçmiş
+  textPaid: "Ödendi"
+  textPartPayment: Kısmi Ödeme
+  textPoNumber: Sipariş Numarası
+  textPurchaseStatus: Satın alma durumunu kontrol edin
+  textQuantity: Miktar
+  textRate: Birim fiyat
+  textSelectItem: "Ürün Seçin"
+  textSetContact: Telefon, e-posta ve web sitesi
+  textSetCurrency: Döviz cinsi
+  textSetDefaultSMSApp: Varsayılan SMS uygulaması
+  textSetDetails: "İsim, adres ve sicil numarası"
+  textSetDiscount: Varsayılan indirim
+  textSetEmail: E-posta
+  textSetFax: Faks
+  textSetInvoiceComment: Varsayılan notlar
+  textSetInvoiceFully: "Ödeme varsayılanı"
+  textSetMobile: Cep Telefonu
+  textSetOptions: Adet ve tutarı değiştir
+  textSetPhone: Telefon
+  textSetRename: Alanları yeniden adlandırın
+  textSetSetLogo: Logo
+  textSetTaxType: Tip
+  textSetTerms: "Ödeme koşulları"
+  textSetup: Ayar
+  textSetupOnlinePayments: Hızlı ödeme alın
+  textSetWeb: Web sitesi
+  textShipDate: Sevk Tarihi
+  textShipping: Teslimat
+  textShipVia: Sevk Şekli
+  textSubtotal: Ara toplam
+  textSummaryAbout: Hakkında
+  textSummaryCompany: "Şirket"
+  textSummaryDefault: Varsayılan
+  textSummaryInvoice: Fatura
+  textSummaryLocale: Yer
+  textSummaryNotifications: Bildirimler
+  textSummaryTaxes: Vergiler
+  textTax: Vergi
+  textTax1: Vergi
+  textTax1Summary: Faturalarınıza uygulanan vergi adını ve % to düzenleyin.
+  textTaxable: Vergiye tabi
+  textTaxInclusive: Dahil
+  textTaxInclusiveSetting: Vergi Dahil
+  textTaxInclusiveSummary: Bu, toplam miktara verginin dahil/hariç olup olmadığını
+    belirleyecektir.
+  textTaxRate: Vergi Oranı
+  textTaxSetting: Oran
+  textTaxSummary: Fiyatlara KDV dahil olduğunu kontrol edin
+  textTaxSummarySelect: Fiyatlara KDV dahil değilse işaretlenmedi olarak ayarla.
+  textTerms: Koşullar
+  textTotal: Toplam
+  textTracking: Takip No.
+  textType: Tip
+  text_address: Adres
+  text_bank_transfer: Banka havalesi
+  text_billing_address1: Satır 1
+  text_billing_address2: Satır 2
+  text_billing_address3: Satır 3
+  text_billing_email: E-posta
+  text_billing_name: Isim
+  text_check: "Çek"
+  text_contact: "İrtibat"
+  text_currency: Döviz cinsi
+  text_export: Aktar
+  text_fax: Faks
+  text_hint_percentage: "%0"
+  text_hint_shipping_name: Isim
+  text_import_contact: Kişi aktar
+  text_install: Yükle
+  text_mobile: Cep Telefonu
+  text_other: Diğer
+  text_paypal: PayPal
+  text_phone: Telefon
+  text_setup_logo: Her faturada görünmesi için isteğe bağlı olarak bir logo ayarlayın.
+  text_short_ago: "önce"
+  text_summary_billing: Adres
+  text_summary_shipping: Teslimat Adresi
+  text_sync: 
+  text_to: Alıcı
+  text_website: Web sitesi
+  titleCompany: "Şirket Detayları"
+  titleContactInformation: "Şirket İletişim"
+  titleDatabase: Yedekle
+  titleEditClient: Müşteri düzenle
+  titleEditItem: "Ürün düzenle"
+  titleEmail: Faturayı e-posta ile gönder
+  titleEmailEstimate: Hesapları e-posta ile gönder
+  titleEstimateInfo: Hesap Bilgisi
+  titleFullyPaid: Fatura Tamamen Ödendi
+  titleInvoiceComment: Varsayılan notlar
+  titleInvoiceInfo: Fatura Bilgisi
+  titleInvoiceOption: Fatura Seçeneği
+  titleNewClient: Yeni müşteri
+  titleNewItem: Yeni ürün
+  titleOnlinePayments: "Çevrimiçi ödeme kabul edin"
+  titlePaymentInfo: "Ödeme Bilgileri"
+  titleRestoreDBFail: Geri alma başarısız
+  titleSelectCurrency: Döviz Seçin
+  titleSelectDiscount: "İndirim Seçeneğini Seçin"
+  titleSelectTax: Vergi Türü Seçin
+  titleSelectTerms: Koşulları Seçin
+  titleSetting: Ayarlar
+  titleSetupEditItem: "Öğe Düzenle"
+  titleSetupNewItem: "Öğe Ekle"
+  titleShippingInfo: Teslimat Bilgileri
+  titleTax1: Vergi
+  titleTaxInclusive: Vergi Dahil Seçeneği
+  titleTaxInclusiveOption: Vergi Dahil Seçeneği
+  titleTaxRate: Oran
+  titleYourLogo: "Şirket Logosu"
+  title_edit_estimate: Hesabı düzenle
+  title_edit_invoice: Faturayı düzenle
+  title_export_to: "Şuraya aktar"
+  title_purchase: Satınalma gerekir
+  toast_pdf_comment_error: "Üzgünüm! Notlarınız PDF'e eklenemiyor"
+  toast_setup_payments_error: Maalesef hata oluştu, İnternete bağlı olduğunuzdan emin
+    olun ve sonra tekrar deneyin.
+  toggle_mk_product: "Ürün olarak kaydet"
+  totalTax: Toplam vergi
+  tour_invoices_add: Bir fatura oluşturmak için dokunun
+  tour_invoice_add_item: Fatura öğelerini burada ekleyin
+  tour_invoice_business_details: "İşletme adını, logoyu, v.d. düzenleyin"
+  tour_invoice_discount_taxes_paid: "İndirimi, vergileri düzenlemek için dokunun ya
+    da bir faturayı ödendi olarak işaretleyin"
+  tour_invoice_preview_zoom: Büyütmek için çimdikleyebilirsiniz
+  tr: 
+  tw: "中文 (繁體)"
+  validation_email: Geçersiz e-posta
+  validation_invalid_email: Geçersiz e-posta
+  validation_paypal_email: PayPal için geçerli bir e-posta girin
+  validation_send_email: Bunu göndermek için geçerli bir e-posta girin

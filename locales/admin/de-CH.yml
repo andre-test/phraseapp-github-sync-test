@@ -1,7 +1,7 @@
 ---
-en:
-  action_menutime: jhgdjg
-  action_settings: action %s %d %@ %li
+de-rCH:
+  action_menutime: 
+  action_settings: Settings
   activity_title_client: 
   activity_title_item: 
   alert_msg_remove_logo: 
@@ -11,7 +11,7 @@ en:
   apprate_please_support: 
   apprate_submit_feedback: 
   apprate_thanks: 
-  app_name: 
+  app_name: DemoApp
   backup_auto_last_msg: 
   backup_auto_notyet_msg: 
   backup_auto_title: 
@@ -19,7 +19,7 @@ en:
   btnClear: 
   btnRate: 
   btn_add_logo: 
-  btn_big: 
+  btn_big: BigBig Button
   btn_cancel: 
   btn_confirm: 
   btn_delete: 
@@ -33,7 +33,7 @@ en:
   btn_save: 
   btn_search: 
   btn_skip: 
-  btn_small: 
+  btn_small: Small Button
   btn_sort: 
   btn_update_logo: 
   button_enable_online_payment: 
@@ -152,7 +152,7 @@ en:
       B: 
       C: 
   fullyPaidSummary: 
-  hello_world: 
+  hello_world: Hello world!
   hintBusinessNumber: 
   hintCompanyName: 
   hintEmail: 
@@ -174,7 +174,7 @@ en:
   iab_status_unknown: 
   id: 
   II: 
-  III: wefwefwefewrefwewewe
+  III: 
   invoice_business_details_hint: 
   invoice_code_pattern: 
   invoice_item_numbered: 
@@ -527,7 +527,7 @@ en:
   titleEmailEstimate: 
   titleEstimateInfo: 
   titleFullyPaid: 
-  titleInvoiceComment: test %d %@ %li
+  titleInvoiceComment: 
   titleInvoiceInfo: 
   titleInvoiceOption: 
   titleNewClient: 

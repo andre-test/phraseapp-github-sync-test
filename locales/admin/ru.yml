@@ -1,0 +1,601 @@
+---
+ru:
+  action_menutime: "Поиск"
+  action_settings: 
+  activity_title_client: "Клиенты"
+  activity_title_item: "Продукты"
+  alert_msg_remove_logo: "Вы уверены, что хотите удалить логотип?"
+  alert_title_remove_logo: "Удалить логотип"
+  appRateNegative: "Нет, спасибо"
+  appRateNeutral: "Напомнить позже"
+  apprate_please_support: "Поддержите Счет-фактура простой, оставив на Google Play
+    отзыв о том, как эта программа помогла вашей компании."
+  apprate_submit_feedback: "Отправить отзыв"
+  apprate_thanks: "Спасибо!"
+  app_name: "Счет-фактура простой"
+  backup_auto_last_msg: "Последняя резервная копия была завершена в:"
+  backup_auto_notyet_msg: "Резервное копирование еще не было сделано. Резервные копии
+    управляются операционной системой."
+  backup_auto_title: "Автоматическое резервное копирование"
+  bs: Bosanski
+  btnClear: "Очистить"
+  btnRate: "Стоимость"
+  btn_add_logo: "Выбрать логотип"
+  btn_big: 
+  btn_cancel: "Отменить"
+  btn_confirm: "Подтвердить"
+  btn_delete: "Удалить"
+  btn_delete_logo: "Удалить логотип"
+  btn_del_short: "Удал."
+  btn_finish: "Завершить"
+  btn_next: "Следующий"
+  btn_ok: OK
+  btn_ok_exclaim: "Ок!"
+  btn_previous: "Предыдущий"
+  btn_save: "Сохранить"
+  btn_search: "Поиск"
+  btn_skip: "Пропустить"
+  btn_small: 
+  btn_sort: "Сортировать"
+  btn_update_logo: "Изменить логотип"
+  button_enable_online_payment: 
+  cn: "中文 (简体)"
+  companyComent: "Укажите комментарий вашей компании в счете-фактуре"
+  cs: 
+  da: Dansk
+  days_1: 1 день
+  days_10: 10 дней
+  days_120: 120 дней
+  days_14: 14 дней
+  days_180: 180 дней
+  days_2: 2 дня
+  days_21: 21 день
+  days_3: 3 дня
+  days_30: 30 дней
+  days_365: 365 дней
+  days_4: 4 дня
+  days_45: 45 дней
+  days_5: 5 дней
+  days_6: 6 дней
+  days_60: 60 дней
+  days_7: 7 дней
+  days_90: 90 дней
+  dbBackupChoose: "Где находится файл резервного копирования базы данных?"
+  dbBackupFailMsg: "Файл резервного копирования базы данных не удалось"
+  dbBackupSuccessMsg: "База данных успешно сохранена в"
+  dbNoDatabaseMsg: "База данных еще не создана"
+  dbRestoreChoose: "Откуда восстанавливался файл базы данных?"
+  dbRestoreFailMsg: "Восстановление базы данных не удалось"
+  dbRestoreSuccessMsg: "База данных успешно восстановлена"
+  de: Deutsch
+  discardClientMsg: "Вы уверены, что хотите отменить изменения для этого клиента?"
+  discardEmailMsg: 
+  discardProductMsg: "Вы уверены, что хотите отменить изменения для этого элемента?"
+  discardTitle: "Отменить изменения"
+  drawer_close: "Закрыть панель навигации"
+  drawer_open: "Открыть панель навигации"
+  dueOn: "Дата оплаты"
+  el: "Ελληνικά"
+  emailFromHint: "От"
+  emailMessageHint: "Сообщение (не обязательно)"
+  emailSubject: "Счет-фактура"
+  emailSubjectDatabase: "База данных – %s"
+  emailSubjectEstimate: "Смета"
+  emailToHint: "Для"
+  email_business_name_placeholder: 
+  email_estimate_msg: 
+  email_estimate_subject: 
+  email_invoice_msg: 
+  email_invoice_subject: 
+  email_message_send_me_copy: "Прислать мне копию"
+  email_pay_online: 
+  email_thanks: 
+  emptyClentList: "Вы можете создавать новых клиентов здесь или импортировать из списка
+    контактов."
+  emptyItemList: "Здесь вы можете создавать часто используемые продукты или услуги,
+    на которые вы неоднократно выставляете счета-фактуры."
+  empty_closed_estimates: "Здесь будут показаны сметы, которые были преобразованы
+    в счет-фактуру."
+  empty_invoices_paid: "Здесь будут показаны счета-фактуры с пометками об оплате."
+  empty_open_estimates: "Здесь будут показаны сметы, которые не были преобразованы
+    в счет-фактуру."
+  empty_recent_estimates: "Здесь будут показаны сметы, созданные вами за последние
+    60 дней"
+  empty_recent_invoices: "Здесь будут показаны счета-фактуры, созданные вами за последние
+    60 дней."
+  empty_unpaid_invoices: "Здесь будут показаны счета-фактуры без пометок о полной
+    оплате."
+  en: English
+  en_au: 
+  en_ca: 
+  en_gb: 
+  error_due_date_not_before_invoice_date: 
+  error_empty_value: "Необходимо заполнить"
+  error_exporting: "Извините что-то произошло, что экспорт"
+  error_failed_pdf: "Возникла ошибка во время предварительного просмотра счета-фактуры"
+  error_import_contact: "К сожалению, возникли неполадки при импортировании вашего
+    контакта"
+  error_install_gcp: 
+  error_print_gcp: 
+  err_activity_not_found: 
+  err_determine_purchased: "К сожалению, мы не смогли определить, разблокирован ли
+    ваш Счет-фактура простой. Повторите попытку позже."
+  err_dropbox_backup_failed: "Не удалось создать резервную копию в Dropbox"
+  err_external_pdf: 
+  err_failed_backup_email: "Не удалось создать резервную копию БД электронной почты"
+  err_failed_generate_pdf: "К сожалению, возникли неполадки при создании вашего PDF"
+  err_failed_loading_logo: "К сожалению, возникли неполадки при загрузке вашего логотипа"
+  err_failed_load_clients: "Не удалось сделать выборку клиентов"
+  err_failed_saving_logo: "К сожалению, произошла ошибка при сохранении вашего логотипа"
+  err_failed_sending_invoice: "К сожалению, возникли неполадки при отсылке вашего
+    счета-фактуры"
+  err_failed_to_load_invoice_or_estimate: "Не удалось загрузить %s"
+  err_iab_failed: "К сожалению, мы не смогли настроить выставление счета в приложении;
+    убедитесь, что вы подключены к сети, и повторите попытку позже."
+  err_invoice_notfound: 
+  err_logo_format: 
+  err_printing_not_supported: "К сожалению, для данной версии Android печать не поддерживается"
+  err_purchase_failed_try_reset: "К сожалению, ваша покупка не прошла, попробуйте
+    выйти и войти в систему."
+  err_render_pdf: "Не удалось обработать PDF"
+  err_reset_failed: "Сброс не удался"
+  err_restore_failed: "Восстановление не удалось"
+  err_toast_no_space: 
+  err_toast_unable_to_start_sync: 
+  es: Español
+  estimate_code_pattern: EST0001
+  event_failed_queue_caption: 
+  event_queued_caption: 
+  event_summary_failed_deliver: 
+  evt_summary_estimate_created: 
+  evt_summary_invoice_created: 
+  evt_summary_opened_by: 
+  evt_summary_received_by: 
+  evt_summary_sent_to: 
+  exported_to: "Успешно экспортируется счетов:"
+  export_desc: "Созданиефайла CSV приведены счета"
+  extend_button: "Продлить"
+  extend_desc: "Не готов купить еще? Получить более 3 бесплатные счета"
+  fi: 
+  fr:
+    I: 
+    II: 
+    III: 
+    IV:
+      A: 
+      B: 
+      C: 
+  fullyPaidSummary: "Все только что созданные счета-фактуры будут отмечены как полностью
+    оплаченные"
+  hello_world: 
+  hintBusinessNumber: "Регистрационный номер"
+  hintCompanyName: "Название"
+  hintEmail: "Например, info\\@androidapphk.com"
+  hintFax: "Например, 6789 9012"
+  hintMobile: "Например, 6789 5678"
+  hintPhone: "Например, 2012 3456"
+  hintSearch: "Имя и фамилия клиента"
+  hintWeb: "Например, www.androidappshk.com"
+  hint_bank_transfer: "Введите здесь номер банковского счета и прочие подробности"
+  hint_check_payable_to: "Ваше имя или название вашей компании"
+  hint_feedback: "Обратная связь"
+  hint_payment_options: "Варианты оплаты"
+  hint_payment_other: "Дополнительные инструкции по оплате"
+  hint_paypal: "Введите ваш адрес электронной почты PayPal"
+  hu: Magyar
+  I: 
+  iab_checkstatus_active: 
+  iab_checkstatus_inactive: 
+  iab_status_unknown: 
+  id: 
+  II: 
+  III: 
+  invoice_business_details_hint: "Название компании, подробности, логотип"
+  invoice_code_pattern: INV0001
+  invoice_item_numbered: "Элемент %d"
+  invoice_signed_on: "Подписано %s"
+  it: Italiano
+  itemDiscountAmount: "фиксированная сумма"
+  itemDiscountitems: "Скидка за единицу"
+  itemDiscountSubTotal: "Общая скидка"
+  itemNoDiscount: "Без скидки"
+  itemQtyRate: "Столбцы для количества и стоимости"
+  itemTax: "Налог на каждое наименование"
+  IV:
+    A: 
+    B: 
+    C: 
+  ja: 
+  ko: 
+  menuBackupSdcard: "Карта SD (содержит 3 копии)"
+  menuBrowse: "Просмотр файла резервной копии"
+  menuCard: 
+  menuClear: "Очистить"
+  menuDelete: "Удалить"
+  menuDropbox: Dropbox™
+  menuDuplicate: "Дублировать"
+  menuEdit: "Редактировать"
+  menuEmail: "Отправить по эл. почте"
+  menuGoogleDrive: Google™ Диск
+  menuMakeInvoice: "Составить счет-фактуру"
+  menuMarkPaid: "Марк заплатил"
+  menuOpenIn: "Открыть в..."
+  menuPreview: "вид"
+  menuPrint: "Печать"
+  menuRemoveLogo: "Удалить логотип"
+  menuSdcard: "Карта SD"
+  menuSelect: "Выбрать"
+  menuShare: "Поделиться"
+  menuSms: 
+  menuUpdate: "Редактировать"
+  menu_backup: "Резервная копия"
+  menu_client: "Клиенты"
+  menu_email_us: "Обратная связь"
+  menu_estimate: "Сметы"
+  menu_how_do_i: FAQ
+  menu_invoice: "Счета-фактуры"
+  menu_item: "Продукты"
+  menu_send: "Отправить"
+  menu_setting: "Настройки"
+  ms: 
+  msgBackupDBFail: "Резервное копирование базы данных не удалось."
+  msgBackupDBSuccess: "Резервное копирование базы данных прошло успешно."
+  msgBackupDropboxUnlink: "Создайте ссылку на приложение в Dropbox™ перед резервным
+    копированием"
+  msgBackupGoogleDriveRequired: "К сожалению, приложение Google Drive не найдено"
+  msgBackuping: "Идет резервное копирование..."
+  msgDueDate: "Подлежит к оплате через  %1$s день/дней"
+  msgFileNotFound: "Файл не найден на"
+  msgInvoiceNo: "№ счета-фактуры должен состоять из букв, за которыми следуют цифры"
+  msgInvoicePdfNotFound: "Не удалось составить счет-фактуру, так как его файл не найден.
+    Повторите попытку."
+  msgLinkDropboxFail: "Ошибка ссылки на Dropbox™."
+  msgNoBackupDatabase: "Не найдено файлов резервного копирования базы данных."
+  msgPdfReader: "Установите программу для чтения PDF"
+  msgRestoreConfirm: "Убедитесь, что это последняя версия файла резервного копирования.
+    Иначе вы можете лишиться самых актуальных данных, сохраненных на вашем устройстве."
+  msgRestoreDropboxUnlink: "Создайте ссылку на приложение в Dropbox™ перед его восстановлением"
+  msgRestoreNoBackupsFoundSDCard: 
+  msgRestoreSdConfirm: "Выберите один из файлов резервного копирования. Убедитесь,
+    что это последняя версия файла."
+  msgRestoring: "Идет восстановление..."
+  msg_change_lang: 
+  msg_disable_online_payments: 
+  msg_enable_sync: 
+  msg_full_sync: 
+  msg_invoice_sent: "Счет-фактура отправлен!"
+  msg_online_payment_setup: 
+  msg_print_require_gcp: 
+  msg_reset_succeeded: "Сброс прошел успешно"
+  msg_restore_invalid_db: 
+  msg_sending_progress: "Отсылка..."
+  msg_syncing: 
+  nl: Nederlands
+  'no': Norsk
+  noTax: "Без налога"
+  notification_drop_msg: 
+  notification_drop_title: 
+  notification_fail_send_msg: 
+  notification_fail_send_title: 
+  notification_invoice_read_msg: "Ваш счет-фактура был прочтен %s"
+  notification_invoice_read_title: "Чтение счета-фактуры"
+  notification_open_title: "Открыть № %s"
+  'off': "Выключить"
+  'on': "Включить"
+  onboarding_done: "Вы осуществили базовую настройку, теперь создайте свой первый
+    счет-фактуру!"
+  onboarding_info: "Сведения о вашей компании будут отображены на каждом счете-фактуре."
+  onboarding_welcome_1: "Добро пожаловать! Потратим минуту на основные настройки."
+  onboarding_welcome_2: "Проследовав далее в любой момент, вы сможете вернутся к этим
+    сведениям позже: поступайте, как вам удобнее."
+  payment_other: "Другое"
+  pdfBillingTo: "Плательщик"
+  pdfDate: "Дата:"
+  pdfDueDate: "Срок оплаты:"
+  pdfEstimateNo: "Смета №:"
+  pdfEstimateTitle: "Смета"
+  pdfInvoiceNo: "Счет №:"
+  pdfInvoiceTitle: "Счет-фактура"
+  pdfItemAmount: "Сумма"
+  pdfItemCode: "Наименование"
+  pdfItemDiscount: "Скидка"
+  pdfItemNo: 
+  pdfItemQuantity: "Кол-во"
+  pdfItemRate: "Стоимость"
+  pdfPaymentBankTransfer: "Банковский перевод"
+  pdfPaymentCheck: "Чеком"
+  pdfPaymentCheckPayableTo: "Сделать чеки пригодными к оплате при помощи:"
+  pdfPaymentInstructions: "Платежное поручение"
+  pdfPaymentOther: "Другое"
+  pdfPaymentPayPal: "Через PayPal"
+  pdfPaymentPaypalSendTo: "Отправить платежи для:"
+  pdfPoNumber: 
+  pdfRemark: "           * Указывает необлагаемый налогом продукт"
+  pdfShippingAmount: "Объем партии"
+  pdfShippingFob: "Поставка франко-борт"
+  pdfShippingShipDate: "Дата отгрузки"
+  pdfShippingTo: "Получатель"
+  pdfShippingTracking: "Отслеживание поставки"
+  pdfShippingVia: "Поставка через"
+  pdfSignature: "Подпись"
+  pdfTerms: "Условия:"
+  pdfTotalBalanceDue: "Сумма к оплате"
+  pdfTotalDiscount: "Скидка"
+  pdfTotalPaid: "Оплачено"
+  pdfTotalShipping: "Партия"
+  pdfTotalSubtotal: "Промежуточный итог"
+  pdfTotalTaxable: "Облагаемый налогом"
+  pdfTotalTaxRate: "Налог"
+  pdfTotalTotal: "Итого"
+  pl: 
+  placeholder_no_client: "(Клиент отсутствует)"
+  please_rate: "Пожалуйста, оцените Счет-фактура простой"
+  please_specify: 
+  prefBackupSummary: "Резервное копирование базы данных на SD-карту, Google™ Диск
+    или в Dropbox™"
+  prefBackupTitle: "Резервное копирование базы данных"
+  prefDeleteAllSummary: "Удалить все записи из базы данных"
+  prefDeleteAllTitle: "Удалить все записи"
+  prefEmailDbSummary: "Отправить текущую базу данных по эл. почте"
+  prefEmailDbTitle: "Отправить базу данных по эл. почте"
+  prefFirstTimeSetup: "Первоначальная настройка времени"
+  prefix_business_number: "Номер компании:"
+  prefix_fax: "Ф:"
+  prefix_mobile: 'M:'
+  prefix_phone: 'T:'
+  prefLangTitle: "Язык"
+  prefLinkDropBoxSummary: "Связать приложение с вашей учетной записью Dropbox™"
+  prefLinkDropBoxTitle: "Связать с  Dropbox™"
+  prefLogSummary: v%1$s
+  prefLogTitle: "Журнал изменений"
+  prefRate: "Оценить Счет-фактура простой"
+  prefRestoreSummary: "Восстановить базу данных с SD-карты, Google™ Диска или из Dropbox™"
+  prefRestoreTitle: "Восстановить базу данных"
+  prefTitleDate: "Формат даты"
+  prefUnlinkDropBoxSummary: "Разорвать связь приложения с вашей учетной записью Dropbox™"
+  prefUnlinkDropBoxTitle: "Разорвать связь с Dropbox™"
+  progressPreparing: "Подготовка..."
+  progress_checking: 
+  progress_exporting: "Экспорт..."
+  progress_generate_pdf: "Создается PDF..."
+  progress_loading: "Загрузка"
+  progress_resetting: "Сброс"
+  progress_validate_email: 
+  pt_BR: Português
+  purchase_appeal_message: "Покупка программы Счет-фактура простой позволяет добавлять
+    новые функции и предоставлять бесплатную поддержку."
+  purchase_choose_plan: "Выберите план"
+  purchase_message_unlock: "Выберите опцию ниже, чтобы разблокировать Счет-фактура
+    простой."
+  purchase_monthly_desc: "Оплачивайте подписку ежемесячно для разблокировки неограниченных
+    счетов-фактур. Вы сможете отменить это в любой момент."
+  purchase_monthly_fmt: "Ежемесячно (%s)"
+  purchase_notready: "Не готов купить еще?"
+  purchase_plan_enterprise: "Предприятие"
+  purchase_plan_enterprise_desc1: "Неограниченное счетов-фактур и клиенты"
+  purchase_plan_enterprise_desc2: "Синхронизация нескольких устройств"
+  purchase_plan_enterprise_desc3: "Несколько пользователей"
+  purchase_plan_pro: "За"
+  purchase_plan_pro_desc: Ubegrenset fakturaer og kunder
+  purchase_plan_starter: "Основной"
+  purchase_plan_starter_desc: "До 100 счетов-фактур и 50 клиентов в год"
+  purchase_reset_connection: "Сброс соединения"
+  purchase_support: "Поддержка"
+  purchase_text_monthly: "Ежемесячно"
+  purchase_text_yearly: "Ежегодно"
+  purchase_thanks: "Спасибо за покупку Счет-фактура простой!"
+  purchase_upgrade_title: "Обновление, чтобы сделать больше счета!"
+  purchase_yearly_desc: "Платите раз в год и получайте скидку, в сравнении с ежемесячной
+    оплатой"
+  purchase_yearly_lbl: "Ежегодно (%s)"
+  rating_message_thanks: "Спасибо за оценку Счет-фактура простой. Как бы вы хотели
+    улучшить программу?"
+  ru: 
+  sameDay: "Подлежит получению через"
+  section_bank_transfer: "Банковский перевод"
+  section_business: "Компания"
+  section_business_address: "Деловой адрес"
+  section_checks: "Сделать чеки пригодными к оплате для"
+  section_header_payment_options: "Варианты оплаты"
+  section_paypal_address: "Адрес PayPal"
+  setting_online_invoice_payment: 
+  setup_payments_cost_msg: 
+  setup_payments_enable_msg: 
+  setup_payments_features_msg: 
+  sk: 
+  sms_chooser_always: "всегда"
+  sms_chooser_title: "послать"
+  sms_dialog_title: "Какое число?"
+  sms_error_default: "Извините, не могу найти свой SMS- приложения по умолчанию"
+  summaryContactInfo1: "Введите контактные данные вашей компании; необязательно заполнять
+    все поля."
+  summaryContactInfo2: "Эта информация используется для отображения ваших контактных
+    данных в счетах-фактурах. Счет-фактура простой не собирает эту информацию в маркетинговых
+    целях."
+  summaryQtyRate: "Показать столбцы количества, стоимости и суммы в счете-фактуре."
+  survey_business_type: 
+  survey_customer_type: 
+  survey_intro: 
+  survey_invoices_monthly: 
+  survey_payment_method1: 
+  survey_payment_method2: 
+  survey_receiving_payments: 
+  survey_years_business: 
+  sv: 
+  sync_desc: 
+  tabHistory: "формуляр"
+  tabPayment: 
+  tab_closed: "Закрыто"
+  tab_contact: "Контакт"
+  tab_general: "Общее"
+  tab_logo: "Логотип"
+  tab_open: "Открыть"
+  tab_paid: "Оплачено"
+  tab_recent: "Последнее"
+  tab_unpaid: "Неоплачено"
+  taxDeducted: "налог, удержанный"
+  terms_custom: "Обычай"
+  textAddItem: "Добавить продукт"
+  textAmount: "Сумма"
+  textBalanceDue: "Сумма к оплате"
+  textBuy: "Купить полную версию"
+  textClient: "Клиент"
+  textComments: "Примечания"
+  textConnected: 
+  textDate: "Дата"
+  textDatePaid: "Дата  платежа"
+  textDeleteClientMsg: "Вы уверены, что хотите удалить этого клиента?"
+  textDeleteClientTitle: "Удалить клиента"
+  textDeleteEstimateMsg: "Вы уверены, что хотите удалить эту смету?"
+  textDeleteEstimateTitle: "Удалить смету"
+  textDeleteInvoiceMsg: "Вы уверены, что хотите удалить этот счет-фактуру?"
+  textDeleteInvoiceTitle: "Удалить счет-фактуру"
+  textDeleteItemMsg: "Вы уверены, что хотите удалить эту позицию из счета-фактуры?"
+  textDeleteItemTitle: "Удалить позицию"
+  textDeleteProductMsg: "Вы уверены, что хотите удалить этот продукт?"
+  textDeleteProductTitle: "Удалить продукт"
+  textDescription: "Примечания"
+  textDiscount: "Скидка"
+  textDiscountPer: "Скидка, %"
+  textDue: "Подлежит оплате"
+  textDueToday: "Из-за сегодня"
+  textFob: "Франко-борт"
+  textFullyPaid: "Полностью оплачено"
+  textInclusiveOption: "Включение на выбор"
+  textInvoice: "№ счета-фактуры"
+  textItemCode: "Описание"
+  textLabel: "Этикетка"
+  textNotificationDropped: 
+  textNotificationOpen: "Счет-фактура открыт"
+  textOnlinePayment: 
+  textOverdue: "Просроченный"
+  textPaid: "Оплачено"
+  textPartPayment: "Частичная оплата"
+  textPoNumber: 
+  textPurchaseStatus: 
+  textQuantity: "Количество"
+  textRate: "Стоимость единицы"
+  textSelectItem: "Выберите продукт"
+  textSetContact: "Контакт"
+  textSetCurrency: "Валюта"
+  textSetDefaultSMSApp: "По умолчанию SMS приложение"
+  textSetDetails: "Подробности"
+  textSetDiscount: "Скидка"
+  textSetEmail: "Адрес эл. почты"
+  textSetFax: "Факс"
+  textSetInvoiceComment: "Комментарий к счету-фактуре"
+  textSetInvoiceFully: "Счет-фактура полностью оплачен"
+  textSetMobile: "Моб. телефон"
+  textSetOptions: "Опции поля"
+  textSetPhone: "Телефон"
+  textSetRename: "Переименовать поля"
+  textSetSetLogo: "Логотип"
+  textSetTaxType: "Тип налога"
+  textSetTerms: "Условия"
+  textSetup: 
+  textSetupOnlinePayments: 
+  textSetWeb: "Сайт"
+  textShipDate: "Дата отправки"
+  textShipping: "Партия"
+  textShipVia: "Отгрузка через"
+  textSubtotal: "Промежуточный итог"
+  textSummaryAbout: "О приложении"
+  textSummaryCompany: "Компания"
+  textSummaryDefault: "По умолчанию"
+  textSummaryInvoice: "Счет-фактура"
+  textSummaryLocale: "место действия"
+  textSummaryNotifications: "Уведомления"
+  textSummaryTaxes: "Налоги"
+  textTax: "Налог"
+  textTax1: "Налог"
+  textTax1Summary: "Изменить название налога и % to для счетов-фактур."
+  textTaxable: "Облагаемый налогом"
+  textTaxInclusive: "Включая налоги"
+  textTaxInclusiveSetting: "Включая налог"
+  textTaxInclusiveSummary: "Укажите, указана ли общая сумма с учетом/без учета налога."
+  textTaxRate: "Налоговая ставка"
+  textTaxSetting: "Налог"
+  textTaxSummary: "Проверьте, приведены ли цены с учетом налога"
+  textTaxSummarySelect: "Снимите флажок, если цены не включают в себя налог."
+  textTerms: "Условия"
+  textTotal: "Итого"
+  textTracking: "№ для отслеживания местонахождения груза"
+  textType: "Тип"
+  text_address: "Адрес"
+  text_bank_transfer: "Банковский перевод"
+  text_billing_address1: "Строка 1"
+  text_billing_address2: "Строка 2"
+  text_billing_address3: "Строка 3"
+  text_billing_email: "Адрес эл. почты"
+  text_billing_name: "Имя"
+  text_check: "Проверить"
+  text_contact: "Контакт"
+  text_currency: "Валюта"
+  text_export: "Экспорт"
+  text_fax: "Факс"
+  text_hint_percentage: 0 %
+  text_hint_shipping_name: "Имя и фамилия"
+  text_import_contact: "Импорт контактов"
+  text_install: 
+  text_mobile: "Мобильный"
+  text_other: "Другое"
+  text_paypal: PayPal
+  text_phone: "Телефон"
+  text_setup_logo: "При необходимости разместить логотип на каждом счете-фактуре"
+  text_short_ago: "тому назад"
+  text_summary_billing: "Адрес"
+  text_summary_shipping: "Адрес доставки"
+  text_sync: 
+  text_to: "Для"
+  text_website: "Сайт"
+  titleCompany: "Информация о компании"
+  titleContactInformation: "Контактные данные компании"
+  titleDatabase: "Резервная копия"
+  titleEditClient: "Редактировать данные клиента"
+  titleEditItem: "Редактировать продукт"
+  titleEmail: "Отправить счет-фактуру по эл. почте"
+  titleEmailEstimate: "Отправить смету по эл. почте"
+  titleEstimateInfo: "Информация о смете"
+  titleFullyPaid: "Счет-фактура полностью оплачен"
+  titleInvoiceComment: "Комментарий к счету-фактуре"
+  titleInvoiceInfo: "Информация о счете-фактуре"
+  titleInvoiceOption: "Выберите счет-фактуру"
+  titleNewClient: "Новый клиент"
+  titleNewItem: "Новый продукт"
+  titleOnlinePayments: 
+  titlePaymentInfo: "Информация об оплате"
+  titleRestoreDBFail: 
+  titleSelectCurrency: "Выберите валюту"
+  titleSelectDiscount: "Выберите вариант скидки"
+  titleSelectTax: "Выберите тип налога"
+  titleSelectTerms: "Выберите условия"
+  titleSetting: "Настройки"
+  titleSetupEditItem: "Редактировать позицию"
+  titleSetupNewItem: "Добавить позицию"
+  titleShippingInfo: "Информация о партии"
+  titleTax1: "Налог"
+  titleTaxInclusive: "Включать налог"
+  titleTaxInclusiveOption: "Включать налог"
+  titleTaxRate: "Налоговая ставка"
+  titleYourLogo: "Логотип компании"
+  title_edit_estimate: "Редактировать оценку"
+  title_edit_invoice: "Редактировать счет-фактуру"
+  title_export_to: "Экспортировать в"
+  title_purchase: "Требуется покупка"
+  toast_pdf_comment_error: "Невозможно добавить заметки в PDF-файл"
+  toast_setup_payments_error: 
+  toggle_mk_product: "Сохранить как продукта"
+  totalTax: "Общая сумма налога"
+  tour_invoices_add: "Нажмите, чтобы создать счет"
+  tour_invoice_add_item: "Добавление элементов в ваш счет здесь"
+  tour_invoice_business_details: "Изменить название компании, логотип, и т.д."
+  tour_invoice_discount_taxes_paid: "Нажмите, чтобы изменить скидки , налоги и\\n
+    пометить инвойс, оплаченный"
+  tour_invoice_preview_zoom: "Вы можете пинча для увеличения"
+  tr: 
+  tw: "\\n中文(繁體)"
+  validation_email: "Неверный адрес электронной почты"
+  validation_invalid_email: 
+  validation_paypal_email: "Введите действительный адрес электронной почты для PayPal"
+  validation_send_email: "Введите действительный адрес электронной почты, чтобы отправить
+    это письмо"
