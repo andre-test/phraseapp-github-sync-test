@@ -1,5 +1,11 @@
----
-de:
-  duplicate: dup
-  push: test
-  testkey: another test
+{
+  "duplicate": {
+    "message": "dup"
+  },
+  "push": {
+    "message": "test"
+  },
+  "testkey": {
+    "message": "another test"
+  }
+}
