@@ -1,30 +1,5 @@
 ---
 de:
-  date:
-    abbr_day_names:
-    - So
-    - Mo
-    - Di
-    - Mi
-    - Do
-    - Fr
-    - Sa
-    abbr_month_names:
-    - 
-    - Jan
-    - Feb
-    - Mär
-    - Apr
-    - Mai
-    - Jun
-    - Jul
-    - Aug
-    - Sep
-    - Okt
-    - Nov
-    - Dez
   duplicate: dup
   push: test
   testkey: another test
-  "\uFEFFdate":
-    abbr_day_names: "---\\n- So\\n- Mo\\n- Di\\n- Mi\\n- Do\\n- Fr\\n- Sa\\n"
