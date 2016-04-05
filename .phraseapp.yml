@@ -10,6 +10,6 @@ phraseapp:
     targets:
     - file: ./locales/foo/<locale_name>_prc.json
       params:
-        file_format: yml
+        file_format: json
         tag: foo
 
