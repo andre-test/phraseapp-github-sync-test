@@ -1,5 +1,5 @@
 phraseapp:
-  project_id: f570afb6c855f5724f2f5186d4992deb
+  project_id: fe71bb60c82d5f2716fe8d3249c21b8d
   push:
     sources:
     - file: ./locales/<tag>/de_prc.json
