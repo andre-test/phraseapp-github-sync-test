@@ -2,12 +2,14 @@ phraseapp:
   project_id: f570afb6c855f5724f2f5186d4992deb
   push:
     sources:
-    - file: ./locales/<locale_name>.yml
+    - file: ./locales/<tag>/de_prc.json
       params:
-        file_format: yml
+        file_format: json
+        locale_id: f6e3bb2d920b0f13db9f362104756c81
   pull:
     targets:
-    - file: ./locales/<locale_name>.yml
+    - file: ./locales/foo/<locale_name>_prc.json
       params:
         file_format: yml
+        tag: foo
 
