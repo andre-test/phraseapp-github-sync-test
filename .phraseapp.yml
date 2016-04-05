@@ -2,11 +2,11 @@ phraseapp:
   project_id: fe71bb60c82d5f2716fe8d3249c21b8d
   push:
     sources:
-    - file: ./locales/foo/de_prc.json
+    - file: ./locales/<tag>/de_prc.json
       params:
         file_format: json
         locale_id: f6e3bb2d920b0f13db9f362104756c81
-        tags: foo
+        update_translations: true
   pull:
     targets:
     - file: ./locales/foo/<locale_name>_prc.json
