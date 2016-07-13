@@ -1,16 +1,14 @@
 phraseapp:
-  project_id: fe71bb60c82d5f2716fe8d3249c21b8d
+  project_id: 5ddb7ff823e476bcc95853e91e63e15d
   push:
     sources:
-    - file: ./locales/<tag>/de_prc.json
+    - file: ./locales/de.json
       params:
         file_format: json
-        locale_id: f6e3bb2d920b0f13db9f362104756c81
-        update_translations: true
+        locale_id: 8359beb77721e56dfe45117bd38605f9
   pull:
     targets:
-    - file: ./locales/foo/<locale_name>_prc.json
+    - file: ./locales/<locale_name>.json
       params:
         file_format: json
-        tag: foo
 
