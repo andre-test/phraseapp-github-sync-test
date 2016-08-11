@@ -1,0 +1,26 @@
+{
+  "app_name": {
+    "message": "Nombre de la prueba"
+  },
+  "hello_world": {
+    "message": "Hola %s!"
+  },
+  "new_friends.one": {
+    "message": "Tienes un nuevo amigo"
+  },
+  "new_friends.other": {
+    "message": "Usted tiene %d nuevos amigos"
+  },
+  "new_friends.zero": {
+    "message": "No tiene nuevos amigos"
+  },
+  "points_gained": {
+    "message": "Has ganado% d puntos!"
+  },
+  "with_html": {
+    "message": "&lt;h1&gt;HTMLEscape&lt;/h1&gt;&lt;p&gt;Escapes o caracteres de escape de un archivo HTML eliminar los rastros de caracteres problemáticos que podría interpretarse erróneamente como margen de beneficio.&lt;/p&gt;"
+  },
+  "with_linebreak": {
+    "message": "se trata de un texto con \nsaltos de línea <nueva línea>"
+  }
+}
