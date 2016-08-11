@@ -1,0 +1,11 @@
+{
+  "hello_world": {
+    "message": "Cabron %s, que pasa "
+  },
+  "points_gained": {
+    "message": "mexican Has ganado %d puntos!"
+  },
+  "with_linebreak": {
+    "message": "mexican se trata de un texto \ncon saltos de línea <nueva línea>"
+  }
+}
