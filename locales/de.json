@@ -1,41 +1,26 @@
 {
-  "general.back": {
-    "message": "zurück"
+  "app_name": {
+    "message": "Test Name"
   },
-  "general.cancel": {
-    "message": "abbrechen"
+  "hello_world": {
+    "message": "Hallo %s!"
   },
-  "general.confirm": {
-    "message": "Bist du sicher?"
+  "new_friends.one": {
+    "message": "Sie haben einen neuen Freund"
   },
-  "general.destroy": {
-    "message": "Löschen"
+  "new_friends.other": {
+    "message": "Sie haben %d neue Freunde"
   },
-  "general.edit": {
-    "message": "Bearbeiten"
+  "new_friends.zero": {
+    "message": "Du hast keine neuen Freunde"
   },
-  "general.new": {
-    "message": "Neu"
+  "points_gained": {
+    "message": "Sie haben %d Punkte gewonnen!"
   },
-  "hello": {
-    "message": "Hallo Welt"
+  "with_html": {
+    "message": "&lt;h1&gt; HTML Flucht &lt;/h1&gt;&lt;p&gt; Escapes oder demaskiert eine HTML-Datei Spuren zu beleidigen Zeichen zu entfernen, die zu Unrecht als Markup interpretiert werden könnte. &lt;/p&gt;"
   },
-  "layouts.application.about": {
-    "message": "Über"
-  },
-  "layouts.application.account": {
-    "message": "Konto"
-  },
-  "layouts.application.app_store": {
-    "message": "App Store"
-  },
-  "layouts.application.imprint": {
-    "message": "Impressum"
-  },
-  "layouts.application.logout": {
-    "message": "Abmelden"
-  },
-  "layouts.application.my_mails": {
-    "message": "Meine Mails"
+  "with_linebreak": {
+    "message": "Dies ist ein Text mit \n Zeilenumbrüchen"
   }
 }
