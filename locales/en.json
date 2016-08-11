@@ -1,56 +1,26 @@
 {
-  "general.back": {
-    "message": "Back"
+  "app_name": {
+    "message": "Test Name"
   },
-  "general.cancel": {
-    "message": "Cancel"
+  "hello_world": {
+    "message": "Hello %s!"
   },
-  "general.confirm": {
-    "message": "Are you sure?"
+  "new_friends.one": {
+    "message": "You have a new friend"
   },
-  "general.destroy": {
-    "message": "Delete"
+  "new_friends.other": {
+    "message": "You have %d new friends"
   },
-  "general.edit": {
-    "message": "Edit"
+  "new_friends.zero": {
+    "message": "You have no new friends"
   },
-  "general.new": {
-    "message": "New"
+  "points_gained": {
+    "message": "You have gained %d points!"
   },
-  "hello": {
-    "message": "Hello world"
+  "with_html": {
+    "message": "&lt;h1&gt;HTML Escape&lt;/h1&gt;&lt;p&gt;Escapes or unescapes an HTML file removing traces of offending characters that could be wrongfully interpreted as markup.&lt;/p&gt;"
   },
-  "layouts.application.about": {
-    "message": "About"
-  },
-  "layouts.application.account": {
-    "message": "Account"
-  },
-  "layouts.application.app_store": {
-    "message": "App Store"
-  },
-  "layouts.application.imprint": {
-    "message": "Imprint"
-  },
-  "layouts.application.logout": {
-    "message": "Logout"
-  },
-  "layouts.application.my_mails": {
-    "message": "My Mails"
-  },
-  "layouts.application.press": {
-    "message": "Press"
-  },
-  "layouts.application.preview": {
-    "message": "Preview"
-  },
-  "layouts.application.profile": {
-    "message": "Profile"
-  },
-  "layouts.application.sign_in": {
-    "message": "Login"
-  },
-  "layouts.application.sign_up": {
-    "message": "Register"
+  "with_linebreak": {
+    "message": "this is a text with \nlinebreaks"
   }
 }
