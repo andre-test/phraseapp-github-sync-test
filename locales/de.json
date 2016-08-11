@@ -1,0 +1,26 @@
+{
+  "app_name": {
+    "message": "Test Name"
+  },
+  "hello_world": {
+    "message": "Hallo %s!"
+  },
+  "new_friends.one": {
+    "message": "Sie haben einen neuen Freund"
+  },
+  "new_friends.other": {
+    "message": "Sie haben %d neue Freunde"
+  },
+  "new_friends.zero": {
+    "message": "Du hast keine neuen Freunde"
+  },
+  "points_gained": {
+    "message": "Sie haben %d Punkte gewonnen!"
+  },
+  "with_html": {
+    "message": "&lt;h1&gt; HTML Flucht &lt;/h1&gt;&lt;p&gt; Escapes oder demaskiert eine HTML-Datei Spuren zu beleidigen Zeichen zu entfernen, die zu Unrecht als Markup interpretiert werden könnte. &lt;/p&gt;"
+  },
+  "with_linebreak": {
+    "message": "Dies ist ein Text mit \n Zeilenumbrüchen"
+  }
+}
